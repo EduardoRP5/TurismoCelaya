@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Celaya Verde - Turismo Sostenible</title>
+    
+    <!-- Fuentes de Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Grand+Hotel&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    
+    <!-- Hoja de estilos -->
+    <link rel="stylesheet" href="./css/style.css">
+    
+    <!-- API de Google Maps -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB3oac3YupmR5BQJR-kFG6AyVRCkEhl9SM&callback=inicializarMapas" async defer></script>
+    
+    <!-- Font Awesome (Iconos) -->
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    
+    <!-- JavaScript -->
+    <script src="./js/script.js" defer></script>
+</head>
+
+<body>
+    <!-- HEADER -->
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <span class="logo">Celaya Verde</span>
+                <nav>
+                    <ul>
+                        <li><a href="#inicio">Inicio</a></li>
+                        <li><a href="#rutas">Rutas</a></li>
+                        <li><a href="#contacto">Contacto</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    
+    <!-- HERO SECTION -->
+    <section class="hero" id="inicio">
+        <div class="container">
+            <h1>Descubre Celaya de Manera Sostenible</h1>
+            <p>Conectamos turistas con la riqueza cultural y natural de Celaya, promoviendo prácticas responsables.</p>
+            <a href="#rutas" class="btn">Explora Rutas</a>
+        </div>
+    </section>
+    
+    <!-- CELAYA EN NÚMEROS -->
+    <section class="stats">
+        <div class="container">
+            <h2 style="text-align: center; margin-bottom: 2rem;">Celaya en Números</h2>
+            <div class="stats-container">
+                <div class="stat-item">
+                    <div class="stat-number">500K</div>
+                    <p>Visitantes anuales</p>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">15%</div>
+                    <p>Negocios eco-certificados</p>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">1.2kg</div>
+                    <p>Residuos por turista/día</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- SECCIÓN DE RUTAS -->
+    <section class="rutas" id="rutas">
+        <div class="container">
+            <h2 style="text-align: center; margin-bottom: 2rem;">Rutas Turísticas en Celaya</h2>
+            <div class="rutas-grid">
+                <!-- Ruta Gastronómica -->
+                <div class="ruta-card">
+                    <div class="ruta-img" style="background-image: url('https://programadestinosmexico.com/wp-content/uploads/2023/08/Receta-de-la-Cajeta.jpg');"></div>
+                    <div class="ruta-content">
+                        <h3>Ruta Gastronómica</h3>
+                        <p>Degusta la comida mejor valorada de Celaya.</p>
+                        <button onclick="toggleMap('mapa-gastronomica')" class="btn" style="background-color: var(--azul); margin: 0.5rem 0;">
+                            Ver Mapa
+                        </button>
+                        <div id="mapa-gastronomica" class="mapa-ruta" style="display: none;"></div>
+                    </div>
+                </div>
+                
+                <!-- Ruta Histórica -->
+                <div class="ruta-card">
+                    <div class="ruta-img" style="background-image: url('https://i.pinimg.com/1200x/4e/4f/59/4e4f5920a2fee8d893dc82bd3abc666e.jpg');"></div>
+                    <div class="ruta-content">
+                        <h3>Ruta Histórica</h3>
+                        <p>Explora los edificios emblemáticos del centro.</p>
+                        <button onclick="toggleMap('mapa-historica')" class="btn" style="background-color: var(--azul); margin: 0.5rem 0;">
+                            Ver Mapa
+                        </button>
+                        <div id="mapa-historica" class="mapa-ruta" style="display: none;"></div>
+                    </div>
+                </div>
+                
+                <!-- Ruta Natural -->
+                <div class="ruta-card">
+                    <div class="ruta-img" style="background-image: url('https://turismocelaya.com/wp-content/uploads/2021/07/MG_2677-1-scaled.jpg');"></div>
+                    <div class="ruta-content">
+                        <h3>Ruta Natural</h3>
+                        <p>Conecta con áreas verdes y prácticas ecológicas.</p>
+                        <button onclick="toggleMap('mapa-natural')" class="btn" style="background-color: var(--azul); margin: 0.5rem 0;">
+                            Ver Mapa
+                        </button>
+                        <div id="mapa-natural" class="mapa-ruta" style="display: none;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- SECCIÓN DE COMENTARIOS -->
+    <section class="comentarios" id="comentarios" style="padding: 4rem 0; background-color: #fff;">
+        <div class="container">
+            <h2 style="text-align: center; margin-bottom: 2rem;">Opiniones de Visitantes</h2>
+            
+            <!-- Formulario para nuevos comentarios -->
+            <div class="form-comentario" style="max-width: 600px; margin: 0 auto 3rem auto;">
+                <h3 style="margin-bottom: 1rem;">Deja tu comentario</h3>
+                <form id="formOpinion">
+                    <div style="margin-bottom: 1rem;">
+                        <label for="nombre" style="display: block; margin-bottom: 0.5rem;">Nombre:</label>
+                        <input type="text" id="nombre" required style="width: 100%; padding: 0.8rem; border: 1px solid #ddd; border-radius: 5px;">
+                    </div>
+                    <div style="margin-bottom: 1rem;">
+                        <label for="comentario" style="display: block; margin-bottom: 0.5rem;">Comentario:</label>
+                        <textarea id="comentario" rows="4" required style="width: 100%; padding: 0.8rem; border: 1px solid #ddd; border-radius: 5px;"></textarea>
+                    </div>
+                    <button type="submit" class="btn" style="background-color: var(--azul);">Publicar</button>
+                </form>
+            </div>
+            
+            <!-- Lista de comentarios -->
+            <div class="lista-comentarios" id="listaComentarios" style="max-width: 800px; margin: 0 auto;">
+                <!-- Los comentarios se cargarán aquí con JavaScript -->
+            </div>
+        </div>
+    </section>
+    
+    <!-- FOOTER -->
+    <footer id="contacto">
+        <div class="container">
+            <h3>Celaya Verde</h3>
+            <p>Promoviendo el turismo sostenible en Guanajuato</p>
+            <div class="social-links">
+                <a href="#"><i class="fab fa-facebook"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+            </div>
+            <p style="margin-top: 2rem;">Vinculado a los <a href="#" style="color: var(--verde);">Objetivos de Desarrollo Sostenible (ONU)</a></p>
+        </div>
+    </footer>
+</body>
+</html>
