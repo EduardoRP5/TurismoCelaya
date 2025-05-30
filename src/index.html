@@ -34,6 +34,7 @@
                         <li><a href="#inicio">Inicio</a></li>
                         <li><a href="#rutas">Rutas</a></li>
                         <li><a href="#contacto">Contacto</a></li>
+                        <li><a href="dashboard.html">Dashboard</a></li>
                     </ul>
                 </nav>
             </div>
@@ -81,10 +82,11 @@
                     <div class="ruta-content">
                         <h3>Ruta Gastronómica</h3>
                         <p>Degusta la comida mejor valorada de Celaya.</p>
-                        <button onclick="toggleMap('mapa-gastronomica')" class="btn" style="background-color: var(--azul); margin: 0.5rem 0;">
-                            Ver Mapa
-                        </button>
-                        <div id="mapa-gastronomica" class="mapa-ruta" style="display: none;"></div>
+                        <button onclick="toggleMap('mapa-gastronomica')" class="btn" style="background-color: var(--azul); margin: 0.5rem 0;"> Ver Mapa </button>
+                        <!--Link a la pagina de restaurantes -->
+                        <a href="restaurantes.html" class="btn btn-restaurantes">Top Restaurantes</a>
+
+                        <div id="mapa-gastronomica" class="mapa-ruta" style="display: none;"></div> 
                     </div>
                 </div>
                 
@@ -97,6 +99,10 @@
                         <button onclick="toggleMap('mapa-historica')" class="btn" style="background-color: var(--azul); margin: 0.5rem 0;">
                             Ver Mapa
                         </button>
+
+                        <!--Link a la pagina de Historicos -->
+                        <a href="Historicos.html" class="btn btn-historicos">Top Lugares Historicos.</a>
+
                         <div id="mapa-historica" class="mapa-ruta" style="display: none;"></div>
                     </div>
                 </div>
@@ -110,6 +116,10 @@
                         <button onclick="toggleMap('mapa-natural')" class="btn" style="background-color: var(--azul); margin: 0.5rem 0;">
                             Ver Mapa
                         </button>
+                        
+                        <!--Link a la pagina de RutaNatural -->
+                        <a href="RutaNatural.html" class="btn btn-Natural">Top Lugares verdes.</a>
+
                         <div id="mapa-natural" class="mapa-ruta" style="display: none;"></div>
                     </div>
                 </div>
@@ -160,3 +170,5 @@
     </footer>
 </body>
 </html>
+
+<script type="module" src="/js/restaurantes.js"></script>

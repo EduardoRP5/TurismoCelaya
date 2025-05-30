@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Top Restaurantes - Celaya Verde</title>
+  <link rel="stylesheet" href="./css/style.css">
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    .restaurantes-container {
+      display: flex;
+      min-height: 100vh;
+    }
+    .restaurantes-list {
+      width: 40%;
+      padding: 2rem;
+      background: var(--beige);
+      overflow-y: auto;
+    }
+    .mapa-container {
+      width: 60%;
+      height: 100vh;
+      position: sticky;
+      top: 0;
+    }
+    @media (max-width: 768px) {
+      .restaurantes-container { flex-direction: column; }
+      .restaurantes-list, .mapa-container { width: 100%; }
+      .mapa-container { height: 50vh; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <!-- Mismo header que index.html -->
+    <a href="index.html" class="btn">Volver</a>
+  </header>
+
+  <main class="restaurantes-container">
+    <!-- Lado Izquierdo - Lista -->
+    <div class="restaurantes-list" id="restaurantes-lista">
+      <h2>Top 5 Restaurantes en Celaya</h2>
+      <div id="lista-restaurantes"></div>
+    </div>
+    
+    <!-- Lado Derecho - Mapa -->
+    <div id="mapa-restaurantes" class="mapa-container"></div>
+  </main>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <!-- Nuestro JS -->
+  <script src="./js/restaurantes.js"></script>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+</body>
+</html>

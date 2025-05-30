@@ -218,3 +218,48 @@ footer {
         gap: 1rem;
     }
 }
+
+/*Estilos restaurantes*/
+/* Botones */
+.btn-restaurantes {
+  background-color: var(--azul) !important;
+  margin-left: 10px;
+}
+
+/* Tarjetas de restaurantes */
+.restaurante-card {
+  background: white;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.restaurante-card h3 {
+  color: var(--verde);
+  margin-bottom: 0.5rem;
+}
+
+.rating {
+  color: #FFD700;
+  font-weight: bold;
+}
+
+.direccion {
+  color: #666;
+  margin: 0.5rem 0;
+}
+
+.btn-ver-mapa {
+  background: var(--verde);
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.btn-ver-mapa:hover {
+  background: #2a5d34;
+}

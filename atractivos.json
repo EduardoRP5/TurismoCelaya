@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Templo del Carmen",
+    "descripcion": "Dentro del templo puede admirarse la obra pictórica del propio Tresguerras."
+  },
+  {
+    "nombre": "Convento de San Francisco",
+    "descripcion": "Interior con estilo barroco del siglo XVII. La fachada del claustro es de estilo plateresco."
+  },
+  {
+    "nombre": "Templo de San Francisco",
+    "descripcion": "El actual templo data de 1683. La fachada es de estilo neoclásico."
+  },
+  {
+    "nombre": "Claustro Agustino",
+    "descripcion": "Construcción en cantera que data de principios del siglo XVII. Fue cárcel municipal hasta 1961. Actualmente es la Casa de la Cultura."
+  },
+  {
+    "nombre": "Templo de San Agustín",
+    "descripcion": "Construcción de 1609, de estilo plateresco con reminiscencia morisca."
+  },
+  {
+    "nombre": "Mausoleo de Tresguerras",
+    "descripcion": "Bella capilla de estilo barroco que guarda los restos del arquitecto Francisco Eduardo Tresguerras."
+  },
+  {
+    "nombre": "Museo de la Momia",
+    "descripcion": "Expone de manera permanente 22 cuerpos momificados. Su museografía incluye explicación del proceso de momificación. También se pueden realizar recorridos por los monumentos y tumbas del cementerio."
+  }
+]

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Top Lugares Históricos - Celaya Verde</title>
+  <link rel="stylesheet" href="./css/style.css">
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    .historicos-container {
+      display: flex;
+      min-height: 100vh;
+    }
+    .item-historico {
+      margin-bottom: 1.5rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid #ccc;
+    }
+    .historicos-list {
+      width: 40%;
+      padding: 2rem;
+      background: var(--beige);
+      overflow-y: auto;
+    }
+    .mapa-container {
+      width: 60%;
+      height: 100vh;
+      position: sticky;
+      top: 0;
+    }
+    @media (max-width: 768px) {
+      .historicos-container { flex-direction: column; }
+      .historicos-list, .mapa-container { width: 100%; }
+      .mapa-container { height: 50vh; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="index.html" class="btn">Volver</a>
+  </header>
+
+  <main class="historicos-container">
+    <!-- Lado Izquierdo - Lista -->
+    <div class="historicos-list" id="historicos-lista">
+      <h2>Top 5 Lugares Históricos en Celaya</h2>
+      <div id="lista-historicos"></div>
+    </div>
+
+    <!-- Lado Derecho - Mapa -->
+    <div id="mapa-historicos" class="mapa-container"></div>
+  </main>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <!-- Script de funcionalidad -->
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      const lista = document.getElementById('lista-historicos');
+
+      // Coordenadas manuales por nombre normalizado (sin tildes y en minúsculas)
+      const coordenadasHistoricos = {
+        "templo del carmen": [20.5200, -100.8160],
+        "convento de san francisco": [20.5246, -100.8131],
+        "claustro agustino": [20.5251, -100.8161],
+        "bola de agua": [20.5218, -100.8162],
+        "templo de san francisco": [20.5245, -100.8130],
+        "templo de san agustin": [20.5252, -100.8163]
+      };
+
+      // Inicializar el mapa centrado en Celaya
+      const mapa = L.map('mapa-historicos').setView([20.5233, -100.8149], 14);
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; OpenStreetMap contributors'
+      }).addTo(mapa);
+
+      try {
+        const res = await fetch('http://localhost:3000/api/atractivos');
+        const datos = await res.json();
+
+        datos.forEach(item => {
+          // Mostrar en la lista
+          const contenedor = document.createElement('div');
+          contenedor.classList.add('item-historico');
+          contenedor.innerHTML = `
+            <h3>${item.nombre}</h3>
+            <p>${item.descripcion}</p>
+          `;
+          lista.appendChild(contenedor);
+
+          // Normalizar nombre y buscar coordenadas
+          const nombreNormalizado = item.nombre.normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "")
+            .toLowerCase()
+            .trim();
+
+          const coords = coordenadasHistoricos[nombreNormalizado];
+          if (coords) {
+            L.marker(coords).addTo(mapa)
+              .bindPopup(`<strong>${item.nombre}</strong><br>${item.descripcion}`);
+          } else {
+            console.warn(`⚠️ Coordenadas no encontradas para: "${nombreNormalizado}"`);
+          }
+        });
+      } catch (error) {
+        console.error('❌ Error al obtener datos:', error);
+        lista.innerHTML = `<p>Error al cargar lugares históricos.</p>`;
+      }
+    });
+  </script>
+</body>
+</html>
