@@ -1,0 +1,437 @@
+[
+  {
+    "nombre": "Museum of Mummies Celaya",
+    "calificacion": 4.4,
+    "descripcion": "museum, tourist_attraction, point_of_interest, establishment",
+    "lat": 20.53318119999999,
+    "lng": -100.8196133,
+    "reviews": [
+      {
+        "text": "Interesting musem. Kinds cool but creepy. Maybe bring kids that are older?",
+        "rating": 3
+      },
+      {
+        "text": "Very small but well displayed museum of mummies in Celaya Gto.",
+        "rating": 4
+      },
+      {
+        "text": "Not going to lie, I thought it would be bigger. The museum is composed of two rooms, but the mummies are really cool to see.",
+        "rating": 3
+      },
+      {
+        "text": "An unusual, but very interesting museum.",
+        "rating": 5
+      },
+      {
+        "text": "Small but so cool!!",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "valvulas y medidores el rosario",
+    "calificacion": 4.3,
+    "descripcion": "museum, point_of_interest, establishment",
+    "lat": 20.5482081,
+    "lng": -100.8032904,
+    "reviews": [
+      {
+        "text": "Excellent service and assortment for those who need industrial irrigation equipment.",
+        "rating": 5
+      },
+      {
+        "text": "Excellent service and quality material.",
+        "rating": 5
+      },
+      {
+        "text": "Excellent service, very efficient and responsible",
+        "rating": 5
+      },
+      {
+        "text": "Excellent materials for irrigation...",
+        "rating": 4
+      },
+      {
+        "text": "Quick and effective attention.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Regional History Museum Celaya",
+    "calificacion": 4.4,
+    "descripcion": "museum, tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5216523,
+    "lng": -100.8125764,
+    "reviews": [
+      {
+        "text": "Awesome experience, lots of history, for it begin a small  museum.",
+        "rating": 5
+      },
+      {
+        "text": "The place describes the heritage and history of Celaya Gto. It shows the important people that make Celaya the City is now. It's a must if you want to walk for a bit.",
+        "rating": 4
+      },
+      {
+        "text": "A must if you want to know the history of the region, bit bring your large spectacles cause some of the text have very little font and are on weird angles to read",
+        "rating": 4
+      },
+      {
+        "text": "Great local history!",
+        "rating": 5
+      },
+      {
+        "text": "Difficult to park aroud",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Museo de Arte Octavio Ocampo",
+    "calificacion": 4.8,
+    "descripcion": "museum, tourist_attraction, point_of_interest, establishment",
+    "lat": 20.523141,
+    "lng": -100.8134806,
+    "reviews": [
+      {
+        "text": "This museum is made up of 10 rooms that exhibit: Francisco Eduardo Tresguerras Collection Testimonials (sketches, engravings, documents and ornamental objects). Collective drawing, engraving, painting, sculpture, photography, object art and installations.",
+        "rating": 5
+      },
+      {
+        "text": "Fairly new place. I loved Ocampo's hall.",
+        "rating": 5
+      },
+      {
+        "text": "Amazingly creative images.",
+        "rating": 5
+      },
+      {
+        "text": "Excellent museum that shows the works of Celayence Octavio Ocampo, you have to carefully analyze each painting to observe the different facets of it (those that have a mirror, in the reflection of the painting you will find other figures that you cannot see in the original). There is also an entire historical archive of another very important Celayense: Francisco Eduardo Tresguerras, who designed the Templo del Carmen that is on the opposite corner of the museum. Both artists created ART in every sense of the word, raising the name of Celaya, Guanajuato.",
+        "rating": 5
+      },
+      {
+        "text": "Personally, I love this museum, it is a fairly quiet place and usually during the week there are not many people, sometimes it is practically alone, there is one day of the week when they do not charge admission but the truth is that the entrance is very very cheap, the paintings by Octavio Ocampo are beautiful, and they also have some architectural plans by Fco. Eduardo Tresguerras, those are the parts that remain fixed in the museum, but there are also a few rooms of the museum in which the paintings on display change from time to time and They put paintings by different authors, equally beautiful, you can go alone or in a group and you can ask to be guided so that the paintings can be explained to you.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Museo de la Purisima Concepcion",
+    "calificacion": 4.4,
+    "descripcion": "museum, tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5227911,
+    "lng": -100.8109115,
+    "reviews": [
+      {
+        "text": "A place with a lot of history, it is better not to tell what there is to see, better visit it!!",
+        "rating": 5
+      },
+      {
+        "text": "What days and what time is it open???",
+        "rating": 5
+      },
+      {
+        "text": "How much history!",
+        "rating": 5
+      },
+      {
+        "text": "It has everything that makes it a museum.",
+        "rating": 5
+      },
+      {
+        "text": "It is an enigmatic place",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Plaza San Fransisco",
+    "calificacion": 4.4,
+    "descripcion": "museum, point_of_interest, establishment",
+    "lat": 20.5215617,
+    "lng": -100.8117133,
+    "reviews": [
+      {
+        "text": "Good food nearby, nice atmosphere",
+        "rating": 4
+      },
+      {
+        "text": "It's great. It's well preserved and it's huge.",
+        "rating": 5
+      },
+      {
+        "text": "A good place to relax and spend a pleasant afternoon...",
+        "rating": 5
+      },
+      {
+        "text": "Here among the classic snack stands, the same park with its benches to wander or sit while eating something. There is a statue of Pope John Paul the Second, people hang rosaries, scapulars, medals for some miracle or some order from his hand. Next to the Cathedral of the Sacred Heart of Jesus and the Water Ball.\n\nDon't forget to stop by to ask for your little miracle. It's the Pope, it's not Saint Anthony to ask for a boyfriend.",
+        "rating": 3
+      },
+      {
+        "text": "I really like this part of Celaya, it is quiet to sit and hang out, you can buy snacks on the street and it is very busy, there are people walking and entering the church.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Andador Don Perfecto Aranda",
+    "calificacion": 4.4,
+    "descripcion": "museum, point_of_interest, establishment",
+    "lat": 20.5216709,
+    "lng": -100.8104766,
+    "reviews": [
+      {
+        "text": "Circulation area that, due to its care and beauty, can also serve as a place to stay.\nVery quiet and typical, with benches and shade, which allows you to take a break on your journey.\nVery frequented by couples.\nThe buildings around have great architecture.",
+        "rating": 4
+      },
+      {
+        "text": "The best place to have a coffee and enjoy art ☕️🎨🫶🏽",
+        "rating": 5
+      },
+      {
+        "text": "The mural is very beautiful",
+        "rating": 5
+      },
+      {
+        "text": "Beautiful",
+        "rating": 5
+      },
+      {
+        "text": "Good place to walk",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Altar Santa Cecilia",
+    "calificacion": "Sin calificación",
+    "descripcion": "museum, point_of_interest, establishment",
+    "lat": 20.5222085,
+    "lng": -100.8153139,
+    "reviews": []
+  },
+  {
+    "nombre": "Exconvento de San Agustín",
+    "calificacion": 4.6,
+    "descripcion": "museum, tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5205122,
+    "lng": -100.8133823,
+    "reviews": [
+      {
+        "text": "Super",
+        "rating": 5
+      },
+      {
+        "text": "Good place to visit, it has a fixed exhibition. The best thing about our visit was the altar for the Day of the Dead. No entry cost.",
+        "rating": 5
+      },
+      {
+        "text": "It lacks a guide or more information cards",
+        "rating": 4
+      },
+      {
+        "text": "Very nice and they allow you to come in even on Mondays to see the property.",
+        "rating": 5
+      },
+      {
+        "text": "The place is quiet, but it would be more beautiful and attractive if they put the letters of CELAYA, here we don't have colored letters! You could be.... 😉🙏🏻",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "stay bright tattoo",
+    "calificacion": "Sin calificación",
+    "descripcion": "museum, point_of_interest, establishment",
+    "lat": 20.5254225,
+    "lng": -100.8099573,
+    "reviews": []
+  },
+  {
+    "nombre": "Casa de Doña Emeteria Valencia",
+    "calificacion": "Sin calificación",
+    "descripcion": "museum, point_of_interest, establishment",
+    "lat": 20.5205379,
+    "lng": -100.8171195,
+    "reviews": []
+  },
+  {
+    "nombre": "Mezquite bicentenario",
+    "calificacion": 5,
+    "descripcion": "museum, point_of_interest, establishment",
+    "lat": 20.5227768,
+    "lng": -100.8272661,
+    "reviews": [
+      {
+        "text": "Excellent place\nMany department stores",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Puente Irrigacion, Encuentro Internacional De Muralistas",
+    "calificacion": 4.7,
+    "descripcion": "museum, point_of_interest, establishment",
+    "lat": 20.5363523,
+    "lng": -100.8203176,
+    "reviews": [
+      {
+        "text": "Nice, I hope the graffiti artists respect it, it's a lot of work and nice",
+        "rating": 5
+      },
+      {
+        "text": "It's great that these projects of cultural and artistic expression are put together, the murals looked very good on the bridge",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 4
+      },
+      {
+        "text": "",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Centro Interactivo del Conocimiento XIMHAI",
+    "calificacion": 4.3,
+    "descripcion": "museum, point_of_interest, establishment",
+    "lat": 20.5351265,
+    "lng": -100.822749,
+    "reviews": [
+      {
+        "text": "Its a great place for kids to lean about science there is a tour guide taking you through the different rooms and explaining the different show cases and letting you explore and answer question there are workshops available and activities..the cost is minimal 20 pesos for adults 10 pesos for children.",
+        "rating": 5
+      },
+      {
+        "text": "The truth is that it is an interesting place, the treatment is very nice from the people who give you the tour and the interesting activities, topics such as physics or electricity, but in such a simple way so that the whole family can understand it and the entrance is not so expensive to enter the activity center, it is a recommended place to go in the afternoon.",
+        "rating": 5
+      },
+      {
+        "text": "Excellent place for children's participation and learning, even though much of its unoccupied areas are being wasted, there being an opportunity to make a large complex for citizen participation.",
+        "rating": 4
+      },
+      {
+        "text": "A very good place, it gives a touch of the community's contribution to its parks and you can have a good time",
+        "rating": 5
+      },
+      {
+        "text": "I love the place, spacious, suitable for rollerblading and de-stressing for a while. Continuous cultural activities on its esplanade.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "grafitti artistico",
+    "calificacion": 3.7,
+    "descripcion": "museum, point_of_interest, establishment",
+    "lat": 20.5273366,
+    "lng": -100.7926044,
+    "reviews": [
+      {
+        "text": "We couldn't find the place, they should remove the part where it says museum because it's misleading to anyone.",
+        "rating": 1
+      },
+      {
+        "text": "It is a place of special appreciation. I highly recommend it.",
+        "rating": 4
+      },
+      {
+        "text": "I don't know who told you it's artistic.",
+        "rating": 1
+      },
+      {
+        "text": "nothing to see",
+        "rating": 3
+      },
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Centro de Acceso A Servicios Sociales y de Aprendizaje Imaginate La Bola",
+    "calificacion": 3,
+    "descripcion": "museum, point_of_interest, establishment",
+    "lat": 20.4913685,
+    "lng": -100.8157125,
+    "reviews": [
+      {
+        "text": "They just opened it",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "nombre": "Casa de la Tierra",
+    "calificacion": 5,
+    "descripcion": "museum, point_of_interest, establishment",
+    "lat": 20.504787,
+    "lng": -100.7824552,
+    "reviews": [
+      {
+        "text": "Me pareció muy bonito el lugar, vine a conocer por qué el día de hoy se hizo una reforestación.",
+        "rating": 5
+      },
+      {
+        "text": "Excellent place already adapted as a planetarium, expanding its capacity for disseminating information and an immersive luxury experience",
+        "rating": 5
+      },
+      {
+        "text": "Learn and strengthen our awareness about the importance of climate change with cutting-edge technology and real-time information. Unique experience!",
+        "rating": 5
+      },
+      {
+        "text": "Installations with the noble objective of raising awareness in the general public, on different topics that concern the environment, ecology, native forest species and other topics that must compete with us all, since the earth is our only home and we all have to contribute to sustain a future for future generations.",
+        "rating": 5
+      },
+      {
+        "text": "Here they will learn, in a very visual way, about climate change and its effects on the planet.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Bomba De Agua",
+    "calificacion": 4.4,
+    "descripcion": "museum, point_of_interest, establishment",
+    "lat": 20.5502667,
+    "lng": -100.7749177,
+    "reviews": [
+      {
+        "text": "It is a water pump that supplies this vital liquid to the \"Residencial los Olivos\" area. As a foreigner, I see this water pump as one of the most attractive places in this area, making it an attractive point of reference for people who know and those who don't know the neighborhood...in my opinion it is only ruined by some graffiti of ugly people, from there on out it is a good reference point for everyone.",
+        "rating": 5
+      },
+      {
+        "text": "It's a huge water container and it supplies the olive colony. It's something that draws attention because of how big it is.",
+        "rating": 5
+      },
+      {
+        "text": "☺️",
+        "rating": 5
+      },
+      {
+        "text": "Excellent",
+        "rating": 4
+      },
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  }
+]

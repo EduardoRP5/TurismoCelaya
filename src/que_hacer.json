@@ -1,0 +1,1673 @@
+[
+  {
+    "nombre": "St. George Hotel",
+    "calificacion": 4.4,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5187363,
+    "lng": -100.8367218,
+    "reviews": [
+      {
+        "text": "This hotel has a convenient location,  affordable and clean. But you get what you paid for. No microwave, no mini fridge, almost no furniture in the room,  and saw a few roaches in the pool area, since it's outdoors anyway",
+        "rating": 4
+      },
+      {
+        "text": "Extremely noisy hotel. There is no insulation between rooms, straight concrete blocks building. If anyone is talking outside you can hear it in the room. Curtains are not full black out and windows have no solid locks. You hear the train whistling from 4~5 am every hour. I had no real hot water in the shower at 6:30 am, I did not see a boiler on property I think they use a solar heater for the water. The place was clean. paid $30 US will stay at hotel Mary further down the street next time & pay $55US.",
+        "rating": 3
+      },
+      {
+        "text": "The Hotel is really confortable, you can visit it any time you like and you will always recieve good attention from the workers",
+        "rating": 5
+      },
+      {
+        "text": "Service is very good in all hotels",
+        "rating": 5
+      },
+      {
+        "text": "Clean efficient  staff but hard befs",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel Mary",
+    "calificacion": 4.1,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5194477,
+    "lng": -100.8145647,
+    "reviews": [
+      {
+        "text": "My experience was exceptional. They made me feel at home, and always on top of my security and my safety. the room clean and the restaurant OMG amazing. Definitely we will be back",
+        "rating": 5
+      },
+      {
+        "text": "The restaurant in the entrance is good, the food is good and for the most part the costumer service is favorable. I would of without a doubt given this place 5 stars, however My experience with a waiter brought it down to 4 stars, after wanting to give it only 3.\n\nThe issue was that I ordered a shrimp cocktail, but it was too spicy, something that I was not notified of before it was served to me. I asked the waiter to change it for one that wasn't spicy...\n\n(Before I continue I want to point out that he was a male in his late 40s and didn't seem to be in a good mood, his costumer service was terrible, we asked questions about the menu and the food and his answers were short and irritated.)\n\nHe refused to change the order, saying that I should have told him when I ordered, I tried to explain to him that it made no sense to me, because the menu didn't say it was spicy.\n\nEventually another waiter pulled up and I asked to speak to their supervisor,she said it was her & seemed more hospitable, she also told me I should of told them I didn't want it spicy from the beginning, I reiterated what I had told her coworker and shortly after, she accepted to bring me a cocktail they wasn't spicy.",
+        "rating": 4
+      },
+      {
+        "text": "Don't know much about the rooms, but the restaurant is pretty adorable and offers a lot of food veriaty. As in any other restaurant, the services is good but not great. The parking lot is alright. I'd say it's more a dinner place than a lunch one. The location is pretty good actually, it is close to the city park, ATMs and is located in one of the main streets of the town.",
+        "rating": 3
+      },
+      {
+        "text": "Good clean hotel, very close to Centro (5 minute walk).  Excellent restaurant on site with bar.  Secure parking and excellent staff.",
+        "rating": 4
+      },
+      {
+        "text": "Nice central locatio room was fairly clean quiet and cozy. Price was pretty good too.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Capital O Gran Hotel Campestre, Celaya",
+    "calificacion": 4,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5177935,
+    "lng": -100.7889581,
+    "reviews": [
+      {
+        "text": "Ooo",
+        "rating": 5
+      },
+      {
+        "text": "Genial",
+        "rating": 5
+      },
+      {
+        "text": "The security is low",
+        "rating": 2
+      },
+      {
+        "text": "The reception service is terrible, and if you make a reservation they can figure out how to put the number of towels in the bathroom that they are going to use.",
+        "rating": 2
+      },
+      {
+        "text": "Excellent hotel to stay at a low cost. I would recommend it without problem.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "City Express by Marriott Celaya Parque",
+    "calificacion": 4.4,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.549475,
+    "lng": -100.8395199,
+    "reviews": [
+      {
+        "text": "The service is awesome. They are always looking for your confort. The Hotel Is next to Parque Celaya, and if you want to visit the City this Is your best choice to pass the night (and even more)",
+        "rating": 5
+      },
+      {
+        "text": "Excellent location, rooms were clean, small fridge included, perfect for a come&go trip.",
+        "rating": 5
+      },
+      {
+        "text": "Great service, location and breakfast buffet! Clean rooms, free wi-fi and modern hotel at an affordable price.",
+        "rating": 5
+      },
+      {
+        "text": "The service in reception was not as good as I thought. Did not show interest towards there job. Everything else was memorable.",
+        "rating": 5
+      },
+      {
+        "text": "The room is confortable andas quite, Aldo the service it's effective.the lounge is okay.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel Santa Rosa",
+    "calificacion": 3.9,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.522142,
+    "lng": -100.826067,
+    "reviews": [
+      {
+        "text": "Decent place to stay in. Not a five star but it's clean. Needs remodeling from the inside but good place just to sleep in. Great if your going for a short vacation time.",
+        "rating": 3
+      },
+      {
+        "text": "Worst stay ever, terrible lighting, dirty, I feel next time in celaya this hotel will no longer be in business",
+        "rating": 1
+      },
+      {
+        "text": "GOD hotel",
+        "rating": 5
+      },
+      {
+        "text": "Simple for live in here",
+        "rating": 4
+      },
+      {
+        "text": "Buenos",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "University of Celaya",
+    "calificacion": 4.7,
+    "descripcion": "university, point_of_interest, establishment",
+    "lat": 20.5181189,
+    "lng": -100.7831927,
+    "reviews": [
+      {
+        "text": "Home sweet home",
+        "rating": 5
+      },
+      {
+        "text": "Nice",
+        "rating": 5
+      },
+      {
+        "text": "An excellent educational institution with 36 years of foundation offering educational excellence.\nIntellectual development, values ​​all focused on the common good, contribute to the improvement of the world.\nToday I present the beautiful medal of your annual race, a complete success.",
+        "rating": 5
+      },
+      {
+        "text": "Their facilities are very nice, they even have a very well-kept lake with their fish 🐠🐟, the visit was pleasant, the guards were very kind in giving us directions on where to go to the place we were going",
+        "rating": 5
+      },
+      {
+        "text": "In this school you can study middle school, high school, university and postgraduate degrees.\nDiplomas, language courses, etc.\nThe costs are high.\nThere is a cafeteria, library and other adequate facilities that create an environment of trust and you can develop.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Cruz Roja Delegación Celaya",
+    "calificacion": 4,
+    "descripcion": "hospital, health, point_of_interest, establishment",
+    "lat": 20.5179701,
+    "lng": -100.8387141,
+    "reviews": [
+      {
+        "text": "The service for a medical certificate is terrible, the person (woman) who takes the blood type does not know what it is to have an attitude of service, she speaks smack, she does not know how to write names correctly, she does not know kindness, it is disastrous. Those who are in charge of preparing the certificate are the same, they do not like their work, therefore they do not provide good service, they do it as if they wanted to finish in a minute and not know more, it is unfortunate, being such an important institution to have those people there, it is a shame",
+        "rating": 1
+      },
+      {
+        "text": "For the tenth time it is closed. There is no one who issues the certificates and they denied the service for transporting an elderly person with a stroke, which would result in the death of the patient.",
+        "rating": 1
+      },
+      {
+        "text": "As a suggestion that they better train their staff or at least try to hire empathetic, kind and supportive people because as a complaint the person at the counter today, Wednesday, October 11, 2023, denied me the Medical Service for my son, telling me that the doctor was not going to want to treat him but still charging me for the consultation and did not at least allow me to go to ask the doctor if he could treat my son, telling me with a rude attitude that he only had a question for him. have to pay for the consultation.",
+        "rating": 1
+      },
+      {
+        "text": "Terrible attention, I do not recommend that you get the medical certificate for your driver's license, from the moment you enter the doctor assumes that you are not going to pass the vision exam, based on the time you have with your glasses! Without knowing that I go to my ophthalmologist every year!  He serves you reluctantly and does not inform you! Better go to the similar pharmacy, it's also cheaper!!",
+        "rating": 1
+      },
+      {
+        "text": "Can you guide me to know if tomorrow, they do clinical tests for marriage and certification, at what time, and the cost? Thank you so much",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Capital O Hotel Casa Real Celaya",
+    "calificacion": 4,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.519352,
+    "lng": -100.8350372,
+    "reviews": [
+      {
+        "text": "It is a nice place to stay, the service is nice, people treat you very good",
+        "rating": 4
+      },
+      {
+        "text": "Nice cozy place, very neat and clean , nice staff as well",
+        "rating": 4
+      },
+      {
+        "text": "Good food and clean rooms and restaurant",
+        "rating": 4
+      },
+      {
+        "text": "Nice dishes but some time yo prepare it",
+        "rating": 4
+      },
+      {
+        "text": "Wonderfull place... unforgateable experience!",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "2nd Home",
+    "calificacion": 4.9,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5346556,
+    "lng": -100.7885808,
+    "reviews": [
+      {
+        "text": "I want to receive information about the rental of the apartments, but they do not answer the contact phone number. Will they have any other means?",
+        "rating": 4
+      },
+      {
+        "text": "Habitaciones confortables y cómodas, tal como un viajero como su servidor necesitaba. ¡Felicito a los Dueños por este maravilloso lugar!",
+        "rating": 5
+      },
+      {
+        "text": "El lugar es muy bonito y su personal es mumamente atento! Los recomiendo muchísimo aparte cuenta con seguridad que está increíble!!",
+        "rating": 5
+      },
+      {
+        "text": "Excellent place to rest",
+        "rating": 5
+      },
+      {
+        "text": "Beautiful",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel Gómez de Celaya",
+    "calificacion": 3.9,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5213066,
+    "lng": -100.8135152,
+    "reviews": [
+      {
+        "text": "Nice place clean well located.   Economy prices.    Recommended....",
+        "rating": 5
+      },
+      {
+        "text": "Is not a 5 star hotel But it is clean .with everything close. The parking is not near hotel .around 4 blocks away. But all is ok",
+        "rating": 4
+      },
+      {
+        "text": "Regular",
+        "rating": 5
+      },
+      {
+        "text": "Ok",
+        "rating": 4
+      },
+      {
+        "text": "Cool",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Casa Inn Celaya Veleros",
+    "calificacion": 4.4,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.536889,
+    "lng": -100.826431,
+    "reviews": [
+      {
+        "text": "Good\nReasonablely Affordable. Good sized room in our suite. Great city views. Breakfast has a good selection. We had to complain that other guests of local football teams were making tooo much noise waking is up at 4.30am the first night. The second night they had staff attend they area an be keep them quiet which was greatly appreciated.\n\nBad\nFood service was poor. Wrong people given wrong food as the waiter didn't know what was fish or chicken. Also didn't know how to mix alcoholic drinks and got orders wrong mixing up rum for tequila. Was friendly and always tried to make things right. A train service blares it's horn and woke me up several times. Not all guests heard it though",
+        "rating": 3
+      },
+      {
+        "text": "This place was amazing for the price. Stayed a week here while vacationing and seeing family. The pool was very nice and the staff was as friendly as can be. The restaraunt food was delicious. I would definitely recommend staying here if you’re touring. Most of the staff are bilingual and if you speak with one that it is not, they are quick to find another staff member to aid with conversation with little to no complications. I will stay here next year",
+        "rating": 5
+      },
+      {
+        "text": "Do to a family emergency I ended up staying for a few nights here and I sincerely believe that this guys do take care of their customers. They were very helpful to all of my family needs in regards to accommodation, transportation and other needs, I don't know hot to thank them enough. Rooms were clean and fairly Large enough to rest peacefully at night. Price is fair and customer service is excelent, my family and I are very happy to have stayed here, we all agree that it was a good choice.\nRestaurant food it good and service is excelente. Thanks to.management and whole hotel staff, mil gracias y que dios los bendiga a todos por ser muy serviciales y helpful. Hope this review help others...I am a foreigner and if I ever visit Celaya again I would definitely be staying at Casa Inn again. Thousand thanks guys.",
+        "rating": 5
+      },
+      {
+        "text": "Great place for staying and the food was great; I spend couple of days here  and I really enjoy the service and place.\nvery good place.",
+        "rating": 5
+      },
+      {
+        "text": "It was a great experience, with good food, attention and facilities, I was not there for much time but it was a very good experience",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Liverpool",
+    "calificacion": 4.5,
+    "descripcion": "department_store, liquor_store, clothing_store, furniture_store, electronics_store, home_goods_store, food, store, point_of_interest, establishment",
+    "lat": 20.53164869999999,
+    "lng": -100.7779906,
+    "reviews": [
+      {
+        "text": "It’s a very good place to have lunch, it’s not costly and food is good, the staff is kind and besides, you can get cakes, clothes, skincare products…it’s a nice place for shopping 🛍 lately due to pandemic, constantly many products are on sale!",
+        "rating": 4
+      },
+      {
+        "text": "Great stuff. When promotions kick in you get very sweet deals.",
+        "rating": 5
+      },
+      {
+        "text": "An excellent place to get different kind of things that you need, like shoes, fragances, clothes, tech devices, etc. You can find low costs depending the date you visit it. Parking and security in the area available.",
+        "rating": 5
+      },
+      {
+        "text": "Awesome customer service, they did not have the item I wanted so they searched for about a hour (all while I went to eat lunch) in other stores, in other states untill they found what I wanted.",
+        "rating": 5
+      },
+      {
+        "text": "You will end up buying online anyway. Always a bit of a waste of time going in there.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "nombre": "HOTEL RJ CELAYA",
+    "calificacion": 4.1,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.520174,
+    "lng": -100.7979126,
+    "reviews": [
+      {
+        "text": "Super terrible service from the man who attends at night, I accidentally forgot my suitcase with my belongings in which I brought valuable things such as my computer, cell phones, wallets and some invoices for my cars\n\nJust because I asked him if he could open the parking lot again to take out my valuables, he got upset and argued that I had never asked for anything there and that I didn't want mistrust and he kicked me out along with my wife and my 2-year-old baby at 3:50 am\n\nThere so they can see what class of hotels they are going to stay in!",
+        "rating": 1
+      },
+      {
+        "text": "Hotel tipo “rústico”, económico y limpio. Personal amable y súper con la disposición de ayudar y orientar. No tiene grandes amenidades pero sí tiene lo básico para un alojamiento con presupuesto ajustado.",
+        "rating": 4
+      },
+      {
+        "text": "Excellent place to rest, affordable price and quiet",
+        "rating": 5
+      },
+      {
+        "text": "Muy bien por el costo $400 limpió y gente muy amable. Gracias",
+        "rating": 5
+      },
+      {
+        "text": "El mejor hotel en su categoría, excelente trato de los señores de recepción, a destacar su limpieza y tranquilidad, siempre que voy a Celaya llegó sin pensarle",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Coppel Adolfo Lopez Mateos",
+    "calificacion": 4.1,
+    "descripcion": "department_store, store, point_of_interest, establishment",
+    "lat": 20.5197463,
+    "lng": -100.8104069,
+    "reviews": [
+      {
+        "text": "Fast friendly service a yuge 😋 selection of name brand electronics and free warranty on most electronics.",
+        "rating": 5
+      },
+      {
+        "text": "The sales personnel is never there until you're ready to pay. They have very good variety of stuff and accessible prices.",
+        "rating": 4
+      },
+      {
+        "text": "Good place. Parking not available",
+        "rating": 5
+      },
+      {
+        "text": "Lots of variety and good prices",
+        "rating": 5
+      },
+      {
+        "text": "Great service and discounts",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Office Depot",
+    "calificacion": 4.2,
+    "descripcion": "furniture_store, electronics_store, home_goods_store, store, point_of_interest, establishment",
+    "lat": 20.536494,
+    "lng": -100.8204575,
+    "reviews": [
+      {
+        "text": "Staff was less than helpful ... Store closes much earlier than posted on website. Website states 10 pm closing, we arrived at 8:50 pm but we were informed that the store \"now closes at 9:00 pm, so you need to come back tomorrow as it is too late to let you in.\"",
+        "rating": 1
+      },
+      {
+        "text": "Great service, gave us exactly what we needed",
+        "rating": 4
+      },
+      {
+        "text": "Good place, for computer buying, PC and office accessories.",
+        "rating": 5
+      },
+      {
+        "text": "Very nice",
+        "rating": 5
+      },
+      {
+        "text": "Fast and excellent service",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Bimbo/Barcel Celaya",
+    "calificacion": 4.5,
+    "descripcion": "food, point_of_interest, establishment",
+    "lat": 20.5474803,
+    "lng": -100.7996966,
+    "reviews": [
+      {
+        "text": "Well, I was going to say that the service was very bad. But they didn't even attend to me, so terrible would be an understatement.",
+        "rating": 1
+      },
+      {
+        "text": "Their delivery drivers are harassers, they don't know how to have education, they are arrogant and they are also thieves.",
+        "rating": 1
+      },
+      {
+        "text": "Friday night is something out of another world",
+        "rating": 4
+      },
+      {
+        "text": "THE BEST. YOUR DELICIOUS BREAD.",
+        "rating": 5
+      },
+      {
+        "text": "Muy y",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "FM Data Bases México",
+    "calificacion": 4,
+    "descripcion": "point_of_interest, establishment",
+    "lat": 20.537734,
+    "lng": -100.8241791,
+    "reviews": [
+      {
+        "text": "",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Cinépolis Galerias Celaya",
+    "calificacion": 4.5,
+    "descripcion": "movie_theater, point_of_interest, establishment",
+    "lat": 20.531023,
+    "lng": -100.7796401,
+    "reviews": [
+      {
+        "text": "There’s a long line to grab some popcorn, crepas, but to be honest, the crew does a great job, all they are so young and they sometimes do mistakes but they try to apologize and fix it. The sanitary measurements are applied and it’s nice to see they care of it.",
+        "rating": 4
+      },
+      {
+        "text": "Excellent place to watch your favorite movie. Good service, it has option to buy your tickets online. For an extra charge you can buy it in a self service machine paying by credit card with the advantage to skip the snack queu when the place is pretty crowded. There is an app that you can use to buy your snacks too.",
+        "rating": 5
+      },
+      {
+        "text": "Family friendly, safe, clean, and enjoyable experience. Ample selection to satisfy most viewers taste.",
+        "rating": 5
+      },
+      {
+        "text": "Great place. Great chairs. With Club Cinépolis you get very good deals. Popcorn line can be slow. Avoid the tickets line buying on the app or on the webpage.\n(May, 22) self serve counters are off. Line still slow, they don't offer Cinefila.\nThis time movie was at room 3, and it magnificent, it has a big screen, AC works well, sound is clear and loud.",
+        "rating": 3
+      },
+      {
+        "text": "Prices are higher, food is not as good as it looks,I recommend cheddar and takis popcorn, family-friendly",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Banamex",
+    "calificacion": 2.4,
+    "descripcion": "bank, finance, point_of_interest, establishment",
+    "lat": 20.5190214,
+    "lng": -100.7968247,
+    "reviews": [
+      {
+        "text": "I went on July 30, 2024 to withdraw 50,000 pesos. The lady at the window asked me for my INE. And my Debit card, for this it is worth mentioning that I am one of the \"priority\" clients, after validating my documents, it tells me that it cannot give me that amount due to the legislation of the Bank of Mexico. For me, it is very disconcerting that after validating my documents and giving me the money, he tells me that I have to wait 24 hours. In the worst case scenario, I am imagining that he cannot give me that amount of money because he has not yet notified his fellow thieves and they take that amount from me leaving the branch. I had to go to Santander to carry out the same operation and they were actually able to give me the amount of evidence I needed, in addition to that I also went to the CPM sofipo and they can also give me a large amount of money. TERRIBLE SERVICE FROM BANAMEX, only the TC Cotsco can be rescued and we swim.",
+        "rating": 1
+      },
+      {
+        "text": "Very bad experiences, the staff is terrible and they are totally uninformed, the service and attention is really terrible.",
+        "rating": 1
+      },
+      {
+        "text": "I just want to make an appointment to update my file.  And it doesn't give me a choice nor can I communicate with anyone who can advise me.",
+        "rating": 1
+      },
+      {
+        "text": "If you are in a hurry don't come here. At the moment they do not have ATM machines.",
+        "rating": 1
+      },
+      {
+        "text": "It's a shame that they don't have service on Saturdays. Cross out.",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Galerías Celaya",
+    "calificacion": 4.5,
+    "descripcion": "shopping_mall, movie_theater, department_store, jewelry_store, clothing_store, electronics_store, restaurant, food, store, point_of_interest, establishment",
+    "lat": 20.5316722,
+    "lng": -100.7785774,
+    "reviews": [
+      {
+        "text": "Great shopping mall where you can find anything for shopping or dining, there is even a hotel next to it, only flaw I saw is that Food court can get crowded and seating area might not be enough for all people",
+        "rating": 5
+      },
+      {
+        "text": "This place is a little kind of posh and high class , as it has many brands makes and popular restaurants",
+        "rating": 4
+      },
+      {
+        "text": "Loved the stores and workers. A nice family mall.",
+        "rating": 5
+      },
+      {
+        "text": "Clean, safe, family friendly atmosphere.",
+        "rating": 4
+      },
+      {
+        "text": "It is fun to come here, either to shop or just to spend time, but it's going to be crowded on weekends.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Level Middle School Superior of Celaya",
+    "calificacion": 4.6,
+    "descripcion": "school, point_of_interest, establishment",
+    "lat": 20.5233497,
+    "lng": -100.8238369,
+    "reviews": [
+      {
+        "text": "Like",
+        "rating": 4
+      },
+      {
+        "text": "It has been almost 3 years since I graduated from this beautiful and deteriorated school, without a doubt some of the best moments of my life were spent there (despite only being in person for one year due to the pandemic). Like every student I cried, I laughed, I got angry, I learned and above all I had fun and I got to know each other, thanks to the independence and activities that it offers, the teachers guided me if I had any doubts, no matter how minor they seemed, I remember their classes with a lot of love and stress hahaha; I met great people who remain my friends to this day. I will always remember this stage with great affection and nostalgia, I hope that whoever reads this can live or is living great adventures.",
+        "rating": 5
+      },
+      {
+        "text": "One of the best public high schools in Celaya, belonging to the Higher Secondary School of the University of Guanajuato\nThey carry out many activities throughout the semester such as plays, music presentations, dance, singing, and more.\nWithout forgetting the altars that they make days before All Saints' Day.",
+        "rating": 5
+      },
+      {
+        "text": "Cruising in the bathrooms on the floor and those on the stairs",
+        "rating": 5
+      },
+      {
+        "text": "If you want an advanced educational system, this is your best option, an excellent alternative to study, it has everything supported: food scholarships, scholarships for high average and scholarships for socioeconomic support, also with innovation projects, art, design, among others. It has complete resources, a chemistry and physics laboratory, a computer classroom with modern equipment, protectors in the classrooms, etc. It also has attentive student service in the offices and although the teachers are demanding, it is worth the effort. Not for nothing does it have great prestige.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Costco Wholesale Celaya",
+    "calificacion": 4.5,
+    "descripcion": "liquor_store, store, point_of_interest, establishment",
+    "lat": 20.5454902,
+    "lng": -100.82034,
+    "reviews": [
+      {
+        "text": "A usual costco store. It was so crowded even it was Monday but the store was confortable, and so the lines to pay. The store is clean and organized.",
+        "rating": 5
+      },
+      {
+        "text": "The place fulfills the sanitary measurements, the food is good and tasty and you can find the best brands here.",
+        "rating": 5
+      },
+      {
+        "text": "Parking is a nightmare. Checkout lines are unacceptable...waiting to checkout takes over an hour.",
+        "rating": 4
+      },
+      {
+        "text": "Big variety of items they need to work on the long lines",
+        "rating": 3
+      },
+      {
+        "text": "Corporate America should pattern their own business after the enormous success of Costco. Employees are considered a major component in their business plan and it shows.  They are trained to care. Care about the service they provide and care about the customer.  That’s hard to beat.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Technological Institute of Celaya",
+    "calificacion": 4.7,
+    "descripcion": "university, point_of_interest, establishment",
+    "lat": 20.5385565,
+    "lng": -100.8192253,
+    "reviews": [
+      {
+        "text": "They should use this school to be an example and higher effort to make the area safe for civilians",
+        "rating": 3
+      },
+      {
+        "text": "It's a public school, enough said",
+        "rating": 3
+      },
+      {
+        "text": "Excellent",
+        "rating": 5
+      },
+      {
+        "text": "One of the best Technologists in Mexico!\nWith a wide range of engineering and postgraduate degrees, well equipped in both workshops and laboratories, it is undoubtedly a pride to be Lince!",
+        "rating": 5
+      },
+      {
+        "text": "Complete facilities, two campuses, soccer field, and swimming pool are right at the entrance to campus 1",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Walmart",
+    "calificacion": 4.2,
+    "descripcion": "department_store, liquor_store, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",
+    "lat": 20.5342941,
+    "lng": -100.7969131,
+    "reviews": [
+      {
+        "text": "It's a good quality Walmart, very clean and not too crowded, there's a Sam's club next to it, but, paying for the parking lot in this scenario is a crime, because... there's no other reason to go there! there are no other points of interest nearby, personally I suggest you to go to the other Walmart, which has other stores nearby for the same parking cost",
+        "rating": 3
+      },
+      {
+        "text": "Insane to request to a less than a year old babies face masks. I don’t know how that is legal. Went to another big chain supermarket and all was good.",
+        "rating": 1
+      },
+      {
+        "text": "It is usually a good place to go and shop but just that day I went  the employees were taking it out on customers because they were schedule to leave early but they weren't let go.",
+        "rating": 4
+      },
+      {
+        "text": "I was looking for some socks, but I didn't find them and saw a pretty shirt but there wasn't the size i was looking for",
+        "rating": 4
+      },
+      {
+        "text": "so insecure, no exterior lights.  very dangerous for evening shoppings",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Servicio de Administración Tributaria (SAT)",
+    "calificacion": 3.7,
+    "descripcion": "point_of_interest, establishment",
+    "lat": 20.5233382,
+    "lng": -100.8344325,
+    "reviews": [
+      {
+        "text": "Service highly appreciated, they treat me good, The service was very fast 👌👌",
+        "rating": 5
+      },
+      {
+        "text": "Appalling\nservice your appointment is of no use they serve you with a waiting time of more than 3 hours",
+        "rating": 1
+      },
+      {
+        "text": "The service is deplorable, first of all it takes almost 2 hours to attend to appointments, adding that the requirements do not tell you that you have to bring a USB memory and they sell it to you right here to do business, the truth is it was better when you could get everything through a cyber in the municipality. Bring your USB so you don't buy here",
+        "rating": 1
+      },
+      {
+        "text": "The worst... It's no use bringing an appointment if the waiting time is more than 2 hours.....",
+        "rating": 1
+      },
+      {
+        "text": "They do their job, but some workers are not friendly at all, and there are long lines.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "nombre": "The Home Depot Celaya",
+    "calificacion": 4.3,
+    "descripcion": "hardware_store, electronics_store, home_goods_store, store, point_of_interest, establishment",
+    "lat": 20.5519637,
+    "lng": -100.8241603,
+    "reviews": [
+      {
+        "text": "At first I was little it bit skeptical with the delivery time. Home Depot meet my expectations and highly recommend home Depot! They keep me informed during the delivery time !",
+        "rating": 5
+      },
+      {
+        "text": "Clean, well stocked Home Depot. We went for citronella candles and batteries and were directed right away to where they were. Nice display of Halloween and Day of the Dead decorations. Pay for parking, but free if you buy something. Validate card with cashier.",
+        "rating": 5
+      },
+      {
+        "text": "They have great service. When I went last night it was packed and full of people. It's usually not crowded but for some reason it was.\n\nI would say that it's one of the best customer service Homedepot has. They treat you well and help you to the best as they can. The only thing I could say is that it's hard at times to obtain someone to help you. They always play as they are busy to help or they take their time to help you out even if you press the \"Help\" button. They come turn it off and they just tell you that someone will come in a minute and they take a while. I would say that one time it took almost 30 minutes for someone to come and help me do a work order some doors.\n\nBut once they someone arrived, they have a great service.",
+        "rating": 3
+      },
+      {
+        "text": "Bad service. We ordered furniture and they were scheduled for delivery a week after. That day came and went, no delivery, no message from them. We tried to call but nobody answers. Finally, we managed to get hold of someone that told us the delivery date was postponed a week. That day came and went, still no message from them or calls or anything. And still almost impossible to get hold of someone that can tell us anything. I will never order from Home Depot Celaya again!",
+        "rating": 1
+      },
+      {
+        "text": "Personnel, clean and reorder the products during the day when customer are shopping. It can be dangerous to the customer. Normally, this actions are executed when customers are not around.",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Instituto de Estudios Superiores del Centro de México",
+    "calificacion": "Sin calificación",
+    "descripcion": "secondary_school, school, point_of_interest, establishment",
+    "lat": 20.5347536,
+    "lng": -100.8146219,
+    "reviews": []
+  },
+  {
+    "nombre": "Bosch Rexroth",
+    "calificacion": 4.1,
+    "descripcion": "point_of_interest, establishment",
+    "lat": 20.5190811,
+    "lng": -100.7982025,
+    "reviews": [
+      {
+        "text": "Excellent service",
+        "rating": 4
+      },
+      {
+        "text": "",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel Isabel",
+    "calificacion": 3.9,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5216953,
+    "lng": -100.8159169,
+    "reviews": [
+      {
+        "text": "My go to hotel in Celaya, large spacious rooms real cotton towels and sheets, rooms are clean and airy,, Wats mire it's cheap, right in the middle of downtown Celaya, two blocks from the historic centre, High recommended",
+        "rating": 5
+      },
+      {
+        "text": "Acceptable place to spend a night the best part is the location and price, they need a little work on the rooms and beds, outside of that is good",
+        "rating": 4
+      },
+      {
+        "text": "My stay at the hotel was very enjoyable, the rooms are comfortable,  and the personal it's really kind,  i'm sure i'll come back.",
+        "rating": 4
+      },
+      {
+        "text": "Hot, checked out a day early and they refused to give the money back.",
+        "rating": 1
+      },
+      {
+        "text": "The hotel is in the center city and is a confort place",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "nombre": "Nissan Torres Corzo Campestre",
+    "calificacion": 4.3,
+    "descripcion": "car_dealer, store, point_of_interest, establishment",
+    "lat": 20.5147092,
+    "lng": -100.7800317,
+    "reviews": [
+      {
+        "text": "Excellent place to buy a new car! The staff are incredible...well trained...attentive...eager to serve.",
+        "rating": 5
+      },
+      {
+        "text": "Great atention and service, I come out very happy, they check my car of everything",
+        "rating": 5
+      },
+      {
+        "text": "Nice place, good service, as long as you want to buy a Nissan and seeing as Nissan is Renault personally I don't !",
+        "rating": 4
+      },
+      {
+        "text": "I went for a quotation but they weren't able to give me the quotation because their internet was not working",
+        "rating": 3
+      },
+      {
+        "text": "Excellent service to my car",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Office Depot",
+    "calificacion": 4.3,
+    "descripcion": "furniture_store, electronics_store, home_goods_store, store, point_of_interest, establishment",
+    "lat": 20.520574,
+    "lng": -100.8287045,
+    "reviews": [
+      {
+        "text": "Staff is very helpful, they did not have the office chair I was looking for but they helped me avoid wasting my time by searching all the stores in the area.",
+        "rating": 5
+      },
+      {
+        "text": "Very nice they have just about Everything. Caution the electronics are overpriced.",
+        "rating": 4
+      },
+      {
+        "text": "Great attention to customers! And a lot of equipment and supplies for every office in the city.",
+        "rating": 5
+      },
+      {
+        "text": "Good variety of products, great prices",
+        "rating": 4
+      },
+      {
+        "text": "Bad parking space and horribly expensive",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "nombre": "University of Guanajuato Campus Celaya-Salvatierra",
+    "calificacion": 4.6,
+    "descripcion": "university, point_of_interest, establishment",
+    "lat": 20.49256889999999,
+    "lng": -100.8365859,
+    "reviews": [
+      {
+        "text": "Higher secondary education institution that offers spacious, fully equipped facilities.\nThe educational level offered meets high standards that facilitate entry to any higher level educational institution.\nThe cafeteria offers students nutritious options that comply with regulations in this regard, in addition to managing high levels of asepsis in food preparation.\nThe professionalism, preparation and good performance of the teaching staff who manage educational programs, current learning methods and techniques is notable.",
+        "rating": 5
+      },
+      {
+        "text": "The campus is very nice, a good size, equipped and adapted for people in wheelchairs.",
+        "rating": 5
+      },
+      {
+        "text": "A very good university with high prestige within the city, the state and Mexico, it has interesting careers, its teaching level is very good and it has many recreational activities or courses that make it an incredible institution.",
+        "rating": 4
+      },
+      {
+        "text": "Excellent university, the campus is constantly growing, new facilities and equipment. Highly trained teachers with a master's or doctorate degree and a lot of work experience.",
+        "rating": 5
+      },
+      {
+        "text": "Great school, very good educational offer and excellent teachers. The bad thing is that it has a lot of unoccupied space, there are many things that can be done in it, for example, a pool, stands, more fields, putting up trees, etc.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Auditorio Tresguerras",
+    "calificacion": 4.5,
+    "descripcion": "point_of_interest, establishment",
+    "lat": 20.5360655,
+    "lng": -100.8285688,
+    "reviews": [
+      {
+        "text": "Not a good idea to be front rows. The scenario is too high and it makes it hard to appreciate the spectacle. At the end I enjoy the show. But next time I will ask for seats farther from the stage.",
+        "rating": 4
+      },
+      {
+        "text": "Just an amazing auditorium.",
+        "rating": 5
+      },
+      {
+        "text": "It's a fine place, I think their cooling system could be better. The cafeteria is super slow and expensive. Anyhow, it's a good joint and a beautiful building. With the recent remodeling it looks great again.",
+        "rating": 4
+      },
+      {
+        "text": "A good place for spectacles, ballet, conferences, concerts etc. Good audio quality and lighting.",
+        "rating": 5
+      },
+      {
+        "text": "Very nice place, very good spaces the seating area is pretty good",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Coppel Canada Guadalupe",
+    "calificacion": 4.1,
+    "descripcion": "shoe_store, store, point_of_interest, establishment",
+    "lat": 20.5205988,
+    "lng": -100.8137488,
+    "reviews": [
+      {
+        "text": "You can get just about anything you need if it's not at the store they can order it for you.",
+        "rating": 5
+      },
+      {
+        "text": "Ok",
+        "rating": 3
+      },
+      {
+        "text": "Good palce",
+        "rating": 5
+      },
+      {
+        "text": "Nice",
+        "rating": 4
+      },
+      {
+        "text": "They treated me very well. I just want to make an observation, in line at the bank there was a woman with an obvious health problem, she was coughing too much and I think she should have been asked to leave. The place is very small in that branch, without ventilation, which seems to me to increase the risk of contagion.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "LATINA DE MEXICO UNIVERSITY",
+    "calificacion": 4.5,
+    "descripcion": "university, point_of_interest, establishment",
+    "lat": 20.510641,
+    "lng": -100.780886,
+    "reviews": [
+      {
+        "text": "Meh",
+        "rating": 3
+      },
+      {
+        "text": "It's missing a Coca-Cola machine.",
+        "rating": 4
+      },
+      {
+        "text": "Excellent facilities, good atmosphere.",
+        "rating": 5
+      },
+      {
+        "text": "The dental care clinic has excellent equipment and state-of-the-art instruments, the practitioners have a very good attitude and dedication to service.\n\nVery affordable care costs.\n\nThe only thing to improve is the data bank or clinical file.",
+        "rating": 4
+      },
+      {
+        "text": "Excellent place, an institution that has paved the way for itself and with a firm path. It's huge and I think it will grow 10 times more. I hope so. All the best. Highly Recommended.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "UVEG Celaya Santa Rita",
+    "calificacion": 4.8,
+    "descripcion": "point_of_interest, establishment",
+    "lat": 20.54845899999999,
+    "lng": -100.787125,
+    "reviews": [
+      {
+        "text": "It's fine for whoever wants to continue with their studies 😊",
+        "rating": 4
+      },
+      {
+        "text": "Provide more information and location since I looked in El Romeral and I didn't like it at all, there is no trust in the place",
+        "rating": 5
+      },
+      {
+        "text": "Very organized to attend to visitors.",
+        "rating": 5
+      },
+      {
+        "text": "Excellent and they teach you well.",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Walmart",
+    "calificacion": 4.2,
+    "descripcion": "department_store, supermarket, bakery, grocery_or_supermarket, food, store, point_of_interest, establishment",
+    "lat": 20.5477322,
+    "lng": -100.8391812,
+    "reviews": [
+      {
+        "text": "Horrible service, the worst of the worst\nPlease walmart, who you try to impress?\nYou charge for the parking and not even provide bags... really? Now you are the high-class SAVE A LOT of Latin American?\nPlease",
+        "rating": 1
+      },
+      {
+        "text": "I went to buy milk.",
+        "rating": 5
+      },
+      {
+        "text": "Big, open, clean",
+        "rating": 5
+      },
+      {
+        "text": "Very low care for social distance. People here tend to be less concern about the health issue regarding distance and use of masks or disinfectant",
+        "rating": 2
+      },
+      {
+        "text": "The Walmarts are a good place to do your weekly shopping, recently I used some ingredients for a recipe I made with my mom, my sister and my aunt, and went to Walmart for what I needed",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Casa del Diezmo",
+    "calificacion": 4.7,
+    "descripcion": "local_government_office, point_of_interest, establishment",
+    "lat": 20.520955,
+    "lng": -100.815417,
+    "reviews": [
+      {
+        "text": "From colonial history to living culture: the House of Tithe keeps more than 500 years of secrets. Built by orders of Hernán Pérez Bocanegra, a soldier of Cortés, this building was a grain warehouse, a shelter during floods and even an agricultural bank. Today, its walls resonate with belly dance and classical ballet.\nIts façade has a 16th century façade with neoclassical influence, beamed ceilings and interior patios. Here they have popular guitar workshops, artisanal haute couture and temporary exhibitions in their galleries. Some claim that in their basements there are remains of a walled-up woman, although the official history speaks of floods and shelters.",
+        "rating": 5
+      },
+      {
+        "text": "There is always something interesting to see, in addition to the beautiful and rustic facilities it has.",
+        "rating": 5
+      },
+      {
+        "text": "Wonderful cultural and artistic venue, if you come to Celaya, do not hesitate to visit its art galleries of artists from Celaya and the region, walk through its patios, see if its architectural beauty shares its atar de muerte.",
+        "rating": 5
+      },
+      {
+        "text": "Excellent place, they offer courses in cultural and artistic activities, I love the place.",
+        "rating": 5
+      },
+      {
+        "text": "Art, culture, and that smell that only old buildings have, beautiful architecture 👌🏼\n\nIt always has art galleries that encompass many artistic currents.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Inegi",
+    "calificacion": 4.4,
+    "descripcion": "point_of_interest, establishment",
+    "lat": 20.5205898,
+    "lng": -100.8151473,
+    "reviews": [
+      {
+        "text": "Buen trato.",
+        "rating": 5
+      },
+      {
+        "text": "Good service",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "BanBajío Sucursal Celaya Juárez",
+    "calificacion": 4,
+    "descripcion": "bank, finance, point_of_interest, establishment",
+    "lat": 20.5208993,
+    "lng": -100.8151013,
+    "reviews": [
+      {
+        "text": "Excellent place and service",
+        "rating": 5
+      },
+      {
+        "text": "Excellent place!!",
+        "rating": 4
+      },
+      {
+        "text": "Don't go on the fortnight, it's as full as all the banks.",
+        "rating": 4
+      },
+      {
+        "text": "Excellent establishment",
+        "rating": 4
+      },
+      {
+        "text": "",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Sabes Unideg Celaya",
+    "calificacion": 4.8,
+    "descripcion": "point_of_interest, school, establishment",
+    "lat": 20.5448073,
+    "lng": -100.8163834,
+    "reviews": [
+      {
+        "text": "The teaching and administrative team strives to train in values, ethics and entrepreneurship. Respect and a responsible attitude prevail among students. Learning is built from the blended modality; which allows you to work and study; always taking care of quality in professional and human training.",
+        "rating": 5
+      },
+      {
+        "text": "Excellent school, very good teachers and the atmosphere is great. They form very good study habits.\nThanks to all my teachers for being good guides and mentors.\nVery grateful and proud to be UNIDEG",
+        "rating": 5
+      },
+      {
+        "text": "Excellent attention from both teachers and administrators. It is a university with a very practical and updated approach to the circumstances of the current industry.",
+        "rating": 5
+      },
+      {
+        "text": "It is a magnificent university to study a bachelor's degree. Excellent facilities.",
+        "rating": 5
+      },
+      {
+        "text": "Excellent school. Very good teachers and very clean and organized facilities",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Mariscos Chava",
+    "calificacion": 4.4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5395126,
+    "lng": -100.8448104,
+    "reviews": [
+      {
+        "text": "The food was amazing, everyone loved it.\nI had some right in there and got some takeout, my family loved it. 🍤 🦞 🐠 🥗\nMy favorites were :  ceviche and camarón tostadas 🤤 🤤 🤤\n\nThe place is big and suitable for multiple people parties, and the staff is very accommodating.\n\nPlenty of parking and seatings available when I was there.",
+        "rating": 5
+      },
+      {
+        "text": "Good service, pretty place & good taste",
+        "rating": 5
+      },
+      {
+        "text": "Great food. Fast service.",
+        "rating": 4
+      },
+      {
+        "text": "Great service, food is okay. Restaurant is clean. I would return to try a different dish.",
+        "rating": 4
+      },
+      {
+        "text": "Went here for mom's birthday, a bit on the expensive side but it's worth it.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "The Sun of the Bajío Celaya",
+    "calificacion": 4.2,
+    "descripcion": "point_of_interest, establishment",
+    "lat": 20.5197982,
+    "lng": -100.8279571,
+    "reviews": [
+      {
+        "text": "The guy from the classifieds treated me very well, very good service",
+        "rating": 5
+      },
+      {
+        "text": "Newspaper with great tradition and experience in Celaya where you can record the special moments of the family or some school institution and it is the newspaper with the greatest circulation in the State, making it the ideal place for the publication of Edicts for Judicial actions such as Inheritance and notifications from people who do not know where to find them and also its classifieds section where one can find everything from the provision of personal services to the house of your dreams or the car you were looking for",
+        "rating": 5
+      },
+      {
+        "text": "WELL ONLY, FRIENDLY, GOOD ATTENTION, BUT IT'S NOT LIKE BEFORE, IT IS EMPTY, ONCE MANY PEOPLE, NOW (YESTERDAY).. ALONE. THE EDICTS EXPENSIVE FOR TWO PUBLICATIONS $ 2,287.00 THE EDICTS IN THE OFFICIAL JOURNAL OF THE EDO. WORSE.",
+        "rating": 1
+      },
+      {
+        "text": "I went to place a classified ad, the guy who helped me had TERRIBLE attention, very bad character, it took him half an hour to attend to me, there was only me, I imagine when there are people there it would have lasted hours, he was wrong several times, I don't recommend going, very bad service.",
+        "rating": 2
+      },
+      {
+        "text": "Excellent service",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Banorte",
+    "calificacion": 3.5,
+    "descripcion": "bank, atm, finance, point_of_interest, establishment",
+    "lat": 20.5201341,
+    "lng": -100.8236601,
+    "reviews": [
+      {
+        "text": "People there are well organized and provide good customer service",
+        "rating": 5
+      },
+      {
+        "text": "Very friendly service from this branch, good service for me",
+        "rating": 5
+      },
+      {
+        "text": "You must make an appointment in advance so the attention will be better and faster. Using wats app to know how the line is progressing, you must send the word Line. In my opinion, good attention. It takes approximately 25 minutes to cash a check. Despite taking the turn outside the bank and going to authorization. I leave you the branch number.",
+        "rating": 5
+      },
+      {
+        "text": "Poor service and shift distribution",
+        "rating": 1
+      },
+      {
+        "text": "Horrible experience at this branch. I've been waiting 1.5 hours for a card replacement.\nThey took me to the counter, but a cute girl with glasses didn't want to serve me and sent me to the desk. Because of him I had to wait almost 2 hours to be attended to.",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Interceramic Oficial",
+    "calificacion": 3.6,
+    "descripcion": "home_goods_store, point_of_interest, store, establishment",
+    "lat": 20.5476263,
+    "lng": -100.8221146,
+    "reviews": [
+      {
+        "text": "Deficiency in their communication with clients, there is no adequate attention on telephone or WhatsApp. Few staff attending sales area",
+        "rating": 1
+      },
+      {
+        "text": "I didn't like the attention of the employee, she limited herself to the basics and at all times she looked at me with notable discomfort, I don't know why, my hair wasn't disheveled, I was friendly, I specifically went to ask about the apartment I need.",
+        "rating": 3
+      },
+      {
+        "text": "Low quality care. They do not show customer interest. They need training in service quality",
+        "rating": 3
+      },
+      {
+        "text": "Their products are excellent but their delivery service is shit.",
+        "rating": 1
+      },
+      {
+        "text": "Top quality products and a wide variety of designs, in addition to providing good service, they show you products according to what you are looking for.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Hollywood Novias",
+    "calificacion": 4,
+    "descripcion": "clothing_store, point_of_interest, store, establishment",
+    "lat": 20.5207635,
+    "lng": -100.813886,
+    "reviews": [
+      {
+        "text": "Fix your location\nI went to where maps showed me and the location is not there",
+        "rating": 4
+      },
+      {
+        "text": "A place to choose the ideal dress for your xv, wedding, and have that magical moment",
+        "rating": 5
+      },
+      {
+        "text": "Very good service",
+        "rating": 4
+      },
+      {
+        "text": "When I got married I told them hahaha",
+        "rating": 1
+      },
+      {
+        "text": "Excellent service",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "MaciasAuto",
+    "calificacion": 4.2,
+    "descripcion": "point_of_interest, car_dealer, store, establishment",
+    "lat": 20.504875,
+    "lng": -100.8130432,
+    "reviews": [
+      {
+        "text": "We suck!!! Better buy pre-owned units guaranteed at the agencies, my car lasted 2 months and I ended up paying 38 thousand pesos for the repair at the VW agency, since they disclaim and do not give any guarantee.",
+        "rating": 1
+      },
+      {
+        "text": "I bought a car trusting that nothing was wrong with it, when I drove it everything was fine but after 10 days it started producing white smoke from the exhaust, I took them to have it fixed and they changed a part that they said was the problem but it wasn't. Half a year after the purchase, the engine oil ran out completely, I had to take it to the agency to fix it and it ended up costing me 9 thousand pesos since it was a problem with the engine. Check carefully before buying and do not believe that because they are ANCA members their cars are in good condition.",
+        "rating": 1
+      },
+      {
+        "text": "I bought a Manager from Guadalajara, I really thought it would be a lot of cars with all the risks that entails, but my experience was pleasant because they are a reliable company, well established with several branches, Mrs. Rebeca was the one who assisted me Excellent, but in general a very good work team CONGRATULATIONS.",
+        "rating": 5
+      },
+      {
+        "text": "I highly recommend them, I loved the attention they gave me.",
+        "rating": 5
+      },
+      {
+        "text": "Terrible, don't buy there, they make only temporary fixes, terrible service from mechanics and supervisors, avoid headaches!",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Store IMSS - SNTSS",
+    "calificacion": 3.9,
+    "descripcion": "grocery_or_supermarket, food, point_of_interest, store, establishment",
+    "lat": 20.5271419,
+    "lng": -100.8138029,
+    "reviews": [
+      {
+        "text": "They sell frozen products from La Huerta, and I really liked it.",
+        "rating": 5
+      },
+      {
+        "text": "Small store, it has the basics, if you are in the center and need a basic basket... You can visit it there... No lines without problems to make your purchases hehehejw",
+        "rating": 3
+      },
+      {
+        "text": "I like to buy good service on items that lack variety but they give me a very valuable discount in these times",
+        "rating": 5
+      },
+      {
+        "text": "I think the prices could be improved and supervise that all products have the price written down or, failing that, a price checker would have the service and friendliness of the employees very good.",
+        "rating": 4
+      },
+      {
+        "text": "En alimentos para mascotas, no hay para gato, solo para perro..una sola marca el costal no muy accesible  el costo.. en general hay muy poca variedad en productos..",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Paquetexpress",
+    "calificacion": 3.9,
+    "descripcion": "point_of_interest, establishment",
+    "lat": 20.5200706,
+    "lng": -100.7978667,
+    "reviews": [
+      {
+        "text": "They don't answer phones. They do not pay attention to giving information about your shipment. They themselves returned a package for no reason and without warning. When you demand their response (if they respond) it is because they lack personnel. I don't recommend it unless you want to get angry and lose your sales.",
+        "rating": 1
+      },
+      {
+        "text": "Deplorable, mediocre service, they are liars. The packages arrive at the destination branch for days and do not leave the route. They don't answer the phone. Months suffering WITH THE SAME THING because of your mediocrity because my supplier is entrenched with you. Not even how to save me unfortunately, THEY'RE SHAME!!!!",
+        "rating": 1
+      },
+      {
+        "text": "TERRIBLE SERVICE!!!\nThey send you the package to the new ranch and they are not responsible!!!",
+        "rating": 1
+      },
+      {
+        "text": "Quick and attentive service, I didn't take long to receive my package.",
+        "rating": 4
+      },
+      {
+        "text": "Excellent attention. Very good prices. Much better than other parcel services and their deliveries are on time.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "El Sol del Bajío",
+    "calificacion": 3.9,
+    "descripcion": "point_of_interest, establishment",
+    "lat": 20.5247424,
+    "lng": -100.8128101,
+    "reviews": [
+      {
+        "text": "A VERY provincial and chayotero newspaper. The facilities are nothing out of this world.",
+        "rating": 1
+      },
+      {
+        "text": "Excellent map of this beautiful city.",
+        "rating": 5
+      },
+      {
+        "text": "Good facilities :D",
+        "rating": 5
+      },
+      {
+        "text": "Good local information",
+        "rating": 5
+      },
+      {
+        "text": "Great place",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Telcel Customer Service Center",
+    "calificacion": 4.1,
+    "descripcion": "point_of_interest, store, establishment",
+    "lat": 20.5530641,
+    "lng": -100.8231863,
+    "reviews": [
+      {
+        "text": "Too many visits for a simple task and representatives still didn't clear anything.....",
+        "rating": 1
+      },
+      {
+        "text": "Wasn't really happy at all, I had to travel a long way to get to the closest Telcel, they took several hours to fix my Modem that just froze all of a sudden. They supposedly fixed it but said they couldn't try it there because the moded would register that spot as the adress so I took it home and by the time I connected the modem it turned on but now a message appeared on the screen saying the modem is not compatible with the Sim card to change it to a compatible Modem. Now I have to travel again for almost 2 hours to get to my closest Telcel, really not happy about this specially since I haven't been ae to use more than 70% of my megabytes and I still have to pay the full month.",
+        "rating": 1
+      },
+      {
+        "text": "Wonderful attention thanks to Miguel Rosas for the information provided",
+        "rating": 4
+      },
+      {
+        "text": "Very Slow service, personal who help you are rude",
+        "rating": 1
+      },
+      {
+        "text": "Telhell avoid at all costs !",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Financiera Independencia S. A. de C. V.",
+    "calificacion": 2.4,
+    "descripcion": "point_of_interest, establishment",
+    "lat": 20.5255441,
+    "lng": -100.8262867,
+    "reviews": [
+      {
+        "text": "They are children of the vrga and their interest is going to 400 percent, look for another loan option like the popular fund, here if you don't want to pay more than triple the interest",
+        "rating": 1
+      },
+      {
+        "text": "They charge a lot of interest and don't waive any of it if you pay the bill early. In addition to the biweekly payments of $500, for example, only $15 goes toward the principal, and everything else is pure interest charges... I don't like it...",
+        "rating": 1
+      },
+      {
+        "text": "Good place to apply for a loan if you need it, although the interest seems a bit high to me",
+        "rating": 3
+      },
+      {
+        "text": "MY EXPERIENCE IN CORTAZAR FINANCIAL IS THAT I HAVE A BAD IMPRESSION BECAUSE THE MANAGER DORA ALICIA DOES NOT TREAT CUSTOMERS WELL. ON THE 15TH OF THE PRESENT, I RECOMMENDED MRS. GUADALUPE VILLANUEVA DE VILLAGRAN. AND I WAS VERY ANNOYED BECAUSE AT THE TIME I WENT TO REQUEST THE COMPANY'S SERVICES THEY WERE STRONGLY DENIED SINCE THEY SAID TO WAIT UNTIL I FINISHED HAVING LUNCH OR EATING I HAVE PHOTOS WHERE THE OFFICE IS COMPLETELY ALONE WITHOUT STAFF TO ATTEND.",
+        "rating": 1
+      },
+      {
+        "text": "They like to be Chingue and Chingue even if you don't belong and they literally force you to look for the damn druggists",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Notaria Pública 11",
+    "calificacion": 2.8,
+    "descripcion": "finance, point_of_interest, establishment",
+    "lat": 20.5179187,
+    "lng": -100.8332811,
+    "reviews": [
+      {
+        "text": "They don't even deserve a star.\nBe careful fraud for sure.\nI made a procedure in September of last year. We paid the money and now the supposed lawyer does not respond....\nA total fraud. I wish all the people who have been defrauded by this notary could file a legal claim to proceed.",
+        "rating": 1
+      },
+      {
+        "text": "My experience with the notaries in Celaya had always been very good, in fact I considered them to be very professional (I carried out procedures in 5 notaries before)... until I came to this notary. Unfortunately my experience was very bad, a procedure that took almost a year, when normally it is carried out in a couple of months, I could understand that for various reasons, as long as it was explained clearly, but unfortunately when you call the reception things get worse, I consider that the person who is in this position has zero sensitivity with customer treatment, he tells you in a very beaten way that he does not know, that he will call you later, that he will notify the Lic who handles your procedure, etc. etc. Very bad service for which you pay and it is not cheap at all. I do not recommend it, unfortunately I did not choose it so that I could have a shared responsibility with the decision, it was assigned by the real estate company.",
+        "rating": 1
+      },
+      {
+        "text": "I sold a house and everything was great, but now that I want to do another procedure they answer me very badly, they contact me with the lawyer Maricarmen, I ask her my question and she asks me if I am a seller, I tell her no, that I am an advisor and He responds “Ah gee” with a mocking tone and with an upset voice he responds as if he was treating me like a fool, perhaps because of the question I asked him, I think he is not professional at all in his treatment, because it was not the way to answer. We have to pay more attention to the people they put in charge, because a notary office that I had recommended so much, today completely disappointed me.",
+        "rating": 1
+      },
+      {
+        "text": "Terrible Notary without exception all its staff, trained to provide bad service, especially the Notary Carlos Hurtado, lying people, thieves (plus the supposed lawyer Salvador González) few professionals, I do not recommend them at all.\nAnd don't waste time locating the notary because he will never be available.",
+        "rating": 1
+      },
+      {
+        "text": "Excellent attention from everyone, the graduate is a very attentive person who listens and resolves any administrative problem. I was able to provide support for any questions regarding my process via WhatsApp, which made everything easier for me.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Envia",
+    "calificacion": 3,
+    "descripcion": "point_of_interest, establishment",
+    "lat": 20.514736,
+    "lng": -100.8046063,
+    "reviews": [
+      {
+        "text": "Good and fast service",
+        "rating": 5
+      },
+      {
+        "text": "Mild",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Instituto Bíblico, Teológico Pastoral \"Obispo Victorino Álvarez Tena\"",
+    "calificacion": 5,
+    "descripcion": "church, place_of_worship, point_of_interest, establishment",
+    "lat": 20.5396939,
+    "lng": -100.8281958,
+    "reviews": [
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Movistar Centro de Atención a Clientes",
+    "calificacion": 3.7,
+    "descripcion": "point_of_interest, store, establishment",
+    "lat": 20.54774249999999,
+    "lng": -100.8210745,
+    "reviews": [
+      {
+        "text": "Ok",
+        "rating": 5
+      },
+      {
+        "text": "Cool",
+        "rating": 5
+      },
+      {
+        "text": "They serve when they want, how they want, to whom they want. They take a while to attend to you, they pass on your shift and then the person in charge does nothing and seeing that there are people, she tells you to wait for them to attend to you and she... Just watching... Bad service, bad company... I'm about to change... It's already been too much with Movistar...",
+        "rating": 1
+      },
+      {
+        "text": "Efficient service, they explain something quickly but well, place to park, nice place, comfortable, in general good service, just wait for the service.",
+        "rating": 4
+      },
+      {
+        "text": "Limited parking spaces, regular attention from associates, the highlight: the very friendly security guard",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "nombre": "Multillantas Nieto",
+    "calificacion": 4.3,
+    "descripcion": "car_repair, point_of_interest, store, establishment",
+    "lat": 20.52618,
+    "lng": -100.79974,
+    "reviews": [
+      {
+        "text": "It is a place that still does not take care of its attention times. You go to a specific service and they take at least 20 minutes initially to give you a \"review\" to see what else they can sell you. This review has nothing to do with what you requested.\nOn the other hand, the price of the tires is not competitive. Being a better option. Nieto Tires. (it is not commercial but we do compare prices and models)",
+        "rating": 3
+      },
+      {
+        "text": "Very good service and the teacher who does the alignment is a good person.",
+        "rating": 5
+      },
+      {
+        "text": "Manuel is a great mother, they were able to fix something that the insurance couldn't in 3 months!",
+        "rating": 5
+      },
+      {
+        "text": "Very good attention, service and very affordable prices",
+        "rating": 4
+      },
+      {
+        "text": "The place is recommended, a wide variety of tires, qualified labor and time expectations are met subject to additional details than those reported. Responsible and professional work.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Refaccionaria California",
+    "calificacion": 4.1,
+    "descripcion": "car_repair, point_of_interest, store, establishment",
+    "lat": 20.5200405,
+    "lng": -100.7974734,
+    "reviews": [
+      {
+        "text": "Ex",
+        "rating": 5
+      },
+      {
+        "text": "Good",
+        "rating": 4
+      },
+      {
+        "text": "Terrible attention when calling the phone, I thought the problem was with my cell phone because every time I called they pretended to ask me and hung up, no matter how many times you call they will always hang up on you. And apparently they've been doing it for a while.\nI don't recommend it",
+        "rating": 1
+      },
+      {
+        "text": "One of the worst places to get spare parts in all of Celaya. Their level of arrogance is incredible. They think they are above the customer. What really happens is that intelligence is chasing them, but they are very fast. This type of people are a disappointment, if you can even call them that.",
+        "rating": 1
+      },
+      {
+        "text": "El telefono les vale vrg,acabo de marcar y solo te preguntan que necesitas,y cuando les dices solo se hacen pendejos y al final te cuelgan,y cuando vuelves a marcar te cuelgan el telefono....para el que me atendio....chtm",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Sólo Química de México S.A. de C.V.",
+    "calificacion": 5,
+    "descripcion": "point_of_interest, establishment",
+    "lat": 20.5226854,
+    "lng": -100.8034649,
+    "reviews": [
+      {
+        "text": "",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "University of the Center of Bajío",
+    "calificacion": 4.7,
+    "descripcion": "university, point_of_interest, establishment",
+    "lat": 20.539579,
+    "lng": -100.8163885,
+    "reviews": [
+      {
+        "text": "I had the great opportunity to study and complete my higher education at this great university. I really respect every teacher and administrator who works here, they provide an excellent quality education and the best thing is that you can study and work at the same time. I will definitely return to continue preparing with them.",
+        "rating": 5
+      },
+      {
+        "text": "Communication is very poor, there is no timely response to situations such as the fact that more than 5 years ago they still have not given me an answer about the Doctorate in Education, which they opened WITHOUT REVOE, they have not had the slightest intention of refunding my money, nor delivering my documentation. I no longer want to study the doctorate with you because you changed the academic plan, but I have not had a response from the University either. Very bad and all for not reporting in due time, for trusting you and Ms. Ana Lorena Peña, who by the way never showed her face.",
+        "rating": 1
+      },
+      {
+        "text": "Excellent school, authorized to issue certificates, degrees and digital Federal ID, so graduating is very fast, with executive courses only on Saturdays or two hours in the morning, with more than 25 years of experience and an excellent academic level of Bachelor's, Master's and Doctorate degrees.",
+        "rating": 5
+      },
+      {
+        "text": "Very good place for people looking to do a bachelor's, master's or PhD. Very good facilities and organization. And the professionals who work here have very good service. If you are looking to continue working and studying, it is a very good option.",
+        "rating": 5
+      },
+      {
+        "text": "Extensive facilities. Bathrooms with few rounds of cleaning, without mirrors. Very good teaching and administrative staff. Affordable prices for tuition and mixed modality of studies.",
+        "rating": 4
+      }
+    ]
+  }
+]

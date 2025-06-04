@@ -1,0 +1,1742 @@
+[
+  {
+    "nombre": "Galerías Celaya",
+    "calificacion": 4.5,
+    "descripcion": "shopping_mall, electronics_store, department_store, movie_theater, clothing_store, jewelry_store, restaurant, food, point_of_interest, store, establishment",
+    "lat": 20.5316722,
+    "lng": -100.7785774,
+    "reviews": [
+      {
+        "text": "Great shopping mall where you can find anything for shopping or dining, there is even a hotel next to it, only flaw I saw is that Food court can get crowded and seating area might not be enough for all people",
+        "rating": 5
+      },
+      {
+        "text": "This place is a little kind of posh and high class , as it has many brands makes and popular restaurants",
+        "rating": 4
+      },
+      {
+        "text": "Loved the stores and workers. A nice family mall.",
+        "rating": 5
+      },
+      {
+        "text": "Clean, safe, family friendly atmosphere.",
+        "rating": 4
+      },
+      {
+        "text": "It is fun to come here, either to shop or just to spend time, but it's going to be crowded on weekends.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Mariscos Chava",
+    "calificacion": 4.4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5395126,
+    "lng": -100.8448104,
+    "reviews": [
+      {
+        "text": "The food was amazing, everyone loved it.\nI had some right in there and got some takeout, my family loved it. 🍤 🦞 🐠 🥗\nMy favorites were :  ceviche and camarón tostadas 🤤 🤤 🤤\n\nThe place is big and suitable for multiple people parties, and the staff is very accommodating.\n\nPlenty of parking and seatings available when I was there.",
+        "rating": 5
+      },
+      {
+        "text": "Good service, pretty place & good taste",
+        "rating": 5
+      },
+      {
+        "text": "Great food. Fast service.",
+        "rating": 4
+      },
+      {
+        "text": "Great service, food is okay. Restaurant is clean. I would return to try a different dish.",
+        "rating": 4
+      },
+      {
+        "text": "Went here for mom's birthday, a bit on the expensive side but it's worth it.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Tortas El Feo",
+    "calificacion": 4.1,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5195503,
+    "lng": -100.8251635,
+    "reviews": [
+      {
+        "text": "I managed to get 4 mineral waters with a lot of effort. I went to an event but they flat out neglected the service at my table. Very delicious food, very nice place.",
+        "rating": 4
+      },
+      {
+        "text": "Quiet place, friendly staff and very tasty food in its style.",
+        "rating": 5
+      },
+      {
+        "text": "Tortas muy ricas, la atención por parte del dueño muy mala.",
+        "rating": 2
+      },
+      {
+        "text": "The place is ugly and outdated, the service is poor, they used to be very delicious cakes and they have been declining, the last time I went I didn't feel like going back 🤷🏻‍♂️",
+        "rating": 1
+      },
+      {
+        "text": "Fast service, friendly and very delicious cakes",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Bora Bora",
+    "calificacion": 4.3,
+    "descripcion": "bar, restaurant, food, point_of_interest, establishment",
+    "lat": 20.52828869999999,
+    "lng": -100.8042312,
+    "reviews": [
+      {
+        "text": "This place has the most amazing micheladas, great tasting and so many flavors! The pizza here was delicious, authentic flavor, the crust was crunchy and pizza tasted great! Variety of toppings to choose from, you make your own; can make your pie up to 4 different things in one! Genuine!! Great spot to unwind and eat good food!! Loved it!!",
+        "rating": 5
+      },
+      {
+        "text": "Pretty busy on weekends ... pizzas are ok, friendly place before going to a night club,",
+        "rating": 4
+      },
+      {
+        "text": "The pizza from here was delicious, the micheladas here are delicious as well with many different flavors to choose from. Loved it! Great food here!",
+        "rating": 5
+      },
+      {
+        "text": "Grest place for good company and a chesp beer. Food recommended.",
+        "rating": 5
+      },
+      {
+        "text": "Nice place some of the cleintes are super fresas (stuck up yuppies) but other then that it's nice.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Pollo Feliz",
+    "calificacion": 4.1,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5202331,
+    "lng": -100.8195329,
+    "reviews": [
+      {
+        "text": "Great food very clean, great place for kids to enjoy a playground",
+        "rating": 5
+      },
+      {
+        "text": "A very nice chicken on the grill.",
+        "rating": 5
+      },
+      {
+        "text": "😃",
+        "rating": 5
+      },
+      {
+        "text": "It is a taco chain what more can I say.",
+        "rating": 3
+      },
+      {
+        "text": "Fast food chain with so so food.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "nombre": "Taqueria Bini'ni Grillos",
+    "calificacion": 4.2,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5284382,
+    "lng": -100.8292561,
+    "reviews": [
+      {
+        "text": "Long wait, not so yummy.\nOn the bright side, not many places accept credit/debit cards, so that helps them.\nI didn't like their tortillas, they are thick.\nThey don't give many sides on to go orders.",
+        "rating": 3
+      },
+      {
+        "text": "It's tasty but not as tasty as before !\nThe potatoes are still really good !",
+        "rating": 4
+      },
+      {
+        "text": "Food is great, I have the potatoes and 1lt natural juice, I recommended, really cheap but great quality",
+        "rating": 5
+      },
+      {
+        "text": "Nice tacos and papas",
+        "rating": 5
+      },
+      {
+        "text": "The tacos are good but the service not so much :( They take a while to take your order and a while to bring them to you. The place feels comfortable but I do consider that they have to be more hygienic, I went to the restroom to wash my hands and in the sink I found a cockroach and in general the bathroom was dirty, I wish they could improve that and the customer service.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "nombre": "Carnitas Uruapan",
+    "calificacion": 4.4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.540435,
+    "lng": -100.8205579,
+    "reviews": [
+      {
+        "text": "Amazing food! The most we have eaten our entire 2 weeks in Mexico! The Carnitas were fabulous.",
+        "rating": 5
+      },
+      {
+        "text": "Delicious carnisltas with very big tacos. Must visit place to good food.",
+        "rating": 5
+      },
+      {
+        "text": "The food was nice and it has enough room in the restaurant and it was clean",
+        "rating": 4
+      },
+      {
+        "text": "Super Deliiiiiiiiii!!!!!!😁",
+        "rating": 5
+      },
+      {
+        "text": "Rico",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "nombre": "Golden China Restaurant",
+    "calificacion": 4.2,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5188006,
+    "lng": -100.7966123,
+    "reviews": [
+      {
+        "text": "Went on sunday,very crowded,but a bargain for the array of food items,crab,shrimp tbone at the grill,165 pesos with senior discoount",
+        "rating": 4
+      },
+      {
+        "text": "Well, this was certainty a differant experience!  I would not recommend eating here!  Service is lacking!  The food was sparce!",
+        "rating": 1
+      },
+      {
+        "text": "Bad customer service. Food is not so great. Trust me it's not pleasant having lunch or dinner at this place.",
+        "rating": 1
+      },
+      {
+        "text": "It's a very good person place to taste the Asian food flavor on family atmosphere",
+        "rating": 5
+      },
+      {
+        "text": "A little on the expensive side. But ok overall.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Giannino´S Renacimiento",
+    "calificacion": 4.2,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5193909,
+    "lng": -100.8323142,
+    "reviews": [
+      {
+        "text": "Familiar place to eat",
+        "rating": 5
+      },
+      {
+        "text": "Good food",
+        "rating": 3
+      },
+      {
+        "text": "As always, everything was delicious (the bread and cheese were the best) and the service was excellent. The young man who served us was very friendly (rare these days in any establishment), and the owner was also very helpful in suggesting the coolest spot in the restaurant. The cleanup and renovations they've done to improve the service are noticeable.",
+        "rating": 5
+      },
+      {
+        "text": "It is super cute and if you bring children they have a children's area with a very large inflatable, excellent place",
+        "rating": 5
+      },
+      {
+        "text": "A very nice place, good service. Spaghetti in guajillo oil is very pleasant to the palate. However, the pizza we ordered had the soul of chorizo. I wouldn't order it again. I will return to try another specialty.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "nombre": "Sha Oriental Cuisine",
+    "calificacion": 4.6,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5171055,
+    "lng": -100.7885216,
+    "reviews": [
+      {
+        "text": "The food was incredible and the service almost perfect! I'll definitely have dinner here again!",
+        "rating": 5
+      },
+      {
+        "text": "I got the salmon, and the meal was really salty, but tasty. They toss the house salad right at the table! Interior decor is nice.",
+        "rating": 3
+      },
+      {
+        "text": "Great food, service a bit slow. Would still recommend this place and definitely go back.",
+        "rating": 4
+      },
+      {
+        "text": "Really bad oriental place. Bad service from the crew, long wait for the dishes, really bad season and over priced for the food. Not recommended at all.",
+        "rating": 1
+      },
+      {
+        "text": "Delicious food! The best place in celaya to eat oriental food!",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "The Pastry Diaz Barriga S.A. of C.V.",
+    "calificacion": 4.4,
+    "descripcion": "bakery, restaurant, food, point_of_interest, store, establishment",
+    "lat": 20.5274973,
+    "lng": -100.8132296,
+    "reviews": [
+      {
+        "text": "Good looking cakes",
+        "rating": 4
+      },
+      {
+        "text": "The cookies are by far the most delicious I have ever tried, the empanadas are very good too, the service is fast and a little \"pressing\" (perhaps because there were a lot of people), they have several branches and they make cakes and cookies to order, in general of the best and traditional that there is in Celaya, a must visit if you come to visit or are in the area",
+        "rating": 4
+      },
+      {
+        "text": "The best cakes in Celaya, they are delicious, it is my trusted pastry shop, 100% recommended",
+        "rating": 5
+      },
+      {
+        "text": "I have been buying here for 20 years, however in the last 6 years I had not purchased products. Today I bought a double chocolate and a pineapple, with the disappointment that they no longer have the same flavor and dedication when produced. The top of the cakes is very cakey and dry, my purchase was to celebrate our 19th wedding anniversary, unfortunately the main detail of our meeting was a lot of owed. So much so that we all left more than half of the slice on the plate and none of the cake was finished 😞",
+        "rating": 3
+      },
+      {
+        "text": "Honestly very very delicious, you can also have personalized ones made haha",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Hambur Tort 1988",
+    "calificacion": 4.5,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5234032,
+    "lng": -100.8308393,
+    "reviews": [
+      {
+        "text": "The best cakes in all of Celaya, the incomparable seasoning and the quality as always impeccable!",
+        "rating": 5
+      },
+      {
+        "text": "One of the best in Celaya, a tradition since I was a young boy and they continue to have the same great flavor. Very good",
+        "rating": 4
+      },
+      {
+        "text": "The burgers are delicious, not to mention the homemade chimichurri sauce they make is delicious, I recommend it 🤤🤤🤤👍🌈",
+        "rating": 5
+      },
+      {
+        "text": "Excellent service, flavor, and exceptional attention; the best tortas in Celaya!!!",
+        "rating": 5
+      },
+      {
+        "text": "The food is very good and they serve you very well, a place that I highly recommend.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Lakshmi",
+    "calificacion": 4.3,
+    "descripcion": "grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",
+    "lat": 20.5245149,
+    "lng": -100.8146457,
+    "reviews": [
+      {
+        "text": "Tasty, clean and affordable healthy food, the soy and special burgers are killers with a green juice combination",
+        "rating": 5
+      },
+      {
+        "text": "Awesome Place\nUnforgettable Atmosphere\nGreat Service\nFriendly Staff",
+        "rating": 5
+      },
+      {
+        "text": "Deli deli",
+        "rating": 5
+      },
+      {
+        "text": "Simply delicious!!",
+        "rating": 5
+      },
+      {
+        "text": "Delicious veggie restaurant",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Giannino's Campestre",
+    "calificacion": 4.3,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5180645,
+    "lng": -100.7896118,
+    "reviews": [
+      {
+        "text": "Easily accessible, fast delivery, friendly staff, staff knows english, ambience need to be improved, food is not so great. I recommend some improvement like renovations may require since it is old restaurant. Overall ok. Well maintained.",
+        "rating": 5
+      },
+      {
+        "text": "Food taste horrible. May be fine for the locals but for travelers no. This food is more suitable for dogs. I would have gave them a higher rating if they only took the plate back, that I only took one bite from, but instead they had the nerve to tell me nothing was wrong with it when I just didn't like the taste of it. I wanted the ravioli to begin with and I ordered the cannoli, at the waiters suggestion because they didn't have it, the cannoli was made like a enchilada. My wife ordered the calzone, which she didn't eat either. I come to Celaya often but will never be coming back to this \"restaurant\".",
+        "rating": 1
+      },
+      {
+        "text": "Pizza was ok but not great, tasted it but not finished it, for saying it's Italian they need to work on their dough recipe.  I ordered the salmon, tasted great, so better choice to go with In this place, the pasta looked great as well but did not taste it, place is ok, clean and service was great!",
+        "rating": 3
+      },
+      {
+        "text": "Food is alright to be in Mexico, I ordered the Salmon it did taste good, the pizza was alright but not as I expected!",
+        "rating": 4
+      },
+      {
+        "text": "Slow service but great food",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Tacos El Bajito",
+    "calificacion": 4.4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.517352,
+    "lng": -100.7864718,
+    "reviews": [
+      {
+        "text": "Tacos el Bajito or El Guero as locals call it. They are legendary. We have them every time we are in Celaya. Simply the best tacos in all Mexico with super quick service. Clean modern style restaurant, good prices. They also hace delivery service if you feel lazy!",
+        "rating": 5
+      },
+      {
+        "text": "Best place to have real Mexican tacos. Cleanness is up to the top and service is great. Highly recommended.",
+        "rating": 5
+      },
+      {
+        "text": "Great taste, quick service, good variety.",
+        "rating": 5
+      },
+      {
+        "text": "Some of the best tacos in town but extremely expensive !",
+        "rating": 4
+      },
+      {
+        "text": "Good tacos, nice place, bad service",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "nombre": "Restaurante Bar El Palenque",
+    "calificacion": 4.4,
+    "descripcion": "bar, restaurant, food, point_of_interest, establishment",
+    "lat": 20.5382538,
+    "lng": -100.8317642,
+    "reviews": [
+      {
+        "text": "Buffet style familiar food. Friendly hosts and good atmosphere. Clean bathrooms! A great place for tourists and locals.",
+        "rating": 5
+      },
+      {
+        "text": "Very good for, the enchiladas with vegetables is a good option for vegans, they have a small area for children to play aswell",
+        "rating": 5
+      },
+      {
+        "text": "Good Mexican foof",
+        "rating": 4
+      },
+      {
+        "text": "Expensive",
+        "rating": 3
+      },
+      {
+        "text": "Ex",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "The Italian Coffee Company",
+    "calificacion": 4.3,
+    "descripcion": "cafe, restaurant, food, point_of_interest, store, establishment",
+    "lat": 20.519613,
+    "lng": -100.829781,
+    "reviews": [
+      {
+        "text": "Great place. I go there atleast twice a week.",
+        "rating": 5
+      },
+      {
+        "text": "Ok",
+        "rating": 4
+      },
+      {
+        "text": "Okay",
+        "rating": 4
+      },
+      {
+        "text": "A very pleasant, quiet place, ideal for a business meeting, appointment, etc. The service is excellent, as is the attention and the product.",
+        "rating": 5
+      },
+      {
+        "text": "I always go to buy a frappuccino there because it's so close, but the truth is, the vehicle access is terrible, which doesn't detract from the attentiveness of the staff.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "El Biombo",
+    "calificacion": 4.4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5269074,
+    "lng": -100.8108424,
+    "reviews": [
+      {
+        "text": "Food was just okay and high-priced for quality and quantity.",
+        "rating": 2
+      },
+      {
+        "text": "Wosb",
+        "rating": 5
+      },
+      {
+        "text": "Nice food and nice place",
+        "rating": 4
+      },
+      {
+        "text": "It is a pleasant place with decoration typical of the region and food with a homemade flavor.\nThe portions are generous, the only thing we didn't like was the coffee that looks more like diluted pot coffee than American coffee.",
+        "rating": 5
+      },
+      {
+        "text": "Very nice family place, they have a playroom for the little ones, excellent service, food 10/10, very fast service and on the weekend, highly recommended",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Las Margaritas",
+    "calificacion": 4.1,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.51792279999999,
+    "lng": -100.7893011,
+    "reviews": [
+      {
+        "text": "Very good place",
+        "rating": 5
+      },
+      {
+        "text": "I love this place and the food is delicious",
+        "rating": 5
+      },
+      {
+        "text": "Good place",
+        "rating": 3
+      },
+      {
+        "text": "Good place",
+        "rating": 4
+      },
+      {
+        "text": "Good",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "nombre": "Mariscos los Esteros",
+    "calificacion": 4.2,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.509278,
+    "lng": -100.8133393,
+    "reviews": [
+      {
+        "text": "Because they increased the prices outrageous.  For example a simple michelada cost 104 pesos those guys are crazy! Probably I will not back again.",
+        "rating": 1
+      },
+      {
+        "text": "The food there is amazing. And they have some really interesting stuff on the menu.",
+        "rating": 4
+      },
+      {
+        "text": "Good food",
+        "rating": 5
+      },
+      {
+        "text": "Relax",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Carnitas Uruapan",
+    "calificacion": 4.4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5260249,
+    "lng": -100.8369904,
+    "reviews": [
+      {
+        "text": "Really good carnitas.i go back anytime I can..",
+        "rating": 5
+      },
+      {
+        "text": "Tasty and diffent option from tortas, tacos, by kilogram, etc",
+        "rating": 3
+      },
+      {
+        "text": "Uf",
+        "rating": 5
+      },
+      {
+        "text": "Ok",
+        "rating": 3
+      },
+      {
+        "text": "Great food",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "El Pollo Volador",
+    "calificacion": 4.8,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5247269,
+    "lng": -100.8258371,
+    "reviews": [
+      {
+        "text": "They were my favorites",
+        "rating": 5
+      },
+      {
+        "text": "Good correct cheap",
+        "rating": 4
+      },
+      {
+        "text": "Excellent chickens",
+        "rating": 5
+      },
+      {
+        "text": "Delicious chickens..",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Pizzas Mamma O'Fan",
+    "calificacion": 4.3,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5173648,
+    "lng": -100.82556,
+    "reviews": [
+      {
+        "text": "One of the best pizzas in Celaya I highly recommend that one who have corn, chicken and pepper and the chimichurri sauce it's for real really good and spicy🦷",
+        "rating": 5
+      },
+      {
+        "text": "Great pizza!!!",
+        "rating": 5
+      },
+      {
+        "text": "Really good",
+        "rating": 5
+      },
+      {
+        "text": ",,.m",
+        "rating": 5
+      },
+      {
+        "text": "20 years ago these pizzas were the best in Celaya due to the quality of their ingredients and preparation. Today, after many years, I ordered a pizza and it was disappointing to see that the pizza base looked like it was a flatbread that had been reheated and the toppings were dry and of poor quality.",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "nombre": "Carnitas Uroapan",
+    "calificacion": 4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.520231,
+    "lng": -100.820064,
+    "reviews": [
+      {
+        "text": "The service is very slow, it took around 35 minutes for them to serve me (my order was for takeout), in the end the good thing about all this time is that it was worth it, because their carnitas are very good 😋.\nAs soon as I parked it I was lucky and found it without problems. I found the establishment clean",
+        "rating": 4
+      },
+      {
+        "text": "The staff are friendly, but they trick you when you ask if they bill. They gave me a WhatsApp number, I sent my tax information, and I haven't received a bill. They never answer messages, and the staff don't know how to solve them. I've sent many requests, and even though they've been read, no one responds. The service is poor in this area.",
+        "rating": 1
+      },
+      {
+        "text": "The meat was too dry and tasteless, it looked like carnitas from the day before... I ended up buying other ones at the market to satisfy my craving; the place is not recommended at all.",
+        "rating": 1
+      },
+      {
+        "text": "The most delicious meats. Its flavor is unmatched, the attention is always very cordial and kind from everyone. And parking is no problem. You can buy a complete meal in one place",
+        "rating": 5
+      },
+      {
+        "text": "What a delight and such good attention, the food of good quality and above all freshness, in addition to being able to enjoy with a good cold soft drink or a delicious freshly squeezed orange juice",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Le Chef",
+    "calificacion": 4.6,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5167135,
+    "lng": -100.813067,
+    "reviews": [
+      {
+        "text": "This place is amazing!!! Indeed this place has the 3 B: “Bueno, bonito y barato”, the gourmet water is absolutely awesome 👏🏼, the food is tasty and the portions are more than enough, even 2 people could eat with a plate…indeed one of my favorite!!!",
+        "rating": 5
+      },
+      {
+        "text": "I really ate well. The two dishes we ordered were delicious and of quality. We ate fish. The price is standard for its good quality",
+        "rating": 5
+      },
+      {
+        "text": "I went in December, the food is very filling, I recommend the stuffed shrimp, the water is a good little glass, and they don't have uncomfortable music.\nEveryone very friendly and attentive.",
+        "rating": 5
+      },
+      {
+        "text": "Very good cuisine, high quality dishes, I have been visiting for approximately 10 years and it seems good to me, they have only one problem lately they have octopus on the menu and they never have it to serve, that is not good, if they don't serve it, they should remove it from the menu",
+        "rating": 5
+      },
+      {
+        "text": "Everything is very delicious",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Maga Pizza",
+    "calificacion": 4.1,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5130794,
+    "lng": -100.8235146,
+    "reviews": [
+      {
+        "text": "Great pizza and great service highly recommend only pizza place i go to now since I found this little pizza place",
+        "rating": 5
+      },
+      {
+        "text": "Incredibly slow experience. I ordered online and my order wasn’t ready for 20 minutes, as they hadn’t started it. Ridiculous. Other customers had the same problem while I was there.",
+        "rating": 1
+      },
+      {
+        "text": "Execelente pizza gourmet",
+        "rating": 5
+      },
+      {
+        "text": "best pizza in celaya",
+        "rating": 5
+      },
+      {
+        "text": "Super..",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "DELICOCINA",
+    "calificacion": 4,
+    "descripcion": "meal_takeaway, restaurant, food, point_of_interest, establishment",
+    "lat": 20.5283382,
+    "lng": -100.8142667,
+    "reviews": [
+      {
+        "text": "Very delicious much better than McDonald's and burger king",
+        "rating": 5
+      },
+      {
+        "text": "Excellent service, highly recommended",
+        "rating": 5
+      },
+      {
+        "text": "Very rich",
+        "rating": 4
+      },
+      {
+        "text": "Mmm very good",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Mi Espacio Guanajuato",
+    "calificacion": 4.4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5230401,
+    "lng": -100.8120289,
+    "reviews": [
+      {
+        "text": "Great and historical place to eat",
+        "rating": 5
+      },
+      {
+        "text": "We were the only ones at the restaurant our food took forever to arrive,the food was blah and cold on top of everything .\nLacks customer service the only good thing was cafe de olla and cute decor.",
+        "rating": 3
+      },
+      {
+        "text": "Poor waiting service, poor to none true veggie options, kind of pricy... As far as I am concerned, not worth my while.",
+        "rating": 2
+      },
+      {
+        "text": "I'm going to grade this place in different aspects, the first is the location, which is great the restaurant is located in downtown and its in like a minimall, it is surrounded by a bar and some other stores that were brought by the government for tourism, where you can buy local products. They have several prizes displayed at the entrance.\nThe tables and chairs are folkloric, and by that I mean they have different artistic or historical scenes or characters on them, carved on the wood.  And they are comfortable.\nThe food is great, it's very rewarding to the palate and the presentation is attractive.\nThose were the good points, I mean, I would repeat my experience there if they assure me that they have improved the following:\nBad and slow service, it seems like the waiters don't really want to work there, I mean a soda took almost 15 min to arrive, and only after we reminded him about it.  The food also took ages to arrive, more than expected in a normal restaurant.  Plus we had to change the order one time because after all the time the waiter came back to say that they didn't have the ingredients.  What they were doing all this time? Who knows!\nLot of flies, you would expect flies on the street cars, but in  the restaurant? What about electric zappers, or any other kind of devices to make your stay better.\nI left a written review noticing these points so maybe they would improve, I hope because the food is pretty good, that what save it form 1 star.",
+        "rating": 3
+      },
+      {
+        "text": "Nice view of the city. Ok food.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Giannino’s",
+    "calificacion": 4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5223019,
+    "lng": -100.8124476,
+    "reviews": [
+      {
+        "text": "Good food, takes a while but you know is fresh made.",
+        "rating": 4
+      },
+      {
+        "text": "Food is not the best but service is great",
+        "rating": 2
+      },
+      {
+        "text": "The pizza wasn’t great, but the service is.",
+        "rating": 2
+      },
+      {
+        "text": "Nice",
+        "rating": 4
+      },
+      {
+        "text": "Their pizzas and fruit waters are always very delicious, but the place is small for the amount of people there usually are. If they go at rush hour, don't even think that they will serve you quickly. However, if you have time, it is worth it, because the service and price are average.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Antonia Cocina & Café",
+    "calificacion": 4.1,
+    "descripcion": "restaurant, cafe, food, point_of_interest, store, establishment",
+    "lat": 20.5221828,
+    "lng": -100.8131891,
+    "reviews": [
+      {
+        "text": "My experience at this place was anything but pleasant. There is something about the food in Mexico that makes you fall in love with the country, but in this place they don't care at all about customer service or the quality of the food, which tasted horrible and the owner and his daughter are rude people. I don't recommend going here ever.",
+        "rating": 1
+      },
+      {
+        "text": "Its a relaxed restaurant at first floor in downtown but entrance its a small door to stairs at street level. The food tastes good but small portions compared with price. Have a small kids area but dirty toys.",
+        "rating": 3
+      },
+      {
+        "text": "It’s a cozy place, the crew is helpful and kind, we had a capuchino and chocolate…it’s not so costly, definitely a good place to spend time!!!",
+        "rating": 4
+      },
+      {
+        "text": "CoZy and nice restaurant to dine with friends and also good for couples, nice view from the balcony",
+        "rating": 5
+      },
+      {
+        "text": "The place is nice love the service and the waiters where very polite. The view is lovely as well.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Empanadas La Tía Guille",
+    "calificacion": 4.4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5225248,
+    "lng": -100.8144549,
+    "reviews": [
+      {
+        "text": "🙀 Omg ...\nHow rude of them to make such delicious food 😾\nTrust me, they're so freaking good, they're addictive; they're crunchy, tasty and huge 😻\nWhenever we visit the city, we must go and take some for home, which only lasts for a couple of hours; cause we can't help ourselves 😽\nI always forget to take the before pics 😿 when I realized I've already eaten half of it, but here's some vids showing how crunchy they're",
+        "rating": 5
+      },
+      {
+        "text": "The empanadas are good but not that good, you always have to make a line and it is easy for you to miss your favorite flavor because they might run out of it",
+        "rating": 3
+      },
+      {
+        "text": "Super delicious empanadas at good prices",
+        "rating": 5
+      },
+      {
+        "text": "Horrible service when it comes to mistakes made my THEM. I told the boy he gave me the wrong kind of empanada and he wouldn’t recognize that HE had made the mistake. Clearly no kind of honesty towards service to the customer. Not coming back.",
+        "rating": 1
+      },
+      {
+        "text": "Cheap and tasty. There's quite a great variety of ingredients and flavours.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Pizzeria, Italian Pizza Colunga, Celaya, Gto.",
+    "calificacion": 3.9,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5222589,
+    "lng": -100.814734,
+    "reviews": [
+      {
+        "text": "The employee is extremely rude, they don't answer when you say something to them and they make faces, they don't have change, they don't have kindness, they don't have a terminal, terrible service and customer service, I left angry with the employee for such bad treatment.",
+        "rating": 1
+      },
+      {
+        "text": "Very delicious and economical with a lot of cheese, I loved them",
+        "rating": 5
+      },
+      {
+        "text": "It's very dirty, all the Italian pizzerias have cockroaches so that's how they make the pizzas and they've even given spoiled things or old things that's why sometimes the pizza tastes very strange. It depends on which employee is there and cleans it but most of the branches are very dirty and the soda machine there are even times when they don't even clean it until they come out with cockroaches or the casing.",
+        "rating": 1
+      },
+      {
+        "text": "Good place, central, pizza with good flavor and fast service.",
+        "rating": 4
+      },
+      {
+        "text": "Very good pizza and excellent service. Everything very clean",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "La Kebabería Celaya",
+    "calificacion": 4.5,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5212918,
+    "lng": -100.8139006,
+    "reviews": [
+      {
+        "text": "I would recommend it more like a place for having a drink, since it has a nice view. But in my opinion the chairs are uncomfortable. We had \"comida del día\", It had the look and the taste of lagging food. Portions are very small.  In case you come here to eat I would recommend the doner or the turk meat. That was good. Service was good too.",
+        "rating": 3
+      },
+      {
+        "text": "As a Turk visiting Mexico, I did not have high expectations for the food. The view from their balcony was beautiful and service was good. The food disappointed as it was not prepared traditionally or flavorfully. The doner was dry, and seemed as if it was prepared on a stove top rather than a true doner roast. The bread was nice. The prices were reasonable. Overall, if you go here do not expect to have great Turkish food. It is not a good representation of how Turkish food truly is.",
+        "rating": 3
+      },
+      {
+        "text": "Good attention, delicious food, optimal service, very pleasant view. Affordable prices.\nIt's just a little hot and there are no fans.\nThe food looked so delicious that we forgot to take the photo before eating.",
+        "rating": 5
+      },
+      {
+        "text": "Very good food, it is located on the second floor and the view is very good, a location in the center of the city that makes it an essential option to visit, the attention is incredible but it lacks decoration and theme music...\nI recommend visiting with your partner or friends...",
+        "rating": 4
+      },
+      {
+        "text": "The place in general is good, it has wifi, which gives it a plus. The view to the center on certain tables is great. The bad thing is that on one side there is a dance school. But in general the place and the food are good.\nI think the price is a little high for the quality and quantity this place serves.\n\nIt's worth coming to try.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Nine Minutes Pizza",
+    "calificacion": 4.4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5234041,
+    "lng": -100.815454,
+    "reviews": [
+      {
+        "text": "Cheap, fast and awesome-tasting pizza.",
+        "rating": 5
+      },
+      {
+        "text": "I love it",
+        "rating": 5
+      },
+      {
+        "text": "Cool",
+        "rating": 5
+      },
+      {
+        "text": "The best pizza",
+        "rating": 5
+      },
+      {
+        "text": "On my most recent visit, the edge of the pizza was raw on a considerable part of the pizza, when I mentioned it to the lady serving, she simply said \"it's not raw, it got moist with the sauce\" but you could even stretch the dough , it tasted like raw dough, it even smelled.\nI had no intention of claiming compensation for it, just letting it be known and taken into account, but the attitude and the lack of attention they had when faced with a problem about the quality of their food disgusted me.",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Tortas Sabrosy",
+    "calificacion": 4.1,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5218958,
+    "lng": -100.8103754,
+    "reviews": [
+      {
+        "text": "They treated us very friendly, delicious food and the water was very very good 👌🏼",
+        "rating": 5
+      },
+      {
+        "text": "The food is good, the kitchen lady is super friendly, the grill guy serves well, but there is a waiter with a lot of attitude problems!! He serves you as if you were asking him to give you things!! I had time not to pass by and definitely every time this guy buys somewhere else, I ordered a Milanese cake with leg and cheese, very well prepared, but with that attention I really don't want to stay and eat there!!",
+        "rating": 3
+      },
+      {
+        "text": "I ordered yesterday, July 2, 2 cakes, a Plan de San Luis and a charra.\nBoth cakes had RAW flank steak, the meat was only half sealed, but it was totally raw, one with a lot of chilies but almost no vegetables.\nHORRIBLE CAKES\nAnd it took them 1 hour to deliver to me",
+        "rating": 1
+      },
+      {
+        "text": "It is a good place to eat, unfortunately they have some prices on the menu and they don't tell you when you are ordering until when you finish and then in the end they charge you more. Ask the actual prices before ordering.",
+        "rating": 1
+      },
+      {
+        "text": "Nothing out of the ordinary at the Morelos Park branch",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Pizzeria, Italian Blvd, Celaya Gto.",
+    "calificacion": 3.4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5196657,
+    "lng": -100.8117229,
+    "reviews": [
+      {
+        "text": "The staff was super rude... The girl didn't hide that she didn't like the fact that I interrupted her breakfast.",
+        "rating": 1
+      },
+      {
+        "text": "The waitresses serve you very poorly, and I have been to the place several times and they all serve me very poorly, the truth is I will not go again even if it is the one that is closest to me, I prefer to walk more than to be served poorly",
+        "rating": 1
+      },
+      {
+        "text": "The worst detail of the establishment is that bathroom service is denied, even for washing hands, claiming that there is no service, but the same employees are observed leaving said space after having used it. 😒 It is important to note that pizza is eaten with your hands so it is extremely unhygienic to not allow diners to wash their own in your establishment.",
+        "rating": 2
+      },
+      {
+        "text": "The cashier is too despotic and they refuse to give you a service that they themselves offer!!!!\nThe only one who treated us well was the waitress!!",
+        "rating": 1
+      },
+      {
+        "text": "Unfortunately, my experience at this pizzeria was quite disappointing. I came hoping to enjoy a good pizza, but the service left a lot to be desired. Despite the presence of the young staff, no one came to serve me, because I suppose talking and playing was more important, since my wait was in vain I decided to try my luck at a pizzeria in Góngora, where I received fast and friendly service. I expected more consideration and professionalism here.",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Pollos Guerrero",
+    "calificacion": 2.8,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5194366,
+    "lng": -100.8135869,
+    "reviews": [
+      {
+        "text": "Chickens are really delicious, just that the coditos were really cold.",
+        "rating": 5
+      },
+      {
+        "text": "The chicken is very delicious,\nBut the staff is the worst",
+        "rating": 1
+      },
+      {
+        "text": "The woman who is there to take the order at the cashier serves you in a hazy way, it seems like you are really begging her, what a terrible service. I hope they hire someone who does know what customer service is, and who is really kind and you want to order from her. more and every time you say he answers worse and with a face the food is delicious but what terrible service on his part.",
+        "rating": 1
+      },
+      {
+        "text": "The worst chicken I've ever had and the worst service is the flaka girl who takes your order",
+        "rating": 1
+      },
+      {
+        "text": "DO NOT BUY PORK RIBS, IT IS FAT PAINTED IN FRIED MEAT COLOR TO DECEIVE PEOPLE, IT IS FRAUD AND THEFT........",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Tradicional de Yucatán",
+    "calificacion": 4.5,
+    "descripcion": "restaurant, meal_delivery, food, point_of_interest, establishment",
+    "lat": 20.5268281,
+    "lng": -100.808493,
+    "reviews": [
+      {
+        "text": "Everything was just amazing",
+        "rating": 5
+      },
+      {
+        "text": "We went to see how \"traditional\" the restaurant is.\nAnd indeed it is a little bit of Yucatán here in Celaya.\nI highly recommend the empanadas and the beans with pork.\nAnd please put stuffed cheese balls on the menu.\nThe place by the way has affordable prices.",
+        "rating": 5
+      },
+      {
+        "text": "I went to a sensory pastorela and I loved it.\nI didn't know the place, but it is nice and has a good atmosphere. There are like 3 restaurants in one place, I ordered pizza and it was very delicious.\nIt has good prices\nand good service",
+        "rating": 5
+      },
+      {
+        "text": "Delicious Yucatecan food. 100% recommended.\nVery friendly treatment.\nThe food is delicious, very good seasoning.\nI will definitely return.\nThey don't have parking, but you can park on the street and it's safe.",
+        "rating": 5
+      },
+      {
+        "text": "A very nice garden!\nThe pizza is excellent, the papadzules are good, (the cochinita is NOT great) The dogfish bread uff! takes the cake.\nThe habanero sauce is delicious! We have had a royal enchilada, the kind where you suffer, but want more. Karen is super friendly, effective and efficient.\nSuggestion, better remove the grass and put in pure pebbles.  They save water and dust.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "La Crepería Villemot suc. Celaya",
+    "calificacion": 4,
+    "descripcion": "meal_takeaway, cafe, restaurant, food, point_of_interest, store, establishment",
+    "lat": 20.5283559,
+    "lng": -100.8103078,
+    "reviews": [
+      {
+        "text": "Awesome atmosphere, good crepes. Felt a little rushed to order but overall quality and presentation of food was great.",
+        "rating": 5
+      },
+      {
+        "text": "Really great prices and food quality",
+        "rating": 5
+      },
+      {
+        "text": "Delicious...🤤",
+        "rating": 5
+      },
+      {
+        "text": "Regular",
+        "rating": 1
+      },
+      {
+        "text": "Excellent place in front of the mall, I ordered a salad and the house dressing was very good and with everything in very small pieces so that the salad is more enjoyable in each bite. My family ordered crepes and smoothies and everything was delicious, highly recommended.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Barra Galera",
+    "calificacion": 4.5,
+    "descripcion": "bar, restaurant, food, point_of_interest, establishment",
+    "lat": 20.5278263,
+    "lng": -100.8088531,
+    "reviews": [
+      {
+        "text": "The food here was absolutely fantastic. Everything was seasoned perfectly. The service was great, except for the moody girl behind the bar, but that was easily overlooked. The atmosphere is great. Sit in the back if you want the best experience. Try the Vacio!!! Absolutely excellent!! If you're from Argentina, this is the place to eat. I can't say enough good things about this place. It was fantastic period.",
+        "rating": 5
+      },
+      {
+        "text": "This is a very nice restaurant if you would like to enjoy a good steak, it comes with side dishes, you can choose from mash potatoes, mash spinach, saute vegetables, tomatoes with a spicy sauce.  There is a good selection of local wines that have nothing to envy to European wines.  Highly recommended place to visit",
+        "rating": 5
+      },
+      {
+        "text": "Food is delicious, Angel our server was informative of the menu. And very polite and attentive.\n\nI give 3 stars for service because of the timing. Most\nLikely it was the kitchen staff timing but server can help out with that as well\n\nMain dishes were being served with appetizers, drinks took a while to get delivered to our table. We ordered a side of avacado with the drinks, for our baby to start eating and that didn’t come out until after almost all the main courses were served. I’m glad we waited to order coffee and dessert well after the table was cleared, otherwise we may have received coffee with the shrimp tacos instead of the brownie",
+        "rating": 3
+      },
+      {
+        "text": "Good place, live nice music, but a lot of smoke. In all walls says not smoke. \"This is a free smoke aerea\" but some people do this. The Waiters light some customers cigars. You claims but nobody make somethings.",
+        "rating": 2
+      },
+      {
+        "text": "Its the best restaurant in the city of celaya the food its so delicious any thing you order from the menu we order a Tuna Tostada , and Empanada they were so good  we also order the Picaña  its beef cook over charcoal for a min of 4 hrs and it was so delicious definitely coming back",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Manantial",
+    "calificacion": 3.8,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.52801609999999,
+    "lng": -100.8088091,
+    "reviews": [
+      {
+        "text": "Food is very very expensive for the quality and quantity. It's not worth it. The very simple place. Zero recommended",
+        "rating": 1
+      },
+      {
+        "text": "",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 3
+      },
+      {
+        "text": "",
+        "rating": 4
+      },
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "El Hábito Burger Grill",
+    "calificacion": 4.4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5280455,
+    "lng": -100.8086449,
+    "reviews": [
+      {
+        "text": "They have a menu of the day for 120 which has a great variety and is very nice 👍",
+        "rating": 5
+      },
+      {
+        "text": "The owner literally copied the restaurant THE HABIT BURGER GRILL from the United States. The burgers and everything! Look into this fraud.",
+        "rating": 1
+      },
+      {
+        "text": "Delicious burgers, well fried chips and some good craft beers. Excellent!",
+        "rating": 5
+      },
+      {
+        "text": "Super",
+        "rating": 5
+      },
+      {
+        "text": "It is a nice place in a nice area, the food is tasty with portions of a normal size for a normal person, if you are a good eater you will have to order more than necessary, which I wouldn't mind. The menu is well organized; On the one hand it is a 3-course meal, in each time you can choose what to eat because they have several options, but there is also more food apart from the meal such as hamburgers and a children's menu. They also have good prices, not bad. The service is very friendly, it is not so fast but it is fine, as it is a busy place it sometimes fills up and they do not have places. It does not have its own parking but you can find public parking nearby, or if you prefer on the street. There is a children's playground nearby.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Petit Bistro",
+    "calificacion": 4.4,
+    "descripcion": "cafe, restaurant, food, point_of_interest, store, establishment",
+    "lat": 20.5283455,
+    "lng": -100.8076626,
+    "reviews": [
+      {
+        "text": "Pros:\nGood service and waiter was very attentive.\nCharming atmosphere and patio\nStreet parking available\nNice area of Celaya\nLarge yummy crepes\nThe cafe drinks are good and large\nDark restaurant for lovers\n\nCons:\nThe spaghetti bolognese was watered down so much it was literally swimming in water at the bottom of my plate.\nThe orange juice was sour & tasted like it had alcohol in it\nThe red wine was not good.\nThe baguette is more like a torta.\n\nLittle things: only 2 lunch/dinner items and they are Italian pasta dishes\nThe rest is brunch food. If you want cafe food and you want a light meal with some coffee. This is your place.",
+        "rating": 3
+      },
+      {
+        "text": "A nice place to get a coffee or something to eat, the staff are very nice and so is the house that they have converted",
+        "rating": 5
+      },
+      {
+        "text": "Excelente food, nice atmosphere, must try apple cranberry tea!!!",
+        "rating": 4
+      },
+      {
+        "text": "Beautiful place, good food and excelent service!!",
+        "rating": 4
+      },
+      {
+        "text": "A great ham and cheese crosaint, with a great cup of coffee.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Hamburguesas al Carbón Macay",
+    "calificacion": 4.3,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5166689,
+    "lng": -100.8127552,
+    "reviews": [
+      {
+        "text": "Very good food and service. Will be visiting often.",
+        "rating": 5
+      },
+      {
+        "text": "TERRIBLE SERVICE FROM THE WAITRESS AND THE CASHIER LADY, DISGUSTING! Not only did the game facilities look dangerous, the bathroom/restroom smelled disgusting.\n\nWe ordered one dish and THEY GAVE US ANOTHER!!!, when we kindly informed her, she told us that that was what we ordered in a derogatory manner and began to serve the few other customers there were, as if she were serving 3 tables. It was confusing and he didn't even want to look at us or say a word to us in case we needed something else. At the time of collecting we let the lady at the cashier know and she very PEDANTLY told us that \"it says there that you ordered that.\" when IT WAS CLEARLY NOT WHAT WE ASKED FOR!!!\n\nIn the ''menu'' they only give you the names of the dishes, but they do not specify what is included, they do not specify ingredients.\nThe portions are small.\nThe burgers are the only great thing and for what it would be worth it, they are good, it was the most decent thing about the place.\n\nThe employees definitely make the experience difficult, it was something UNPLEASANT.",
+        "rating": 1
+      },
+      {
+        "text": "The service is good but I think the burgers lack some flavor for so many ingredients they have.",
+        "rating": 3
+      },
+      {
+        "text": "Excellent restaurant, 100% charcoal-fired burgers, I recommend the flank steak and Hawaiian with extra cheese and double bacon for a price of $70 pesos, plus a wide variety of foods (hotdogs, French fries, banderillas, grilled meats, beer, flavored natural waters, cappuccinos, etc..",
+        "rating": 5
+      },
+      {
+        "text": "Something good, something woooowww, something cache well omeee",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Carnitas La Gorda 2",
+    "calificacion": 4.4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5166594,
+    "lng": -100.8122663,
+    "reviews": [
+      {
+        "text": "Very rich and great attention",
+        "rating": 5
+      },
+      {
+        "text": "Very rich and good attention from Don José",
+        "rating": 5
+      },
+      {
+        "text": "Very good flavor and excellent treatment by the owner, I highly recommend!!",
+        "rating": 5
+      },
+      {
+        "text": "The carnitas are very delicious, the gorditas are very good and large, and the man who serves is very friendly and will give you whatever you ask for.",
+        "rating": 5
+      },
+      {
+        "text": "The carnitas are very delicious and at a good price.\nAnd with special prices on different days",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Taqueria El Fogoncito",
+    "calificacion": 4.4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5285414,
+    "lng": -100.8184003,
+    "reviews": [
+      {
+        "text": "Great tacos!",
+        "rating": 5
+      },
+      {
+        "text": "My family and I love these tacos, the prices are still affordable, their flavor is very good and the quantity is quite large.\nThe menu is varied, they also have a delivery service.\nI highly recommend them!!!",
+        "rating": 5
+      },
+      {
+        "text": "The tacos are very good and reasonably priced, especially the red sauce. The service is a bit slow.",
+        "rating": 5
+      },
+      {
+        "text": "Here you will find very good pastor tacos, wires, potatoes with butter and good service from the staff.",
+        "rating": 4
+      },
+      {
+        "text": "Bad place to eat, bad table service, the waitress forgot the order twice, the music is too loud, the pastor tacos don't taste good, and the chorizo ​​is soy.",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "nombre": "Club de Nutrición Celaya \"El Ingrediente Secreto\"",
+    "calificacion": 4.4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5209676,
+    "lng": -100.803993,
+    "reviews": [
+      {
+        "text": "Excellent",
+        "rating": 5
+      },
+      {
+        "text": "Good",
+        "rating": 4
+      },
+      {
+        "text": "",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 4
+      },
+      {
+        "text": "",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Restaurant ikal",
+    "calificacion": 4.4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5303906,
+    "lng": -100.8058031,
+    "reviews": [
+      {
+        "text": "Delicious Buffet & Deli restaurant, superb service, nicely decorated and a cozy atmosphere make this place a favorite when in Celaya. Fairly priced too!",
+        "rating": 5
+      },
+      {
+        "text": "Love this place.\nGreat staff\nGreat ambience.\nFood was very tasty and well cooked.\nVery relaxed atmosphere.\nI will be returning for sure.",
+        "rating": 5
+      },
+      {
+        "text": "Good food, affordable prices, good service, only issue was that not much meat to offer on Thursdays",
+        "rating": 4
+      },
+      {
+        "text": "Great assortment of food. Service is really great as well.",
+        "rating": 5
+      },
+      {
+        "text": "Great vibe and service they need to improve some some dishes of the buffet.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Sanborns Celaya",
+    "calificacion": 4.2,
+    "descripcion": "department_store, bakery, pharmacy, bar, restaurant, food, health, point_of_interest, store, establishment",
+    "lat": 20.520194,
+    "lng": -100.8222419,
+    "reviews": [
+      {
+        "text": "They have very nice things to offer and I got me a good deal on my electric razor",
+        "rating": 5
+      },
+      {
+        "text": "The store is quite cool.\nYou can find a great variety of gifts and for all occasions. The book collection is quite vast as well.\nThe restaurant, it's barely okay. I think they overprice for their traditional \"molletes\".\nA good think is that you can get credit with the\nTelmex yo buy in the store.",
+        "rating": 4
+      },
+      {
+        "text": "Couple years ago the food good,but now the service & food really very poor.",
+        "rating": 3
+      },
+      {
+        "text": "Just went for the library, but the Panini Publisher stand gets rid of past numbers too quickly but with the state their webpage is, is better than nothing. Also Kamite publisher is not supplying new things, don't know why.",
+        "rating": 3
+      },
+      {
+        "text": "Very poor service. Took too long to bring food. Unacceptable. Fail appears to be in kitchen.",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "nombre": "Taqueria Wizard",
+    "calificacion": 4.6,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5125709,
+    "lng": -100.8110289,
+    "reviews": [
+      {
+        "text": "The traditional traditional taco and quesadilla stand. Good variety and good flavor. The best are the dead lifters.",
+        "rating": 5
+      },
+      {
+        "text": "Delicious food, their potatoes are the best",
+        "rating": 5
+      },
+      {
+        "text": "Great flavors come together in this taqueria, the salsas are the best I've tried so far",
+        "rating": 5
+      },
+      {
+        "text": "Go for your dead lifter or your intellectual",
+        "rating": 5
+      },
+      {
+        "text": "Very good",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Subway",
+    "calificacion": 3,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5136404,
+    "lng": -100.8070547,
+    "reviews": [
+      {
+        "text": "Is not open 24 hours that was at 9:30 PM",
+        "rating": 1
+      },
+      {
+        "text": "Pedí un #9 lleva jamón de pavo, tocino y guacamole en pan de avena.\n\nYo: \"buenos días, quiero un #9\"\nLa que atiende: \"claro que sí!\"\n\nLa que atiende: \"no tengo del pan que lleva el #9, se lo puedo cambiar? Sólo tengo ajo y orégano\"\nYo: \"ajo por favor\"\n\nLa que atiende: \"no tengo jamón de pavo, puedo ponerle algún otro?\"\nYo: \"jamón de pierna está bien\"\n\nLa que atiende: \"el #9 tiene tomate y no tengo tomate, aún así lo quiere\"\nYo: \"si está bien\"\n\nYo: \"señorita el #9 lleva tocino y guacamole\"\nLa que atiende: \"sí, pero ya no puede ser un #9 porque no tengo el jamón de pavo. Debe elegir algún otro o los ingredientes extras\"\nEn el tablero:\nSubway de jamón de pierna $75\nGuacamole $15\nTocino $15\nCuando originalmente el Sub #9 es de $85\n🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔\n\nMuy mal, que no tengan todos los ingredientes, que te  pregunten si te pueden cambiar ellas algo, pero si tú pides que respeten no puede ser, es con cargo extra y deberás pagar más\".\n\nNo voy a regresar a ese lugar, por supuesto.\nSin embargo, muy mal.",
+        "rating": 1
+      },
+      {
+        "text": "Once I arrived at 9pm and they told me that there was no longer service when the sign clearly says that they close at 11:59 p.m.",
+        "rating": 3
+      },
+      {
+        "text": "Maybe it wasn't the time and day, but I think didi food is going well for them because physical customers don't pay attention to them.",
+        "rating": 1
+      },
+      {
+        "text": "Shop at 8:35 a.m.\nFriendly service, fresh vegetables and adequate portions. Always a well-stocked place to eat quickly before boarding your bus",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Domino's Pizza",
+    "calificacion": 3.8,
+    "descripcion": "meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment",
+    "lat": 20.5201136,
+    "lng": -100.8005119,
+    "reviews": [
+      {
+        "text": "Omg get the pan pizza with extra Sauce 😍😍😍😍😍",
+        "rating": 5
+      },
+      {
+        "text": "Awesome! The pizza tastes just like the original recipe at Domino's over in the US! ... muy deliciosa! La pizza sabe a la receta original del Domino's de Estados Unidos",
+        "rating": 5
+      },
+      {
+        "text": "The pizza is okay.\nIt's pricey but they offer a fast service.\nThe cajeta (milk candy) rolls are yummy.",
+        "rating": 3
+      },
+      {
+        "text": "The pizza is great\nBut the cashier is rude\nAnd forgot to give me my change",
+        "rating": 3
+      },
+      {
+        "text": "Its a pizza place, you go, they give you pizza. Everybody is happy.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Cactus Hamburguesas",
+    "calificacion": 4.4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5219802,
+    "lng": -100.8257763,
+    "reviews": [
+      {
+        "text": "Don't waste your time is expensive and very poor quality, the burger was serve by the meat cut in squares yes you can't get a normal burger with a rib eye beef, take care when you come here.",
+        "rating": 2
+      },
+      {
+        "text": "Good food and burgers a little pricey for Celaya.",
+        "rating": 4
+      },
+      {
+        "text": "Classic place in the region, the best hamburgers",
+        "rating": 5
+      },
+      {
+        "text": "Awesome burgers, love the condiment station",
+        "rating": 5
+      },
+      {
+        "text": "Great food at great price.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Nine Minutes Pizza Mutualismo",
+    "calificacion": 4.2,
+    "descripcion": "meal_takeaway, restaurant, food, point_of_interest, establishment",
+    "lat": 20.5151773,
+    "lng": -100.8236485,
+    "reviews": [
+      {
+        "text": "I had been eating here for a long time, but the last experience was unfortunate, because the person in charge of making the pizzas dropped the pizza on the floor and still gave us the same one, plus she didn't even take us in order to choose the ingredients in the pizza to choose from whichever one you choose, very bad experience, regrettable.",
+        "rating": 2
+      },
+      {
+        "text": "If what you want is to lose your money and consume burnt food, then nine minutes mutualism is your best option 🥰",
+        "rating": 1
+      },
+      {
+        "text": "Terrible service, I just went today, November 3, it's 11 in the morning at the mutualismo pizeria, they rudely delivered the pizza to me without chimichurri, without chiles and with two bags of ketchup I asked for chiles from the lady because she had just taken them out and she just told me in a rude manner, there aren't any when I just saw her, she's taking out a tray with them. The pizza is super greasy, you bite into it and the oil literally drains away. I honestly won't go back. I prefer to pay a little more but be served well and fully. It's better that way.\nYou can see the amount of oil on the box and on my fingers. It is not the company's fault but it is the workers' fault.",
+        "rating": 1
+      },
+      {
+        "text": "Terrible service, very rude staff, they do not have even the slightest sense of kindness, much less customer service.\n\nThe pizzas are horrible, raw, few ingredients and they give you what you want.\n\nI wanted to give it a second chance, but rest assured I won't be coming back.",
+        "rating": 1
+      },
+      {
+        "text": "I placed an order for home delivery and they sent me the pizzas all turned over and battered, I made a complaint and they blamed the delivery person and they never gave me a refund and the delivery man did not want to take the pizzas, terrible service.",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Barbacoa Maravillo",
+    "calificacion": 4.4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.536533,
+    "lng": -100.807525,
+    "reviews": [
+      {
+        "text": "Barbacoa Maravillo is the best place in Celaya, if you want to eat real Barbacoa. Their meat and products are incredible. Every time I am in Celaya I am going there. Moreover, the staff and managers are really kind. It is difficult to find criticism.\nI would do anything to find them in France ahah\nBravo 👏",
+        "rating": 5
+      },
+      {
+        "text": "Very good experience,\nQuality is super and prices are fair.\nDon't think twice...",
+        "rating": 4
+      },
+      {
+        "text": "Really good food and amazing service totally would recommend if you aren't from town!!",
+        "rating": 3
+      },
+      {
+        "text": "Good staff, Quick service and very good taste, original flavors",
+        "rating": 5
+      },
+      {
+        "text": "really bad and so expensive",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Carnitas Rodrigo",
+    "calificacion": 4,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5365317,
+    "lng": -100.8061832,
+    "reviews": [
+      {
+        "text": "I bought a \"pack 1\" and was about to serve myself a good taco until I opened the foil and found that there were only 3 pieces of meat and everything else was leather, I trusted that they would serve me well but this is unacceptable, what a terrible experience.",
+        "rating": 1
+      },
+      {
+        "text": "I have had several bad experiences in that place until I decided to never return. Once I came to buy. Each customer who arrives is given a taco. And they charged me in the end. They are also super rude when you ask them to give you a different sauce. Last time I went I ordered an assorted cake and asked them not to give me horns. And they charged me for it as if it were massive without even warning me. I tried to clear things up and they didn't care. Furthermore, one can no longer pay with a debit card for less than one hundred pesos. I will not return again due to such poor service.",
+        "rating": 3
+      },
+      {
+        "text": "THAT'S WHY I LOVE MY COUNTRY, THESE LITTLE THINGS MAKE A BIG DIFFERENCE AND MAKE YOU FEEL BLESSED ENJOYING ALL YOUR SENSES IN THIS DELICATE. THEY BRING ME MEMORIES OF MY CHILDHOOD AND MY PEOPLE. HEALTH2.",
+        "rating": 5
+      },
+      {
+        "text": "I ordered takeout and it was really disgusting and abusive, they are meats not pure leather and rib, I really amazed their lace. They are charging, I don't know they are giving away.\nJust because you order takeout doesn't mean they should give you what they want, there must be quality.\nBesides, the tacos had a piece of plastic inside the meat, that's how careless they are.",
+        "rating": 1
+      },
+      {
+        "text": "Here reading the answers from the owner of carnitas Rodrigo in the negative comments and with that he leaves the entire business in bad shape, you must learn to accept possible mistakes because they are an area of ​​opportunity to improve, do not lock yourself in your bubble and believe that everything is done well and is perfect, position yourself",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "The House of Kike",
+    "calificacion": 4.2,
+    "descripcion": "bar, restaurant, food, point_of_interest, establishment",
+    "lat": 20.5102959,
+    "lng": -100.8035354,
+    "reviews": [
+      {
+        "text": "Takes forever to get the meals",
+        "rating": 1
+      },
+      {
+        "text": "Ok",
+        "rating": 4
+      },
+      {
+        "text": "Cool",
+        "rating": 5
+      },
+      {
+        "text": "Lately Much To Be Desired Compared To A Few Years Ago In Attention.\n\nToday you have to go to the bar to order your drink because the waiter they have to serve all the tables spends his time on the phone and serves you until his stomach swells. 🤦🤦🤦🤦🤦\n\nYes, of course. There are few places left in Celaya today to go and have fun and even with these issues, well 🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️.",
+        "rating": 2
+      },
+      {
+        "text": "A place that has everything you need for a relaxing night out with friends. From the moment you arrive, the atmosphere makes you feel comfortable and relaxed, with attentive and friendly service that makes sure you don't want for anything. The menu is extensive, with delicious options for all tastes and, best of all, at affordable prices. They also have live music and karaoke, which adds a fun touch to the experience. The musical selection is also excellent, creating the perfect atmosphere for a good time. It's a safe space, ideal for sharing laughs and good times with your friends. Definitely a place that invites you to return.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Toks",
+    "calificacion": 4.3,
+    "descripcion": "restaurant, food, point_of_interest, establishment",
+    "lat": 20.5198791,
+    "lng": -100.8288992,
+    "reviews": [
+      {
+        "text": "A great spot for lunch with plenty of options. The tortilla soup and club sandwich were delicious, and the portions were very generous. The service was excellent.",
+        "rating": 4
+      },
+      {
+        "text": "Even it's a chain restaurant, the food and service are always good !",
+        "rating": 5
+      },
+      {
+        "text": "Personal are good ,had one of the best days of my life ,food is also great.",
+        "rating": 5
+      },
+      {
+        "text": "Good food great service. But you have to pay for parking.  Why?",
+        "rating": 5
+      },
+      {
+        "text": "Ok",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Starbucks",
+    "calificacion": 4.4,
+    "descripcion": "cafe, restaurant, food, point_of_interest, store, establishment",
+    "lat": 20.5197304,
+    "lng": -100.8289029,
+    "reviews": [
+      {
+        "text": "Big place and good for work or meetings. Good music and good experience in general. Same starbucks menu.",
+        "rating": 4
+      },
+      {
+        "text": "Great place to have coffee. Good service.\n\nIf you are around please join.",
+        "rating": 4
+      },
+      {
+        "text": "Love it, they are so professional i really enjoy the time I spent over there",
+        "rating": 5
+      },
+      {
+        "text": "This spot is very crowded, it is Better if you ask your beberages to go....",
+        "rating": 3
+      },
+      {
+        "text": "Nice little place but service was extremely slow.",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "nombre": "Café-bar Cultural Oscuro y Claro",
+    "calificacion": 4.6,
+    "descripcion": "cafe, bar, restaurant, food, point_of_interest, store, establishment",
+    "lat": 20.5235958,
+    "lng": -100.8297958,
+    "reviews": [
+      {
+        "text": "Very good coffee shop and excellent atmosphere, I love it!!",
+        "rating": 5
+      },
+      {
+        "text": "For years this cafe has been maintained. The place is not the busiest, but it is nice and quiet. Ideal if you want to chat comfortably while having a drink.",
+        "rating": 4
+      },
+      {
+        "text": "We went to dinner and I make a habit of leaving the tip in cash. What is my surprise that the waitress included the tip without asking when charging my husband by card, obviously she did not give us the ticket until we asked her to send it to her.\nI liked the place but I won't go back.",
+        "rating": 1
+      },
+      {
+        "text": "One of the best places in the area where you can go to have a very comfortable coffee and the service is excellent",
+        "rating": 5
+      },
+      {
+        "text": "It could improve, I like the place, it has a variety of drinks and the girls are very friendly. It is a good space for a quiet meeting.",
+        "rating": 3
+      }
+    ]
+  }
+]

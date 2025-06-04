@@ -1,0 +1,382 @@
+# Install required packages if needed
+if (!require(mongolite)) install.packages("mongolite")
+if (!require(ggplot2)) install.packages("ggplot2")
+if (!require(jsonlite)) install.packages("jsonlite")
+library(mongolite)
+library(ggplot2)
+library(jsonlite)
+
+# Set the target directory
+target_dir <- "C:\\Users\\Pilin\\Documents\\Proyectos\\Celaya Verde"
+if (!dir.exists(target_dir)) {
+  dir.create(target_dir, recursive = TRUE)
+  print(paste("Created directory:", target_dir))
+} else {
+  print(paste("Directory already exists:", target_dir))
+}
+
+# Print the full path of the target directory for debugging
+full_target_dir <- normalizePath(target_dir)
+print(paste("Full path of target directory:", full_target_dir))
+
+# Define the collections
+collections <- c("lugares_turisticos", "restaurantes", "hoteles", "museos", "transporte_publico", "que_hacer")
+
+# Initialize a list to store all data
+all_data <- list()
+
+# Loop through each collection to fetch data and generate charts
+for (collection_name in collections) {
+  print(paste("Processing collection:", collection_name))
+
+  # Connect to MongoDB
+  mongo <- mongo(collection = collection_name, db = "turismo", url = "mongodb://localhost:27017")
+
+  # Check if data exists
+  if (mongo$count() > 0) {
+    print("Data found!")
+  } else {
+    print("No data found. Skipping this collection.")
+    next
+  }
+
+  # Fetch data
+  data <- mongo$find()
+  data$place_type <- collection_name  # Add place_type for categorization
+
+  all_data[[collection_name]] <- data  # Store data for HTML embedding
+
+  # Debug: Check the structure of the data
+  print("Data structure:")
+  print(str(data))
+
+  # Convert calificacion to numeric (if it exists)
+  if ("calificacion" %in% names(data)) {
+    data$calificacion <- as.numeric(data$calificacion)
+    print("Sample of calificacion values:")
+    print(head(data$calificacion))
+  }
+
+  # Generate a chart based on the collection
+  if (collection_name == "lugares_turisticos") {
+    # Bar chart of ratings
+    if ("calificacion" %in% names(data)) {
+      data$rating_range <- cut(data$calificacion, breaks = c(0, 2, 3, 4, 5), labels = c("0-2", "2-3", "3-4", "4-5"))
+      rating_counts <- table(data$rating_range)
+      chart_file <- file.path(target_dir, "lugares_turisticos_chart.png")
+      if (length(rating_counts) > 0 && !all(rating_counts == 0)) {
+        png(chart_file, width = 600, height = 400)
+        p <- ggplot(data = as.data.frame(rating_counts), aes(x = Var1, y = Freq)) +
+          geom_bar(stat = "identity", fill = "skyblue") +
+          theme_minimal() +
+          labs(title = "Atracciones Turísticas por Rango de Calificación", x = "Rango de Calificación", y = "Cantidad")
+        print(p)
+        dev.off()
+        print(paste("Chart saved as", chart_file))
+      } else {
+        print("No valid rating data for chart.")
+      }
+    }
+  } else if (collection_name == "restaurantes") {
+    # Scatter plot of locations (lat vs lng, colored by rating)
+    if ("lat" %in% names(data) && "lng" %in% names(data) && "calificacion" %in% names(data)) {
+      chart_file <- file.path(target_dir, "restaurantes_chart.png")
+      png(chart_file, width = 600, height = 400)
+      p <- ggplot(data, aes(x = lng, y = lat, color = calificacion)) +
+        geom_point(size = 3) +
+        scale_color_gradient(low = "red", high = "green") +
+        theme_minimal() +
+        labs(title = "Ubicaciones de Restaurantes (Coloreado por Calificación)", x = "Longitud", y = "Latitud")
+      print(p)
+      dev.off()
+      print(paste("Chart saved as", chart_file))
+    } else {
+      print("Missing lat, lng, or calificacion for scatter plot.")
+    }
+  } else if (collection_name == "hoteles") {
+    # Box plot of ratings
+    if ("calificacion" %in% names(data)) {
+      chart_file <- file.path(target_dir, "hoteles_chart.png")
+      png(chart_file, width = 600, height = 400)
+      p <- ggplot(data, aes(y = calificacion)) +
+        geom_boxplot(fill = "lightgreen") +
+        theme_minimal() +
+        labs(title = "Distribución de Calificaciones de Hoteles", y = "Calificación")
+      print(p)
+      dev.off()
+      print(paste("Chart saved as", chart_file))
+    } else {
+      print("Missing calificacion for box plot.")
+    }
+  } else if (collection_name == "museos") {
+    # Pie chart of rating ranges
+    if ("calificacion" %in% names(data)) {
+      data$rating_range <- cut(data$calificacion, breaks = c(0, 2, 3, 4, 5), labels = c("0-2", "2-3", "3-4", "4-5"))
+      rating_counts <- table(data$rating_range)
+      if (length(rating_counts) > 0 && !all(rating_counts == 0)) {
+        chart_file <- file.path(target_dir, "museos_chart.png")
+        png(chart_file, width = 600, height = 400)
+        pie_data <- as.data.frame(rating_counts)
+        p <- ggplot(pie_data, aes(x = "", y = Freq, fill = Var1)) +
+          geom_bar(stat = "identity", width = 1) +
+          coord_polar("y", start = 0) +
+          theme_void() +
+          labs(title = "Museos por Rango de Calificación", fill = "Rango de Calificación")
+        print(p)
+        dev.off()
+        print(paste("Chart saved as", chart_file))
+      } else {
+        print("No valid rating data for pie chart.")
+      }
+    }
+  } else if (collection_name == "transporte_publico") {
+    # Histogram of ratings
+    if ("calificacion" %in% names(data)) {
+      chart_file <- file.path(target_dir, "transporte_publico_chart.png")
+      png(chart_file, width = 600, height = 400)
+      p <- ggplot(data, aes(x = calificacion)) +
+        geom_histogram(binwidth = 0.5, fill = "orange", color = "black") +
+        theme_minimal() +
+        labs(title = "Histograma de Calificaciones de Estaciones de Transporte", x = "Calificación", y = "Cantidad")
+      print(p)
+      dev.off()
+      print(paste("Chart saved as", chart_file))
+    } else {
+      print("Missing calificacion for histogram.")
+    }
+  } else if (collection_name == "que_hacer") {
+    # Bar chart of counts by descripcion
+    if ("descripcion" %in% names(data)) {
+      desc_counts <- table(data$descripcion)
+      if (length(desc_counts) > 0 && !all(desc_counts == 0)) {
+        chart_file <- file.path(target_dir, "que_hacer_chart.png")
+        png(chart_file, width = 800, height = 400)
+        p <- ggplot(data = as.data.frame(desc_counts), aes(x = Var1, y = Freq)) +
+          geom_bar(stat = "identity", fill = "purple") +
+          theme_minimal() +
+          labs(title = "Puntos de Interés por Descripción", x = "Descripción", y = "Cantidad") +
+          theme(axis.text.x = element_text(angle = 45, hjust = 1))
+        print(p)
+        dev.off()
+        print(paste("Chart saved as", chart_file))
+      } else {
+        print("No valid description data for bar chart.")
+      }
+    } else {
+      print("Missing descripcion for bar chart.")
+    }
+  }
+}
+
+# Combine all data
+combined_data <- do.call(rbind, all_data)
+
+# Debug: Check the structure of combined_data
+print("Structure of combined_data:")
+print(str(combined_data))
+if (nrow(combined_data) > 0) {
+  print("Sample of combined_data (first few rows):")
+  print(head(combined_data))
+}
+
+# Convert data to JSON string for embedding and save to file
+json_data <- toJSON(combined_data, pretty = TRUE, auto_unbox = TRUE, na = "null", force = TRUE)
+json_file <- file.path(target_dir, "turismo_data.json")
+write(json_data, json_file)
+print(paste("JSON file saved at", json_file))
+
+# Generate the HTML file with embedded data, dynamic map, reviews, and listbox in Spanish
+html_file <- file.path(target_dir, "turismo_data.html")
+html_content <- paste0(
+  '<!DOCTYPE html>\n',
+  '<html lang="es">\n',
+  '<head>\n',
+  '  <meta charset="UTF-8">\n',
+  '  <meta name="viewport" content="width=device-width, initial-scale=1.0">\n',
+  '  <title>Datos de Turismo con Gráficos y Mapa</title>\n',
+  '  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>\n',
+  '  <style>\n',
+  '    table { width: 80%; margin: 20px auto; border-collapse: collapse; }\n',
+  '    th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }\n',
+  '    th { background-color: #f2f2f2; }\n',
+  '    .category { margin: 20px; font-weight: bold; display: none; }\n',
+  '    .category.active { display: block; }\n',
+  '    #error { color: red; margin: 20px; }\n',
+  '    img { display: block; margin: 20px auto; max-width: 100%; }\n',
+  '    #map { height: 400px; width: 80%; margin: 20px auto; }\n',
+  '    .comments { margin: 10px 0; }\n',
+  '    .comment { margin-left: 20px; }\n',
+  '    .listbox-container { margin: 20px; }\n',
+  '    details { margin: 10px 0; }\n',
+  '  </style>\n',
+  '</head>\n',
+  '<body>\n',
+  '  <h1>Datos de Turismo</h1>\n',
+  '  <div class="listbox-container">\n',
+  '    <label for="category-select">Selecciona Categoría:</label>\n',
+  '    <select id="category-select">\n',
+  paste0(sapply(c("Todos", collections), function(cat) {
+    paste0('      <option value="', cat, '">', cat, '</option>\n')
+  }), collapse = ''),
+  '    </select>\n',
+  '  </div>\n',
+  '  <div id="map"></div>\n',
+  '  <div id="data-container"></div>\n',
+  '  <div id="error"></div>\n',
+  '  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>\n',
+  '  <script>\n',
+  '    // Initialize the map\n',
+  '    const map = L.map("map").setView([20.5225, -100.811], 13); // Centered on Celaya, Mexico\n',
+  '    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {\n',
+  '      attribution: \'© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> colaboradores\'\n',
+  '    }).addTo(map);\n',
+  '    let markers = [];\n',
+  '    let categoriesData = {};\n',
+  '    const container = document.getElementById("data-container");\n',
+  '    const errorDiv = document.getElementById("error");\n',
+  '    \n',
+  '    // Function to update markers based on selected category\n',
+  '    function updateMap(selectedCategory) {\n',
+  '      markers.forEach(marker => map.removeLayer(marker));\n',
+  '      markers = [];\n',
+  '      const filteredData = selectedCategory === "Todos" ? Object.values(categoriesData).flat() : categoriesData[selectedCategory] || [];\n',
+  '      filteredData.forEach(item => {\n',
+  '        if (item.lat && item.lng) {\n',
+  '          const marker = L.marker([item.lat, item.lng]).addTo(map);\n',
+  '          marker.bindPopup(`<b>${item.nombre || "Desconocido"}</b><br>Tipo: ${item.place_type}<br>Calificación: ${item.calificacion || "N/A"}`);\n',
+  '          markers.push(marker);\n',
+  '        }\n',
+  '      });\n',
+  '      if (markers.length > 0) {\n',
+  '        const group = new L.featureGroup(markers);\n',
+  '        map.fitBounds(group.getBounds().pad(0.1));\n',
+  '      } else {\n',
+  '        map.setView([20.5225, -100.811], 13);\n',
+  '      }\n',
+  '    }\n',
+  '    \n',
+  '    // Function to update categories content\n',
+  '    function updateCategories(newData) {\n',
+  '      container.innerHTML = ""; // Clear existing content\n',
+  '      categoriesData = {};\n',
+  '      newData.forEach(item => {\n',
+  '        const type = item.place_type || "desconocido";\n',
+  '        if (!categoriesData[type]) categoriesData[type] = [];\n',
+  '        categoriesData[type].push(item);\n',
+  '      });\n',
+  '      \n',
+  '      for (const [category, items] of Object.entries(categoriesData)) {\n',
+  '        const div = document.createElement("div");\n',
+  '        div.className = "category";\n',
+  '        div.id = `category-${category}`;\n',
+  '        div.innerHTML = `<h2>${category.charAt(0).toUpperCase() + category.slice(1)}</h2>`;\n',
+  '        \n',
+  '        const chartFile = `${category}_chart.png`;\n',
+  '        const img = document.createElement("img");\n',
+  '        img.src = chartFile;\n',
+  '        img.alt = `Gráfico de ${category}`;\n',
+  '        img.onerror = () => console.error("Error al cargar la imagen:", chartFile);\n',
+  '        div.appendChild(img);\n',
+  '        \n',
+  '        const table = document.createElement("table");\n',
+  '        const thead = document.createElement("thead");\n',
+  '        const tbody = document.createElement("tbody");\n',
+  '        const headers = ["Nombre", "Calificación", "Latitud", "Longitud"];\n',
+  '        const headerRow = document.createElement("tr");\n',
+  '        headers.forEach(header => {\n',
+  '          const th = document.createElement("th");\n',
+  '          th.textContent = header;\n',
+  '          headerRow.appendChild(th);\n',
+  '        });\n',
+  '        thead.appendChild(headerRow);\n',
+  '        table.appendChild(thead);\n',
+  '        items.forEach(item => {\n',
+  '          const row = document.createElement("tr");\n',
+  '          row.innerHTML = `\n',
+  '            <td>${item.nombre || "N/A"}</td>\n',
+  '            <td>${item.calificacion || "N/A"}</td>\n',
+  '            <td>${item.lat || "N/A"}</td>\n',
+  '            <td>${item.lng || "N/A"}</td>\n',
+  '          `;\n',
+  '          tbody.appendChild(row);\n',
+  '        });\n',
+  '        table.appendChild(tbody);\n',
+  '        div.appendChild(table);\n',
+  '        \n',
+  '        const reviewsDiv = document.createElement("div");\n',
+  '        reviewsDiv.className = "comments";\n',
+  '        const details = document.createElement("details");\n',
+  '        details.innerHTML = "<summary>Ver Reseñas</summary>";\n',
+  '        items.forEach(item => {\n',
+  '          if (item.reviews && Array.isArray(item.reviews)) {\n',
+  '            const reviewSection = document.createElement("div");\n',
+  '            reviewSection.innerHTML = `<strong>${item.nombre || "Desconocido"}:</strong>`;\n',
+  '            item.reviews.forEach(review => {\n',
+  '              const reviewP = document.createElement("p");\n',
+  '              reviewP.className = "comment";\n',
+  '              reviewP.textContent = `${review.text || "Sin reseña"} (Calificación: ${review.rating || "N/A"})`;\n',
+  '              reviewSection.appendChild(reviewP);\n',
+  '            });\n',
+  '            details.appendChild(reviewSection);\n',
+  '          }\n',
+  '        });\n',
+  '        reviewsDiv.appendChild(details);\n',
+  '        div.appendChild(reviewsDiv);\n',
+  '        container.appendChild(div);\n',
+  '      }\n',
+  '      \n',
+  '      // Show the first category by default\n',
+  '      const firstCategory = document.getElementById("category-lugares_turisticos");\n',
+  '      if (firstCategory) {\n',
+  '        firstCategory.classList.add("active");\n',
+  '        updateMap("lugares_turisticos");\n',
+  '      }\n',
+  '    }\n',
+  '    \n',
+  '    // Function to fetch updated data\n',
+  '    function fetchData() {\n',
+  '      fetch("turismo_data.json")\n',
+  '        .then(response => response.json())\n',
+  '        .then(newData => {\n',
+  '          console.log("Datos actualizados recibidos:", newData);\n',
+  '          updateCategories(newData);\n',
+  '          const selectedCategory = document.getElementById("category-select").value;\n',
+  '          updateMap(selectedCategory);\n',
+  '        })\n',
+  '        .catch(error => {\n',
+  '          console.error("Error fetching data:", error);\n',
+  '          errorDiv.textContent = "Error al cargar datos en tiempo real.";\n',
+  '        });\n',
+  '    }\n',
+  '    \n',
+  '    // Initial fetch\n',
+  '    fetchData();\n',
+  '    \n',
+  '    // Poll every 30 seconds (adjust as needed)\n',
+  '    setInterval(fetchData, 30000);\n',
+  '    \n',
+  '    // Add event listener for listbox\n',
+  '    document.getElementById("category-select").addEventListener("change", function() {\n',
+  '      const selected = this.value;\n',
+  '      console.log("Categoría seleccionada:", selected);\n',
+  '      document.querySelectorAll(".category").forEach(cat => {\n',
+  '        cat.classList.remove("active");\n',
+  '      });\n',
+  '      if (selected === "Todos") {\n',
+  '        document.querySelectorAll(".category").forEach(cat => {\n',
+  '          cat.classList.add("active");\n',
+  '        });\n',
+  '      } else {\n',
+  '        const selectedCategory = document.getElementById(`category-${selected}`);\n',
+  '        if (selectedCategory) selectedCategory.classList.add("active");\n',
+  '      }\n',
+  '      updateMap(selected);\n',
+  '    });\n',
+  '  </script>\n',
+  '</body>\n',
+  '</html>'
+)
+
+# Write the HTML file
+writeLines(html_content, html_file, useBytes = TRUE)
+print(paste("HTML file generated at", html_file))

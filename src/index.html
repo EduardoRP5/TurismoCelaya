@@ -127,33 +127,46 @@
         </div>
     </section>
     
+    
     <!-- SECCIÓN DE COMENTARIOS -->
-    <section class="comentarios" id="comentarios" style="padding: 4rem 0; background-color: #fff;">
-        <div class="container">
-            <h2 style="text-align: center; margin-bottom: 2rem;">Opiniones de Visitantes</h2>
-            
-            <!-- Formulario para nuevos comentarios -->
-            <div class="form-comentario" style="max-width: 600px; margin: 0 auto 3rem auto;">
-                <h3 style="margin-bottom: 1rem;">Deja tu comentario</h3>
-                <form id="formOpinion">
-                    <div style="margin-bottom: 1rem;">
-                        <label for="nombre" style="display: block; margin-bottom: 0.5rem;">Nombre:</label>
-                        <input type="text" id="nombre" required style="width: 100%; padding: 0.8rem; border: 1px solid #ddd; border-radius: 5px;">
-                    </div>
-                    <div style="margin-bottom: 1rem;">
-                        <label for="comentario" style="display: block; margin-bottom: 0.5rem;">Comentario:</label>
-                        <textarea id="comentario" rows="4" required style="width: 100%; padding: 0.8rem; border: 1px solid #ddd; border-radius: 5px;"></textarea>
-                    </div>
-                    <button type="submit" class="btn" style="background-color: var(--azul);">Publicar</button>
-                </form>
-            </div>
-            
-            <!-- Lista de comentarios -->
-            <div class="lista-comentarios" id="listaComentarios" style="max-width: 800px; margin: 0 auto;">
-                <!-- Los comentarios se cargarán aquí con JavaScript -->
-            </div>
+<section class="comentarios" id="comentarios" style="padding: 4rem 0; background-color: #fff;">
+  <div class="container">
+    <h2 style="text-align: center; margin-bottom: 2rem;">Opiniones de Visitantes</h2>
+
+    <!-- Formulario para nuevos comentarios -->
+    <div class="form-comentario" style="max-width: 600px; margin: 0 auto 3rem auto;">
+      <h3 style="margin-bottom: 1rem;">Deja tu comentario</h3>
+      <form id="formOpinion">
+        <div style="margin-bottom: 1rem;">
+          <label for="nombre" style="display: block; margin-bottom: 0.5rem;">Nombre:</label>
+          <input type="text" id="nombre" required style="width: 100%; padding: 0.8rem; border: 1px solid #ddd; border-radius: 5px;">
         </div>
-    </section>
+        <div style="margin-bottom: 1rem;">
+          <label for="comentario" style="display: block; margin-bottom: 0.5rem;">Comentario:</label>
+          <textarea id="comentario" rows="4" required style="width: 100%; padding: 0.8rem; border: 1px solid #ddd; border-radius: 5px;"></textarea>
+        </div>
+        <div style="margin-bottom: 1rem;">
+          <label for="calificacion" style="display: block; margin-bottom: 0.5rem;">Calificación:</label>
+          <select id="calificacion" required style="width: 100%; padding: 0.8rem; border: 1px solid #ddd; border-radius: 5px;">
+            <option value="">Selecciona una calificación</option>
+            <option value="5">⭐⭐⭐⭐⭐ - Excelente</option>
+            <option value="4">⭐⭐⭐⭐ - Muy bueno</option>
+            <option value="3">⭐⭐⭐ - Bueno</option>
+            <option value="2">⭐⭐ - Regular</option>
+            <option value="1">⭐ - Malo</option>
+          </select>
+        </div>
+        <button type="submit" class="btn" style="background-color: var(--azul);">Publicar</button>
+      </form>
+    </div>
+
+    <!-- Lista de comentarios -->
+    <div class="lista-comentarios" id="listaComentarios" style="max-width: 800px; margin: 0 auto;">
+      <!-- Comentarios renderizados por JavaScript -->
+    </div>
+  </div>
+</section>
+
     
     <!-- FOOTER -->
     <footer id="contacto">

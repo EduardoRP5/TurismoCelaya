@@ -1,0 +1,175 @@
+[
+  {
+    "nombre": "Central De Autobuses Tresguerras, S.A. De C.V.",
+    "calificacion": 3.9,
+    "descripcion": "transit_station, point_of_interest, establishment",
+    "lat": 20.5141945,
+    "lng": -100.8078634,
+    "reviews": [
+      {
+        "text": "Remodeled, clean but with few transportation company options, 90% is the yellow date monopoly.",
+        "rating": 3
+      },
+      {
+        "text": "This center has many destinations and lines to travel wherever you need with little wait and decent rooms.",
+        "rating": 5
+      },
+      {
+        "text": "The Central has been remodeled and looks better, however in some places it still looks dirty and smells bad, its location makes it conflictive in certain seasons and at certain times. There is no more.",
+        "rating": 4
+      },
+      {
+        "text": "Spacious and clean, bathrooms are also clean and spacious, at the truck line counters they have the prices and routes displayed, the bad thing is that there is no taxi module with rates for distances and the taxis charge you what they want",
+        "rating": 4
+      },
+      {
+        "text": "The place is good, the only thing that bothered me is that the receptionists who receive tickets were in their conversation, they did not attend promptly and then I went to board and I had not taken my ticket and they made me return again, etc etc.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "nombre": "Primera Plus",
+    "calificacion": 2.8,
+    "descripcion": "transit_station, point_of_interest, establishment",
+    "lat": 20.524722,
+    "lng": -100.8493989,
+    "reviews": [
+      {
+        "text": "The number does not correspond, they told me that they have no relationship with Primera Plus, the company that responded to me was Click Bus.",
+        "rating": 1
+      },
+      {
+        "text": "The service offered by the company is of very high quality and affordable prices, and they are also very punctual at departure time.",
+        "rating": 3
+      },
+      {
+        "text": "Terrible phone service, after 15 minutes, no answer.",
+        "rating": 1
+      },
+      {
+        "text": "Very good service",
+        "rating": 4
+      },
+      {
+        "text": "Good service",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Celaya Central Bus station",
+    "calificacion": "Sin calificación",
+    "descripcion": "transit_station, point_of_interest, establishment",
+    "lat": 20.51487999999999,
+    "lng": -100.807,
+    "reviews": []
+  },
+  {
+    "nombre": "Autobuses San Miguel Octopan",
+    "calificacion": "Sin calificación",
+    "descripcion": "bus_station, transit_station, point_of_interest, establishment",
+    "lat": 20.5135744,
+    "lng": -100.8077706,
+    "reviews": []
+  },
+  {
+    "nombre": "Celaya Bus Station",
+    "calificacion": 4.3,
+    "descripcion": "bus_station, transit_station, point_of_interest, establishment",
+    "lat": 20.5139239,
+    "lng": -100.8067282,
+    "reviews": [
+      {
+        "text": "Small but clean and friendly service",
+        "rating": 5
+      },
+      {
+        "text": "I liked the hustle and bustle",
+        "rating": 5
+      },
+      {
+        "text": "Pro",
+        "rating": 5
+      },
+      {
+        "text": "No windows,  needs a coffee shop.",
+        "rating": 3
+      },
+      {
+        "text": "Fast",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "2 de Abril",
+    "calificacion": "Sin calificación",
+    "descripcion": "transit_station, point_of_interest, establishment",
+    "lat": 20.523769,
+    "lng": -100.79968,
+    "reviews": []
+  },
+  {
+    "nombre": "Sat",
+    "calificacion": 5,
+    "descripcion": "transit_station, point_of_interest, establishment",
+    "lat": 20.52281,
+    "lng": -100.834627,
+    "reviews": [
+      {
+        "text": "Excellent facilities, good attention and good service",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Base 3 Guerras",
+    "calificacion": "Sin calificación",
+    "descripcion": "transit_station, point_of_interest, establishment",
+    "lat": 20.514705,
+    "lng": -100.787953,
+    "reviews": []
+  },
+  {
+    "nombre": "Parada Autobuses Pepsi",
+    "calificacion": 3.6,
+    "descripcion": "transit_station, point_of_interest, establishment",
+    "lat": 20.519672,
+    "lng": -100.8396853,
+    "reviews": [
+      {
+        "text": "Way to get out of the city quickly and take transportation efficiently",
+        "rating": 5
+      },
+      {
+        "text": "It's nothing more than a bench with a roof, but many transportation lines stop at this place, there are ticket booths and sometimes something to eat, it's good.",
+        "rating": 4
+      },
+      {
+        "text": "after 8pm it is very painful and can be dangerous",
+        "rating": 3
+      },
+      {
+        "text": "It is a point where it is accessible to get to, the only bad thing is that it is located next to a roundabout which can be dangerous if you are on the opposite side of this stop.",
+        "rating": 3
+      },
+      {
+        "text": "Many people, little place to cover from the sun, it is a stopover",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "nombre": "Parada De Regreso De Alpla",
+    "calificacion": "Sin calificación",
+    "descripcion": "transit_station, point_of_interest, establishment",
+    "lat": 20.5541575,
+    "lng": -100.8228497,
+    "reviews": []
+  }
+]

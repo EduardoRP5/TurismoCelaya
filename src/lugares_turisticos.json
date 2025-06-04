@@ -1,0 +1,650 @@
+[
+  {
+    "nombre": "Parroquia Del Sagrado Corazón De Jesús",
+    "calificacion": 4.6,
+    "descripcion": "tourist_attraction, church, place_of_worship, point_of_interest, establishment",
+    "lat": 20.515992,
+    "lng": -100.7951567,
+    "reviews": [
+      {
+        "text": "S\n\nMe.\n\nMP",
+        "rating": 2
+      },
+      {
+        "text": "So beautiful 😍!!",
+        "rating": 5
+      },
+      {
+        "text": "So beautiful!!!",
+        "rating": 5
+      },
+      {
+        "text": "Pleasant space that allows you to carry out the Catholic faith in an appropriate and enjoyable way. It is important to be aware of the times available for your visit.",
+        "rating": 5
+      },
+      {
+        "text": "Very clean, the priest officiates the mass very well and everything is understood very well.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Templo de la Merced",
+    "calificacion": 4.6,
+    "descripcion": "tourist_attraction, church, place_of_worship, point_of_interest, establishment",
+    "lat": 20.5234679,
+    "lng": -100.817651,
+    "reviews": [
+      {
+        "text": "A beautiful temple dedicated to Our Lady of Mercy, the oldest temple in the beautiful City of Celaya. Its holiday is on September 24 of each year.",
+        "rating": 5
+      },
+      {
+        "text": "I went yesterday for the imposition of ashes on the Wednesday that marks the beginning of Lent, which reminds us that one day we must die.",
+        "rating": 5
+      },
+      {
+        "text": "Beautiful.\nVery attentive office staff.\nThe kind and human priests",
+        "rating": 5
+      },
+      {
+        "text": "One of the best and majestic temples in Celaya, Guanajuato. We have also celebrated several funeral masses for family and friends here, the last one being for my little brother, RIP Jose Luis Ramírez Vázquez.",
+        "rating": 5
+      },
+      {
+        "text": "Excellent way of giving worship.\nLeaving the church, I recommend the churros, on the corner (the business is mobile)",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Museum of Mummies Celaya",
+    "calificacion": 4.4,
+    "descripcion": "museum, tourist_attraction, point_of_interest, establishment",
+    "lat": 20.53318119999999,
+    "lng": -100.8196133,
+    "reviews": [
+      {
+        "text": "Interesting musem. Kinds cool but creepy. Maybe bring kids that are older?",
+        "rating": 3
+      },
+      {
+        "text": "Very small but well displayed museum of mummies in Celaya Gto.",
+        "rating": 4
+      },
+      {
+        "text": "Not going to lie, I thought it would be bigger. The museum is composed of two rooms, but the mummies are really cool to see.",
+        "rating": 3
+      },
+      {
+        "text": "An unusual, but very interesting museum.",
+        "rating": 5
+      },
+      {
+        "text": "Small but so cool!!",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Park Celaya",
+    "calificacion": 4.4,
+    "descripcion": "shopping_mall, tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5470103,
+    "lng": -100.8392696,
+    "reviews": [
+      {
+        "text": "Reasonable choices for a meal. The only negative was that the restaurants stopped selling food about 30 minutes before the mall closed.",
+        "rating": 3
+      },
+      {
+        "text": "Paid parking shopping center with a Wal-Mart anchor, bar, McDonald’s ice cream booth-very basic- not elegant or upscale. Known locally as the poor man’s shopping center o centro commercial de los jodidos.",
+        "rating": 3
+      },
+      {
+        "text": "Good to pass 2 hrs.",
+        "rating": 5
+      },
+      {
+        "text": "Plenty of stores for sure... People struggles getting market carts, they are a problem to find one available... Also the parking fee ($10) seems excessive it uses to be less than that",
+        "rating": 3
+      },
+      {
+        "text": "The first large mall in the city.\nOffers a wide variety of stores, a supermarket and a movie theater.\nThe parking lot is always a mess, cars parking in the middle of the road or people forgetting to pay ahead their parking tickets, confusing road ways make it hard to navigate.\nOnce inside, there's plenty to see and eat. My favorite restaurant there is Sushi Rox, just for the sushi buffet. There are many other options: sandwiches, burgers, tacos, pizza, salads, Chinese.\nYou can pay you CFE bill at the automated machines, also the water bill, however i don't get why people keeps doing that, when it can all be paid online.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "nombre": "Bicentenario Park",
+    "calificacion": 4.3,
+    "descripcion": "park, tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5113853,
+    "lng": -100.7783199,
+    "reviews": [
+      {
+        "text": "A beautiful place to get a rest with your family, friends or alone, a place to excersise, and a place to bring your kids to play. You can have picnic in the perfect grass under the trees. Pet friendly. Bathrooms available. Parking restrcted for use only is available in weekend and you must pay for use it.",
+        "rating": 5
+      },
+      {
+        "text": "It's a great place for exercise, really big and kind of abandoned, it's recommended to stay near the parking lot where most of the activity is",
+        "rating": 5
+      },
+      {
+        "text": "Great place for the family had one of the best days in my life.",
+        "rating": 5
+      },
+      {
+        "text": "well guarded during the day and nice paths for a walk.",
+        "rating": 4
+      },
+      {
+        "text": "Cool place to spend the weekend with the family.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Principal Celaya Garden",
+    "calificacion": 4.5,
+    "descripcion": "park, tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5218683,
+    "lng": -100.8140826,
+    "reviews": [
+      {
+        "text": "It's a very cute and small town, I really love this city. You can enjoy walking on this garden located in downtown. Really adorable. Just be careful taking your bagpack safely from another people.",
+        "rating": 4
+      },
+      {
+        "text": "A very relaxing place to visit. Beautiful to look at and appreciate in the heart of an otherwise busy city.",
+        "rating": 5
+      },
+      {
+        "text": "Downtown Celaya is a great place to be. Very family oriented and very safe.",
+        "rating": 5
+      },
+      {
+        "text": "To me, it is 5 starts, but some locals claim that it is not safe here,  i was here with my daughter .",
+        "rating": 5
+      },
+      {
+        "text": "Really friendly  ppl  in celaya was a nice day around downtown",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Templo de San Francisco",
+    "calificacion": 4.8,
+    "descripcion": "tourist_attraction, church, place_of_worship, point_of_interest, establishment",
+    "lat": 20.5221059,
+    "lng": -100.8119061,
+    "reviews": [
+      {
+        "text": "Beautiful place with immaculate details and food vendors just outside",
+        "rating": 5
+      },
+      {
+        "text": "A peaceful place to walk with family and friends. Snacks, food, and drinks are everywhere.  Love coming here",
+        "rating": 5
+      },
+      {
+        "text": "Ok",
+        "rating": 5
+      },
+      {
+        "text": "Good",
+        "rating": 5
+      },
+      {
+        "text": "It this a beautiful Church",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Regional History Museum Celaya",
+    "calificacion": 4.4,
+    "descripcion": "museum, tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5216523,
+    "lng": -100.8125764,
+    "reviews": [
+      {
+        "text": "Awesome experience, lots of history, for it begin a small  museum.",
+        "rating": 5
+      },
+      {
+        "text": "The place describes the heritage and history of Celaya Gto. It shows the important people that make Celaya the City is now. It's a must if you want to walk for a bit.",
+        "rating": 4
+      },
+      {
+        "text": "A must if you want to know the history of the region, bit bring your large spectacles cause some of the text have very little font and are on weird angles to read",
+        "rating": 4
+      },
+      {
+        "text": "Great local history!",
+        "rating": 5
+      },
+      {
+        "text": "Difficult to park aroud",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Monument to Miguel Hidalgo",
+    "calificacion": 4.8,
+    "descripcion": "tourist_attraction, point_of_interest, establishment",
+    "lat": 20.522892,
+    "lng": -100.8122515,
+    "reviews": [
+      {
+        "text": "An excellent monument dedicated to the Father of the Nation Don Miguel Hidalgo on the side of the Independencia road",
+        "rating": 5
+      },
+      {
+        "text": "Very well cared for and preserved the monument to Miguel Hidalgo",
+        "rating": 4
+      },
+      {
+        "text": "It is an excellent place to have a good time.",
+        "rating": 5
+      },
+      {
+        "text": "Miguel Hidalgo Monument",
+        "rating": 5
+      },
+      {
+        "text": "Beautiful place, fresh and clean",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Museo de Arte Octavio Ocampo",
+    "calificacion": 4.8,
+    "descripcion": "museum, tourist_attraction, point_of_interest, establishment",
+    "lat": 20.523141,
+    "lng": -100.8134806,
+    "reviews": [
+      {
+        "text": "This museum is made up of 10 rooms that exhibit: Francisco Eduardo Tresguerras Collection Testimonials (sketches, engravings, documents and ornamental objects). Collective drawing, engraving, painting, sculpture, photography, object art and installations.",
+        "rating": 5
+      },
+      {
+        "text": "Fairly new place. I loved Ocampo's hall.",
+        "rating": 5
+      },
+      {
+        "text": "Amazingly creative images.",
+        "rating": 5
+      },
+      {
+        "text": "Excellent museum that shows the works of Celayence Octavio Ocampo, you have to carefully analyze each painting to observe the different facets of it (those that have a mirror, in the reflection of the painting you will find other figures that you cannot see in the original). There is also an entire historical archive of another very important Celayense: Francisco Eduardo Tresguerras, who designed the Templo del Carmen that is on the opposite corner of the museum. Both artists created ART in every sense of the word, raising the name of Celaya, Guanajuato.",
+        "rating": 5
+      },
+      {
+        "text": "Personally, I love this museum, it is a fairly quiet place and usually during the week there are not many people, sometimes it is practically alone, there is one day of the week when they do not charge admission but the truth is that the entrance is very very cheap, the paintings by Octavio Ocampo are beautiful, and they also have some architectural plans by Fco. Eduardo Tresguerras, those are the parts that remain fixed in the museum, but there are also a few rooms of the museum in which the paintings on display change from time to time and They put paintings by different authors, equally beautiful, you can go alone or in a group and you can ask to be guided so that the paintings can be explained to you.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Museo de la Purisima Concepcion",
+    "calificacion": 4.4,
+    "descripcion": "museum, tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5227911,
+    "lng": -100.8109115,
+    "reviews": [
+      {
+        "text": "A place with a lot of history, it is better not to tell what there is to see, better visit it!!",
+        "rating": 5
+      },
+      {
+        "text": "What days and what time is it open???",
+        "rating": 5
+      },
+      {
+        "text": "How much history!",
+        "rating": 5
+      },
+      {
+        "text": "It has everything that makes it a museum.",
+        "rating": 5
+      },
+      {
+        "text": "It is an enigmatic place",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Bola del Agua",
+    "calificacion": 4.6,
+    "descripcion": "tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5218483,
+    "lng": -100.8120459,
+    "reviews": [
+      {
+        "text": "Love to visit Bola Del Agua it’s next to Temple San Francisco where my Mom & Dad Married. It’s a beautiful place to visit with your family remember keep in eye on your kids! Enjoy a walk by Bola Del Agua you can buy a lot of toys dolls for your kids. You can also get Atole a traditional Mexican drink made from corn masa and other ingredients.\nYou can get soft drinks, water, and coffee.\nYou can get Buñuelos it’s a fried dough fritter with sugar and much more!",
+        "rating": 5
+      },
+      {
+        "text": "This water reservoir was part of the groundwork and pipelines that made up the first water Network in Celaya. It even shows the original cost to the government and strangely listed in cents, it's been kept in great shape although I highly doubt it's used anymore.",
+        "rating": 5
+      },
+      {
+        "text": "Great night to find chucherias. Too much to see and walk.",
+        "rating": 5
+      },
+      {
+        "text": "It’s a nice place but not special, good for a walk, and enjoy around with friends",
+        "rating": 3
+      },
+      {
+        "text": "Beautiful place downtown Celaya.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Quiosco de Celaya",
+    "calificacion": 4,
+    "descripcion": "tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5218143,
+    "lng": -100.8139664,
+    "reviews": [
+      {
+        "text": "",
+        "rating": 3
+      },
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Plaza del pajaro caido",
+    "calificacion": "Sin calificación",
+    "descripcion": "tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5207756,
+    "lng": -100.813393,
+    "reviews": []
+  },
+  {
+    "nombre": "Exconvento de San Agustín",
+    "calificacion": 4.6,
+    "descripcion": "museum, tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5205122,
+    "lng": -100.8133823,
+    "reviews": [
+      {
+        "text": "Super",
+        "rating": 5
+      },
+      {
+        "text": "Good place to visit, it has a fixed exhibition. The best thing about our visit was the altar for the Day of the Dead. No entry cost.",
+        "rating": 5
+      },
+      {
+        "text": "It lacks a guide or more information cards",
+        "rating": 4
+      },
+      {
+        "text": "Very nice and they allow you to come in even on Mondays to see the property.",
+        "rating": 5
+      },
+      {
+        "text": "The place is quiet, but it would be more beautiful and attractive if they put the letters of CELAYA, here we don't have colored letters! You could be.... 😉🙏🏻",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "El video mas viral de tiktok",
+    "calificacion": "Sin calificación",
+    "descripcion": "tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5217168,
+    "lng": -100.8082912,
+    "reviews": []
+  },
+  {
+    "nombre": "Quiosco del Arte de la Alameda Hidalgo.",
+    "calificacion": 5,
+    "descripcion": "tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5276018,
+    "lng": -100.8106461,
+    "reviews": [
+      {
+        "text": "At night very beautiful and many places to go for a walk and have a date",
+        "rating": 5
+      },
+      {
+        "text": "Very familiar place",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Park Alameda",
+    "calificacion": 4.6,
+    "descripcion": "park, tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5276021,
+    "lng": -100.8106381,
+    "reviews": [
+      {
+        "text": "Awesome place to come to relax with companionship,lots of food variety’s and just really relaxing. Also really awesome place to take some nice pictures you also get to see houses that use to be owned by prestigious people that lived in Celaya.",
+        "rating": 5
+      },
+      {
+        "text": "Nice and  kind people all around. Ice cream is one of the reasons to visit it. Family and kids playing. Lots of older people just looking around. On the bad side, people tend to throw trash on the floor and there are a lot of people smoking.",
+        "rating": 4
+      },
+      {
+        "text": "I feel secure. It is clean.",
+        "rating": 5
+      },
+      {
+        "text": "Nice place to take a rest, alone or with your family and friends",
+        "rating": 5
+      },
+      {
+        "text": "Very nice place to meet your friends and walk",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Túnel infinito",
+    "calificacion": "Sin calificación",
+    "descripcion": "tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5198976,
+    "lng": -100.7997252,
+    "reviews": []
+  },
+  {
+    "nombre": "Poste del Simpson",
+    "calificacion": "Sin calificación",
+    "descripcion": "tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5344943,
+    "lng": -100.8041636,
+    "reviews": []
+  },
+  {
+    "nombre": "Las letras de Celaya",
+    "calificacion": 2,
+    "descripcion": "tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5100734,
+    "lng": -100.8147365,
+    "reviews": [
+      {
+        "text": "Although it is not a comfortable access to get to them, at least you know where you are getting to 😆",
+        "rating": 4
+      },
+      {
+        "text": "They are at the entrance and not there for parking or anything else just the very simple letters",
+        "rating": 1
+      },
+      {
+        "text": "I didn't see them",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Casa Embrujada",
+    "calificacion": 5,
+    "descripcion": "tourist_attraction, point_of_interest, establishment",
+    "lat": 20.52948559999999,
+    "lng": -100.8261661,
+    "reviews": [
+      {
+        "text": "Emberdad is that house haunted, if so I would very much like to have the opportunity to enter and spend a night inside",
+        "rating": 5
+      },
+      {
+        "text": "I have always been curious to enter but I have never come across the person who enters there. I hope one of these days I can meet him at home 🏡",
+        "rating": 5
+      },
+      {
+        "text": "I would also like to have the experience of visiting it and spending a night or more on the property.",
+        "rating": 5
+      },
+      {
+        "text": "It's pretty but it's scary",
+        "rating": 5
+      },
+      {
+        "text": "If it's haunted",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Murales bajo el puente de Irrigacion",
+    "calificacion": 5,
+    "descripcion": "tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5359018,
+    "lng": -100.8197883,
+    "reviews": [
+      {
+        "text": "All the murals are beautiful, how nice that they preserve them every year.\nSome memories of the first year they were made.",
+        "rating": 5
+      },
+      {
+        "text": "Very pretty",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Xochipilli Segunda Sección Park",
+    "calificacion": 4.3,
+    "descripcion": "tourist_attraction, park, point_of_interest, establishment",
+    "lat": 20.5349456,
+    "lng": -100.8256546,
+    "reviews": [
+      {
+        "text": "Very good place to bring your family to have a picnic. Very cheap, clean and modern, the lake is nice. Parking available and is new.",
+        "rating": 5
+      },
+      {
+        "text": "It is nice but it could be much nicer. Some areas are closed, the lake water looks dirty although there is no smell, the filter pumps are on plain sight. It is managed by the city and generally speaking they are doing a good job but i insist when I say that they could be doing much better.",
+        "rating": 4
+      },
+      {
+        "text": "It’s a really nice park, bur considered unsafe sometimes..., plus it’s location is far away from the city centre, my advice is to go there in the morning only, 3 pesos(coins) to enter",
+        "rating": 4
+      },
+      {
+        "text": "Its a good place to spens some time with your Kids, but, expects a lot of hot weather and it is commonly very crowded, if you want to excercise, go early, before 10 am....",
+        "rating": 3
+      },
+      {
+        "text": "This place is amazing theres a 3 pesos  maintenance charge wich is nothing. However, is got a track for running, along with outdoor gim, various baskeball courţ, manny tree plãnts, streching bars etc etc and also people are very nice.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Bandera Monumental de Celaya",
+    "calificacion": 5,
+    "descripcion": "tourist_attraction, point_of_interest, establishment",
+    "lat": 20.53500279999999,
+    "lng": -100.8256347,
+    "reviews": [
+      {
+        "text": "The monumental flag is nice and big",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Víctor Manuel",
+    "calificacion": 5,
+    "descripcion": "tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5100709,
+    "lng": -100.8241356,
+    "reviews": [
+      {
+        "text": "Damn, Victor is too good",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Guadalupe rojas",
+    "calificacion": "Sin calificación",
+    "descripcion": "tourist_attraction, point_of_interest, establishment",
+    "lat": 20.4989403,
+    "lng": -100.8388163,
+    "reviews": []
+  },
+  {
+    "nombre": "Diegofest",
+    "calificacion": 5,
+    "descripcion": "tourist_attraction, point_of_interest, establishment",
+    "lat": 20.557245,
+    "lng": -100.8239338,
+    "reviews": [
+      {
+        "text": "",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Casa de la Nora",
+    "calificacion": "Sin calificación",
+    "descripcion": "tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5585062,
+    "lng": -100.8044591,
+    "reviews": []
+  },
+  {
+    "nombre": "Glorieta de los 2 mundos",
+    "calificacion": 3,
+    "descripcion": "tourist_attraction, point_of_interest, establishment",
+    "lat": 20.5145259,
+    "lng": -100.7709199,
+    "reviews": [
+      {
+        "text": "An excellent sculptural work that has been traveling from one place to another throughout the city. I'm glad they've finally fixed its location here. The downside is that it's a mandatory stop due to the constant and unjustified \"Retenes\" (checkpoints) of the Celaya traffic department, who are only looking to line their pockets with juicy bribes and significantly slow down traffic in the area.",
+        "rating": 1
+      },
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  }
+]

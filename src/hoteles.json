@@ -1,0 +1,1360 @@
+[
+  {
+    "nombre": "St. George Hotel",
+    "calificacion": 4.4,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5187363,
+    "lng": -100.8367218,
+    "reviews": [
+      {
+        "text": "This hotel has a convenient location,  affordable and clean. But you get what you paid for. No microwave, no mini fridge, almost no furniture in the room,  and saw a few roaches in the pool area, since it's outdoors anyway",
+        "rating": 4
+      },
+      {
+        "text": "Extremely noisy hotel. There is no insulation between rooms, straight concrete blocks building. If anyone is talking outside you can hear it in the room. Curtains are not full black out and windows have no solid locks. You hear the train whistling from 4~5 am every hour. I had no real hot water in the shower at 6:30 am, I did not see a boiler on property I think they use a solar heater for the water. The place was clean. paid $30 US will stay at hotel Mary further down the street next time & pay $55US.",
+        "rating": 3
+      },
+      {
+        "text": "The Hotel is really confortable, you can visit it any time you like and you will always recieve good attention from the workers",
+        "rating": 5
+      },
+      {
+        "text": "Service is very good in all hotels",
+        "rating": 5
+      },
+      {
+        "text": "Clean efficient  staff but hard befs",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel Mary",
+    "calificacion": 4.1,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5194477,
+    "lng": -100.8145647,
+    "reviews": [
+      {
+        "text": "My experience was exceptional. They made me feel at home, and always on top of my security and my safety. the room clean and the restaurant OMG amazing. Definitely we will be back",
+        "rating": 5
+      },
+      {
+        "text": "The restaurant in the entrance is good, the food is good and for the most part the costumer service is favorable. I would of without a doubt given this place 5 stars, however My experience with a waiter brought it down to 4 stars, after wanting to give it only 3.\n\nThe issue was that I ordered a shrimp cocktail, but it was too spicy, something that I was not notified of before it was served to me. I asked the waiter to change it for one that wasn't spicy...\n\n(Before I continue I want to point out that he was a male in his late 40s and didn't seem to be in a good mood, his costumer service was terrible, we asked questions about the menu and the food and his answers were short and irritated.)\n\nHe refused to change the order, saying that I should have told him when I ordered, I tried to explain to him that it made no sense to me, because the menu didn't say it was spicy.\n\nEventually another waiter pulled up and I asked to speak to their supervisor,she said it was her & seemed more hospitable, she also told me I should of told them I didn't want it spicy from the beginning, I reiterated what I had told her coworker and shortly after, she accepted to bring me a cocktail they wasn't spicy.",
+        "rating": 4
+      },
+      {
+        "text": "Don't know much about the rooms, but the restaurant is pretty adorable and offers a lot of food veriaty. As in any other restaurant, the services is good but not great. The parking lot is alright. I'd say it's more a dinner place than a lunch one. The location is pretty good actually, it is close to the city park, ATMs and is located in one of the main streets of the town.",
+        "rating": 3
+      },
+      {
+        "text": "Good clean hotel, very close to Centro (5 minute walk).  Excellent restaurant on site with bar.  Secure parking and excellent staff.",
+        "rating": 4
+      },
+      {
+        "text": "Nice central locatio room was fairly clean quiet and cozy. Price was pretty good too.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Capital O Gran Hotel Campestre, Celaya",
+    "calificacion": 4,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5177935,
+    "lng": -100.7889581,
+    "reviews": [
+      {
+        "text": "Ooo",
+        "rating": 5
+      },
+      {
+        "text": "Genial",
+        "rating": 5
+      },
+      {
+        "text": "The security is low",
+        "rating": 2
+      },
+      {
+        "text": "The reception service is terrible, and if you make a reservation they can figure out how to put the number of towels in the bathroom that they are going to use.",
+        "rating": 2
+      },
+      {
+        "text": "Excellent hotel to stay at a low cost. I would recommend it without problem.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "City Express by Marriott Celaya Parque",
+    "calificacion": 4.4,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.549475,
+    "lng": -100.8395199,
+    "reviews": [
+      {
+        "text": "The service is awesome. They are always looking for your confort. The Hotel Is next to Parque Celaya, and if you want to visit the City this Is your best choice to pass the night (and even more)",
+        "rating": 5
+      },
+      {
+        "text": "Excellent location, rooms were clean, small fridge included, perfect for a come&go trip.",
+        "rating": 5
+      },
+      {
+        "text": "Great service, location and breakfast buffet! Clean rooms, free wi-fi and modern hotel at an affordable price.",
+        "rating": 5
+      },
+      {
+        "text": "The service in reception was not as good as I thought. Did not show interest towards there job. Everything else was memorable.",
+        "rating": 5
+      },
+      {
+        "text": "The room is confortable andas quite, Aldo the service it's effective.the lounge is okay.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel Santa Rosa",
+    "calificacion": 3.9,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.522142,
+    "lng": -100.826067,
+    "reviews": [
+      {
+        "text": "Decent place to stay in. Not a five star but it's clean. Needs remodeling from the inside but good place just to sleep in. Great if your going for a short vacation time.",
+        "rating": 3
+      },
+      {
+        "text": "Worst stay ever, terrible lighting, dirty, I feel next time in celaya this hotel will no longer be in business",
+        "rating": 1
+      },
+      {
+        "text": "GOD hotel",
+        "rating": 5
+      },
+      {
+        "text": "Simple for live in here",
+        "rating": 4
+      },
+      {
+        "text": "Buenos",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Capital O Hotel Casa Real Celaya",
+    "calificacion": 4,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.519352,
+    "lng": -100.8350372,
+    "reviews": [
+      {
+        "text": "It is a nice place to stay, the service is nice, people treat you very good",
+        "rating": 4
+      },
+      {
+        "text": "Nice cozy place, very neat and clean , nice staff as well",
+        "rating": 4
+      },
+      {
+        "text": "Good food and clean rooms and restaurant",
+        "rating": 4
+      },
+      {
+        "text": "Nice dishes but some time yo prepare it",
+        "rating": 4
+      },
+      {
+        "text": "Wonderfull place... unforgateable experience!",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "2nd Home",
+    "calificacion": 4.9,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5346556,
+    "lng": -100.7885808,
+    "reviews": [
+      {
+        "text": "I want to receive information about the rental of the apartments, but they do not answer the contact phone number. Will they have any other means?",
+        "rating": 4
+      },
+      {
+        "text": "Habitaciones confortables y cómodas, tal como un viajero como su servidor necesitaba. ¡Felicito a los Dueños por este maravilloso lugar!",
+        "rating": 5
+      },
+      {
+        "text": "El lugar es muy bonito y su personal es mumamente atento! Los recomiendo muchísimo aparte cuenta con seguridad que está increíble!!",
+        "rating": 5
+      },
+      {
+        "text": "Excellent place to rest",
+        "rating": 5
+      },
+      {
+        "text": "Beautiful",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel Gómez de Celaya",
+    "calificacion": 3.9,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5213066,
+    "lng": -100.8135152,
+    "reviews": [
+      {
+        "text": "Nice place clean well located.   Economy prices.    Recommended....",
+        "rating": 5
+      },
+      {
+        "text": "Is not a 5 star hotel But it is clean .with everything close. The parking is not near hotel .around 4 blocks away. But all is ok",
+        "rating": 4
+      },
+      {
+        "text": "Regular",
+        "rating": 5
+      },
+      {
+        "text": "Ok",
+        "rating": 4
+      },
+      {
+        "text": "Cool",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Casa Inn Celaya Veleros",
+    "calificacion": 4.4,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.536889,
+    "lng": -100.826431,
+    "reviews": [
+      {
+        "text": "Good\nReasonablely Affordable. Good sized room in our suite. Great city views. Breakfast has a good selection. We had to complain that other guests of local football teams were making tooo much noise waking is up at 4.30am the first night. The second night they had staff attend they area an be keep them quiet which was greatly appreciated.\n\nBad\nFood service was poor. Wrong people given wrong food as the waiter didn't know what was fish or chicken. Also didn't know how to mix alcoholic drinks and got orders wrong mixing up rum for tequila. Was friendly and always tried to make things right. A train service blares it's horn and woke me up several times. Not all guests heard it though",
+        "rating": 3
+      },
+      {
+        "text": "This place was amazing for the price. Stayed a week here while vacationing and seeing family. The pool was very nice and the staff was as friendly as can be. The restaraunt food was delicious. I would definitely recommend staying here if you’re touring. Most of the staff are bilingual and if you speak with one that it is not, they are quick to find another staff member to aid with conversation with little to no complications. I will stay here next year",
+        "rating": 5
+      },
+      {
+        "text": "Do to a family emergency I ended up staying for a few nights here and I sincerely believe that this guys do take care of their customers. They were very helpful to all of my family needs in regards to accommodation, transportation and other needs, I don't know hot to thank them enough. Rooms were clean and fairly Large enough to rest peacefully at night. Price is fair and customer service is excelent, my family and I are very happy to have stayed here, we all agree that it was a good choice.\nRestaurant food it good and service is excelente. Thanks to.management and whole hotel staff, mil gracias y que dios los bendiga a todos por ser muy serviciales y helpful. Hope this review help others...I am a foreigner and if I ever visit Celaya again I would definitely be staying at Casa Inn again. Thousand thanks guys.",
+        "rating": 5
+      },
+      {
+        "text": "Great place for staying and the food was great; I spend couple of days here  and I really enjoy the service and place.\nvery good place.",
+        "rating": 5
+      },
+      {
+        "text": "It was a great experience, with good food, attention and facilities, I was not there for much time but it was a very good experience",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "HOTEL RJ CELAYA",
+    "calificacion": 4.1,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.520174,
+    "lng": -100.7979126,
+    "reviews": [
+      {
+        "text": "Super terrible service from the man who attends at night, I accidentally forgot my suitcase with my belongings in which I brought valuable things such as my computer, cell phones, wallets and some invoices for my cars\n\nJust because I asked him if he could open the parking lot again to take out my valuables, he got upset and argued that I had never asked for anything there and that I didn't want mistrust and he kicked me out along with my wife and my 2-year-old baby at 3:50 am\n\nThere so they can see what class of hotels they are going to stay in!",
+        "rating": 1
+      },
+      {
+        "text": "Hotel tipo “rústico”, económico y limpio. Personal amable y súper con la disposición de ayudar y orientar. No tiene grandes amenidades pero sí tiene lo básico para un alojamiento con presupuesto ajustado.",
+        "rating": 4
+      },
+      {
+        "text": "Excellent place to rest, affordable price and quiet",
+        "rating": 5
+      },
+      {
+        "text": "Muy bien por el costo $400 limpió y gente muy amable. Gracias",
+        "rating": 5
+      },
+      {
+        "text": "El mejor hotel en su categoría, excelente trato de los señores de recepción, a destacar su limpieza y tranquilidad, siempre que voy a Celaya llegó sin pensarle",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel Isabel",
+    "calificacion": 3.9,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5216953,
+    "lng": -100.8159169,
+    "reviews": [
+      {
+        "text": "My go to hotel in Celaya, large spacious rooms real cotton towels and sheets, rooms are clean and airy,, Wats mire it's cheap, right in the middle of downtown Celaya, two blocks from the historic centre, High recommended",
+        "rating": 5
+      },
+      {
+        "text": "Acceptable place to spend a night the best part is the location and price, they need a little work on the rooms and beds, outside of that is good",
+        "rating": 4
+      },
+      {
+        "text": "My stay at the hotel was very enjoyable, the rooms are comfortable,  and the personal it's really kind,  i'm sure i'll come back.",
+        "rating": 4
+      },
+      {
+        "text": "Hot, checked out a day early and they refused to give the money back.",
+        "rating": 1
+      },
+      {
+        "text": "The hotel is in the center city and is a confort place",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "nombre": "HOTEL HC CELAYA",
+    "calificacion": 4.3,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5183994,
+    "lng": -100.8051398,
+    "reviews": [
+      {
+        "text": "It is very comfortable place. The workers are polite and the price its ok. I recomend it",
+        "rating": 5
+      },
+      {
+        "text": "Near principal avenue. Room was clean and big. The host was very kind.",
+        "rating": 4
+      },
+      {
+        "text": "Good place to relax 😌.",
+        "rating": 5
+      },
+      {
+        "text": "Very chido",
+        "rating": 4
+      },
+      {
+        "text": "Is a great place",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Mi Hotelito",
+    "calificacion": 3.5,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5183708,
+    "lng": -100.8112232,
+    "reviews": [
+      {
+        "text": "To spend a moment of rsx very well and the cost equally",
+        "rating": 3
+      },
+      {
+        "text": "I highly recommend it, very good service.",
+        "rating": 5
+      },
+      {
+        "text": "Strange there uwu... I mean, what? 👀",
+        "rating": 5
+      },
+      {
+        "text": "Buen lugar para pasar un rato muy intimo en compañia de tu chic@ muy discreto el personal",
+        "rating": 3
+      },
+      {
+        "text": "Extremadamente básico... Sólo para pasar la noche en algo económico.. hay mejores!!!",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "nombre": "Motel Las Delicias",
+    "calificacion": 4,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.53613919999999,
+    "lng": -100.7831141,
+    "reviews": [
+      {
+        "text": "Super",
+        "rating": 5
+      },
+      {
+        "text": ".......t",
+        "rating": 5
+      },
+      {
+        "text": "My boyfriend and I had excellent service and a great place. We sneaked into the place and they treated us well. I liked the red lights, they give a touch and more intensity to the thing... ☺️",
+        "rating": 5
+      },
+      {
+        "text": "The rooms are good, clean, the colored windows light up the rooms making it look very romantic, the only thing missing is air conditioning in the rooms.\nUpdate: Something expensive for what it offers, rooms without light, air conditioning that does not work, garage door is not automatic, you have to lift it with your hands.",
+        "rating": 2
+      },
+      {
+        "text": "Comfortable place to spend the night. It has bathroom service, cable and a comfortable bed, also with a garage.\nLarge cars do not fit.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Instituto Municipal de Ecología Celaya",
+    "calificacion": 1,
+    "descripcion": "spa, lodging, local_government_office, point_of_interest, establishment",
+    "lat": 20.5239559,
+    "lng": -100.8165169,
+    "reviews": [
+      {
+        "text": "Here is this neighbor who opened a door to the same street where he expressed that he is going to remove a tree and a few plants because they prevent him from accessing his next big business.",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Cartuchos Unión",
+    "calificacion": 4.5,
+    "descripcion": "lodging, store, point_of_interest, establishment",
+    "lat": 20.516216,
+    "lng": -100.8097738,
+    "reviews": [
+      {
+        "text": "Good service, except that like in most of these stores there is a shortage of cartridges",
+        "rating": 3
+      },
+      {
+        "text": "Excellent store to purchase items for sports hunting",
+        "rating": 5
+      },
+      {
+        "text": "Hi, I'm looking for 38 spl bullets without legal permission, can I get them in this store?",
+        "rating": 5
+      },
+      {
+        "text": "Very good !!\nGood service and well stocked store",
+        "rating": 4
+      },
+      {
+        "text": "It has many very good accessories, I recommend them.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel M&M",
+    "calificacion": 3.5,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5174949,
+    "lng": -100.8115359,
+    "reviews": [
+      {
+        "text": "Good",
+        "rating": 5
+      },
+      {
+        "text": "Very hidden and without light on the street but if it is just passing through they will have no theme",
+        "rating": 4
+      },
+      {
+        "text": "There are no towels, there is no television, there is no wifi or hot water, $300 per night, very economical but it has practically nothing.",
+        "rating": 2
+      },
+      {
+        "text": "El personal es bastante amable, siempre que limpian tocan para cerciorarse que esta desocupado, a veces no hay agua caliente pero si le dices a la recepcionista que ocuparas la regadera, ponen eo agua para que este calientita cuando se use, el lugar esta limpio y ademas es un sitio bastante comodo y discreto.",
+        "rating": 4
+      },
+      {
+        "text": "The room is good, only the mattress gives a lot to say, the wires felt like a mattress for life and apart from that they are scary 🥶",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel Allende",
+    "calificacion": 3.4,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5145109,
+    "lng": -100.8140008,
+    "reviews": [
+      {
+        "text": "Clean, large spacious rooms, very quiet, cable, WiFi,i like it, very cheap",
+        "rating": 4
+      },
+      {
+        "text": "Very good expy",
+        "rating": 5
+      },
+      {
+        "text": "Nice",
+        "rating": 5
+      },
+      {
+        "text": "It is economical, the cost for one person in a single room is $295, they do not accept cards and you cannot bill it, it is only for emergencies since it is next to the central office. It has bed pests and, above all, the hygiene of the hotel is questionable. I don't recommend it unless you really have no choice.",
+        "rating": 1
+      },
+      {
+        "text": "Awful! A terrible experience. I really don't understand how they can provide that kind of \"service\". I moved the pillow and cockroaches came out, the bathroom also had cockroaches, the blankets were super old and worn out but the worst thing was that the blankets smelled like urine, I promise you, for a moment I thought it was the bathroom but nooo, it was the blankets, the sheet all full of dirt and hair... A disgusting room. It is urgent that they do something!!!",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel Vergel Celaya",
+    "calificacion": 3.8,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5180493,
+    "lng": -100.8045638,
+    "reviews": [
+      {
+        "text": "Terrible place. I used to stay there, but lately the lady has become rude. She doesn't respect your refunds. I left her a thousand pesos in a deposit, she never returned them to me. Not even a better-class hotel in the area does that to you.\nShe also doesn't respect the weekly buffet schedule.\nTerrible service, it's going from bad to worse.",
+        "rating": 1
+      },
+      {
+        "text": "Excelente servicio! Limpio, cómodo, atención inmejorable, precio justo. Cama cómoda, toallas prácticamente nuevas, almohadas para envidiar. Más que recomendable.",
+        "rating": 5
+      },
+      {
+        "text": "In general, a good hotel to go to rest if you are alone, the hosts are very friendly and accessible, the rooms are small but have what you need to spend the night, especially if you are only going to sleep, a plus point is that it has a dining room and you do not have to leave the hotel to look for breakfast or food, in general good to spend the night.",
+        "rating": 4
+      },
+      {
+        "text": "It is a terrible service, I made a reservation and arrived at the agreed time and they left us waiting for more than an hour and they never arrived. There is no one at the reception on weekends and you can't come and go if you need something.",
+        "rating": 1
+      },
+      {
+        "text": "Terrible attention, the \"employee\" is very arrogant, disastrous and answers you in a very curt manner, he does not give good prices for the rooms, they do not respect the reservations and sheets full of blood, what a mess I will never vacation in that fifth class hotel again.",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel Celaya",
+    "calificacion": 3.5,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5132755,
+    "lng": -100.8163076,
+    "reviews": [
+      {
+        "text": "Not recomendable, ditty,smelly, it's cheap, and should be, not a nice place",
+        "rating": 2
+      },
+      {
+        "text": "Cute",
+        "rating": 3
+      },
+      {
+        "text": "It is very cheap, I think it is ideal only for a while, but it is still not the best option.\nIn my case I was there two nights but I had the unpleasant experience of encountering cockroaches twice, there are no towels, there is no hot water, the rooms are very small and smell bad.\nThe people at the reception are not very friendly, except for a guy who helped us open the bathroom door and was very good-natured.",
+        "rating": 1
+      },
+      {
+        "text": "It is good in case you have an emergency to find a hotel, comfortable to spend the night, the internet is not the best, it does not have good speed, but I must admit that it has everything basic to be comfortable. Excellent service from the employees, if I find myself in trouble again, I would go again.",
+        "rating": 4
+      },
+      {
+        "text": "Centrally located, clean and cheap, it is well located in the center, you can easily go out for a walk and explore all the places, the food anywhere is delicious but the basket tacos that are in the center are delicious, appropriate if you don't have a lot of money and come looking for opportunities.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "My Home Suites",
+    "calificacion": 4.5,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5195526,
+    "lng": -100.7980424,
+    "reviews": [
+      {
+        "text": "Nice clean room... friendly staff. Good rooftop area with gym activities and jacuzzi. A lot for your money.",
+        "rating": 5
+      },
+      {
+        "text": "Super",
+        "rating": 5
+      },
+      {
+        "text": "The place is well located and has parking, it is a small place, a larger advertisement is needed because it is not visible to the naked eye.\nWe were on the first floor, we had rooms 102 and 105, in 102 very small, a cricket came out of the bed, there was not enough ventilation and an unpleasant smell came out of the bathroom, even though at first glance it seemed clean, the smell of the pipe was very unpleasant, the coffee cups were almost broken. In room 105, the largest and most well-equipped, it works for long stays. They include a light breakfast (sandwich, fruit, juice or coffee) which is taken on the 3rd floor, that terrace area is pleasant, the elevator did not work.\nFriendly staff.\nI hope they improve some details. If you are going for long stays I recommend the suites and bring coffee or things to prepare, they have the basics such as a coffee maker, pans, glasses, plates.",
+        "rating": 4
+      },
+      {
+        "text": "The truth is that I fell in love with the place, the bed was super comfortable, the pillows were super clean, everything was super clean, the attention was first class, the only thing is that if you go by car it is difficult to get there but due to the distance it is fine and it has parking, I promise to return to that hotel when I come to Celaya.",
+        "rating": 5
+      },
+      {
+        "text": "It has an excellent location and the staff was quite good, the terrace is wonderful! It has many amenities and services, the breakfast was a little bland, but acceptable. I will definitely return.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Real Inn",
+    "calificacion": 4.6,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5181872,
+    "lng": -100.7904732,
+    "reviews": [
+      {
+        "text": "Excellent hotel choice if you are seeking an upscale room, safe location (security onsite, with secured parking). Breakfast was buffet style with ample choices.\n\nThe two areas of dissatisfaction were the hotel service which does not provide ice once the lounge is closed (no ice machine), and the price per night if you book directly with the hotel. [Note: per night price was double what was listed on the online travel sites]",
+        "rating": 4
+      },
+      {
+        "text": "Hotel is very good located in main area n good accessible, well maintained clean n neat. Very good staff supporting n helpful but there is language barrier but it’s ok. They gym n big hall if any conference. Few things hotel Management real look into like small water heater required inside room n some sort of coffee or tea items necessary, if see restaurant point of view not maintained properly no much items in breakfast n if any item over there is no quick action on that so I would request these area some action should taken care… Well hotel is very good I recommend people to come n stay here.",
+        "rating": 4
+      },
+      {
+        "text": "Very good hotel, clean and comfortable, with nice staff and rich breakfast. Just one note, they should improve the quality of pasta dishes!",
+        "rating": 4
+      },
+      {
+        "text": "I was there for five days and the attention was perfect. It is located near the bigest store of celaya and also near of the main park of the city. In general it is a comfortable place.",
+        "rating": 5
+      },
+      {
+        "text": "Spacious and modern, but lacks character as paintwork feels like a hospital. Pure white all over.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "nombre": "venta de casas en arboledas segunda seccion",
+    "calificacion": 3.8,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5143249,
+    "lng": -100.8344709,
+    "reviews": [
+      {
+        "text": "It's a good option",
+        "rating": 4
+      },
+      {
+        "text": "",
+        "rating": 4
+      },
+      {
+        "text": "",
+        "rating": 2
+      },
+      {
+        "text": "",
+        "rating": 3
+      },
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Hyatt Place Celaya",
+    "calificacion": 4.5,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5294401,
+    "lng": -100.7796015,
+    "reviews": [
+      {
+        "text": "Its a little hotel, but with several services like a small pool, gym and restaurant. Wifi and clean confortable beds, not at downtown but not far cause in 15min you're there. At night there's no other sound than the train crossing but nothing annoying. The bathroom its clean and have bathtub. During winter the bed blanket isn't warm enough and the bed size for two people is small. The room have several items like coffe maker, alarm and a small fridge, but carpet floor it have some dust",
+        "rating": 4
+      },
+      {
+        "text": "Nice clean rooms, easy to get to.  Friendly staff who speak several languages.  Best complimentary breakfast I have seen, including local dishes.",
+        "rating": 5
+      },
+      {
+        "text": "Conveniently situated across a mall with a movie theater (which is visible from the even number rooms), this relatively new hotel is the perfect accommodation for that home-away-from-home feel. Guest services always welcomes me with a friendly attitude, and even remembers me by name despite months standing between each visit. The service is consistently pleasant, and the rooms consistently well-groomed. Each room is equipped with a flat panel tv, stocked with 2 bottles of purified water, coffees and teas, and when you need more, there is a purified water dispenser by the elevator. For those longer term stays, there is a mini fridge, a medium size safe in the closet for valuables, and an option for a sofa bed, if you are spoiled like me and spend a lot of time in the room, since I have a driver that takes me to my meetings, meals, and wherever else I care to venture. That said, while there are stores and restaurants nearby, I can't speak to the safety of the area, because I have never wandered alone. Recently they have upgragded their toiletries to Yukatan Herbal, which doesn't leave your hair and skin so dry that it looks like you bathed in sand storm in the Sahara. I didn't even use my own toiletries this time, that I always carry with me to hotels. Complimentary breakfast is delicious, with an assortment of pastries, fresh fruits, fresh squeezed juices, and a made to order omlet stand (yes, with real, fresh cracked eggs, not the imitation, plastic/Styrofoam feeling fluff). It really puts American continental breakfast to shame. This is my go to place for every visit I make to Celaya.",
+        "rating": 5
+      },
+      {
+        "text": "This Hotel is amazing. Its one of the newer hotels and its amazing. Everything is clean, the service is great and they have everything you may need during your stay.",
+        "rating": 5
+      },
+      {
+        "text": "Nice place and very comfortable, the only thing is that there is no room service so if you want to eat at room you have to take it from the restaurant yourself",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Holiday Inn Express & Suites Celaya by IHG",
+    "calificacion": 4.6,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.51687429999999,
+    "lng": -100.7792214,
+    "reviews": [
+      {
+        "text": "The Holiday Inn Celaya Mexico is located inside a commercial zone within a fenced area. A few restaurants are placed inside as well as different stores and a building that I was told has offices inside\nAfter a workday I decided to have dinner in one of those restaurants closed to the Hotel that I could walk to and after dinner decided to have a walk inside to commercial zone.\nAs I was walking in the commercial area and walk in front of the 2nd building (with offices) I noticed there was a person staring at me front the lobby. I continue walking in the commercial zone which is probably about 250-meter length and has 2 lanes for cars (one going on each way). As continue walking there was this person that approached me and asked me if he could help me. I answered in which way he could help me? He asked me what I was doing in that place and answer that if there was a problem. He stated that the zone I was walking was a private area, and I should not be walking in the zone. Inside of the commercial area there are a lot of different business and parking lots. I mentioned that the zone I was walking was only in the parking zone, and he stated that was private.\nThis person started acting rude and increasing the level of his voice; he wanted me to go away from that area and do not approach the 2nd building or walk in front of it. He threatened me not to walk next to it or else.\nAt some point I was concern of this guys that he may pulled out a gun on me; fortunately, he did not. I disengage and continue walking.\nI end up my walking and call front desk to explain what happened during that night.\nI also was able to talk to the manager next day in the morning to explain. She did mention that the area I was walking is OK for hotel guests and mentioned she will talk to the responsible\nIf that is a restricted area there should be signs that warns people, also this should have been addressed by the hotel.\nI am concern that more people can go through the same and been threatened by this guy or have worst consequences. Perhaps more people have had this confrontation and have not complain about it.\nI hope the hotel does something about it; I trust they will.",
+        "rating": 3
+      },
+      {
+        "text": "Rooms are dark and somewhat dated. The service is friendly, prompt, and courteous. The location could be better, but the property itself is secure and clean.",
+        "rating": 4
+      },
+      {
+        "text": "I stayed at Holiday Inn Express and Suites Celaya four months ago for a one-week business trip. The breakfast and the free evening bar and snacks were amazing. The staff was attentive and friendly, and the amenities were convenient for business travelers. Highly recommended!",
+        "rating": 5
+      },
+      {
+        "text": "Pretty  decent hotel and a decent price ,specifically on the weekends\nBreakfast is just ok",
+        "rating": 4
+      },
+      {
+        "text": "The front desk was awesome Adrian he was very helpful however the cleaning crew not so much. If you plan to stay more than 1 night I would recommend that if you accidentally take off and remember that you left a valuable out don’t trust that it will be there. Our mistake was trusting that it would be there. We got back and the beds were made but that was about it that was done. We put all our stuff in the closet that we didn’t want touched with the exception of the digital watch that was left on the bed to put on on our way out but forgot. The manager insinuated that we lost it and blamed it on the staff bc she stated they get checked on the way out. The manager also confirmed they are not responsible for any items left outside the safety box in your room. However a smart watch can always be hidden in private area that are not check. With a pat down it would be unnoticed. This would not be a place I would stay again for my travels. I normally stay at the doubletree by Hilton down the street but decided to change it up and definitely regret it. We even checkout early and requested no room cleaning because of this issue.",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Hampton Inn by Hilton Celaya",
+    "calificacion": 4.6,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5251753,
+    "lng": -100.7773182,
+    "reviews": [
+      {
+        "text": "our entire rodeo group that was in town for a long weekend stayed here and we had a wonderful experience. The staff was very kind and helpful, the facilities were super clean and the breakfast and bar well stocked. I want to thank the staff for all their help and flexibility with our group of 10+ rooms.",
+        "rating": 5
+      },
+      {
+        "text": "When in Celaya, this is a great hotel, rooms are spacious a with very comfortable beds and nice AC. Bathrooms are large as well, rooms have fridge and they point to a nice view from window and parking is largely available. Breakfast is good with plenty of seating area. I like this hotel, inexpensive and close to shopping mall Galerías Celaya",
+        "rating": 5
+      },
+      {
+        "text": "Had a great stay, very clean and comfortable room. Excellent location for my trip. Had a good time.",
+        "rating": 5
+      },
+      {
+        "text": "This hotel is up to standard Hampton In standards.  The staff are really nice and friendly and the rooms are clean, roomy and comfortable.  The bed was very comfortable with a wonderfully comfortable comforter.  The air/heating (we needed both on different days) was very effective and wonderfully quiet.  The room was also very quiet and the only small let down was the fact that there is no hairdryer or facecloths.\nThe breakfast was really good with a good assortment of both hot and cold foods, coffees and fresh juices - the staff in the breakfast room were also very friendly and eager to please.\nDefinitely a place that we want to come back to one day.",
+        "rating": 5
+      },
+      {
+        "text": "Good quality hotel. Super friendly staff and clean rooms. Good WiFi, secure parking and nice - albeit simple - food options. Not much around at walking distance so not exactly a tourist destination…",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Candlewood Suites Celaya by IHG",
+    "calificacion": 4.6,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5236586,
+    "lng": -100.7770217,
+    "reviews": [
+      {
+        "text": "Room Service is not Good, But hotel is very good and Reception Staff are very helpful.",
+        "rating": 4
+      },
+      {
+        "text": "Very clean and nice hotel and excellent price. Large rooms equipped with kitchen and comfortable bed. Not many walkable restaurants around but the city is not very walkable anyways. Would recommend to stay!",
+        "rating": 4
+      },
+      {
+        "text": "The suites are comfortable and have all the necessary issues to have an excellent stay. They have a little kitchen, refrigerator, dishwasher machine. An excellent WiFi and comfortable beds, like stepping on clouds. I recommend it!",
+        "rating": 5
+      },
+      {
+        "text": "Super clean hotel, comfortable beds, the pool is heated, great customer service, they have free washer and dryers for your use, will stay here if coming back!",
+        "rating": 5
+      },
+      {
+        "text": "Confort and  spacious, the only thing i did not like is that the hotel claims to be pet frendly, but what they did not tell you is that you have to pay a fee which is almos the cost of the full room to bring your pet.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "nombre": "Casa Inn Celaya Galerías",
+    "calificacion": 4.5,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.533243,
+    "lng": -100.778289,
+    "reviews": [
+      {
+        "text": "Great value for money. The room was clean and comfortable with a couch to watch TV. The shower is nice with tub available for q bath. There is an in door pool with warm water which is quite nice to relax Small Gym available Breakfast ok just an essential breakfast with the basics. Mall outside The hotel gives you a card on the way out so you don't have to pay parking",
+        "rating": 5
+      },
+      {
+        "text": "One thing,  Celaya, gto has very few things to do,  so probably you would be there in business trip or visiting somebody.  Because of that several hotels are located in the industrial  zone, but this one is in the parking lot of a mall 'galerías celaya' with a theater in location and other attractive features including restaurants. Making the location of this hotel really good.\nThe hotel is contemporary,  the rooms are spacious and clean,  the only down in my visit is that the TV quality was very bad.\nThe breakfast is included and there is a happy hour at the bar worth courtesy drinks.\nAnd they have the number for several  delivery services that will bring you any type  of food to your room.\n\nI would recommend this hotel if you plan to visit this city.",
+        "rating": 4
+      },
+      {
+        "text": "Arriving to the hotel, I could feel the fresh ambient that there are, the personal treated me pretty well, they made me feel like at home. The room was very comfortable I slept as a baby, for real.",
+        "rating": 5
+      },
+      {
+        "text": "Its a good clean hotel, pretty secure since its next to the mall it is gated all around, good breakfast and friendly staff 👍",
+        "rating": 5
+      },
+      {
+        "text": "Casa Inn Celaya is a beautiful hotel with a convenient location as it's situated in Plaza Galerías ( Liverpool, Cinepolis, Bars and restaurants) also the service is great and staff is friendly.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Capital O Hotel Casa Blanca",
+    "calificacion": 3.9,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5173137,
+    "lng": -100.8127538,
+    "reviews": [
+      {
+        "text": "Scariest and dirtiest motel/hotel if you can call it this... one look at the rooms and returned key and drove away...",
+        "rating": 1
+      },
+      {
+        "text": "Hotel is great to rest in celaya, Guanajuato.",
+        "rating": 4
+      },
+      {
+        "text": "Ok",
+        "rating": 4
+      },
+      {
+        "text": "COOL",
+        "rating": 5
+      },
+      {
+        "text": "Perron",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Casa Signé",
+    "calificacion": "Sin calificación",
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5224726,
+    "lng": -100.8073445,
+    "reviews": []
+  },
+  {
+    "nombre": "Heritage Home",
+    "calificacion": "Sin calificación",
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5293882,
+    "lng": -100.8081982,
+    "reviews": []
+  },
+  {
+    "nombre": "Bienvenido a Piaba",
+    "calificacion": "Sin calificación",
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5225547,
+    "lng": -100.8253285,
+    "reviews": []
+  },
+  {
+    "nombre": "Hotel Bajío Inn",
+    "calificacion": 4,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.51986339999999,
+    "lng": -100.811027,
+    "reviews": [
+      {
+        "text": "Its a place very nice",
+        "rating": 5
+      },
+      {
+        "text": "Very good hotel",
+        "rating": 4
+      },
+      {
+        "text": "Las instalaciones son muy viejas al igual que el mobiliario. Una silla se rompió y casi se cae. Aparte que en algunos pilares tienen espejos adheridos pero en su mayoría rotos. Eso es un gran peligro si se visita con niños.",
+        "rating": 3
+      },
+      {
+        "text": "The Hotel Bajío INN located in the center of Celaya, one of my best experiences. Service, friendliness, comfort and good price. I have stayed in several hotels in the center of Celaya and this is the best and greatest, with parking and its own restaurant. CONGRATULATIONS!!!",
+        "rating": 5
+      },
+      {
+        "text": "It is somewhat comfortable, the building is a little old, without light contacts for various devices, I had to buy a contact adapter for 3 pins.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel San Francisco",
+    "calificacion": 3.9,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5209094,
+    "lng": -100.8057789,
+    "reviews": [
+      {
+        "text": "It's perfect for sleep, there's nothing to do in the hotel",
+        "rating": 4
+      },
+      {
+        "text": "It's cool to getting rest",
+        "rating": 4
+      },
+      {
+        "text": "Ok",
+        "rating": 4
+      },
+      {
+        "text": "The beds are a little hard and to say that they give pillows is a lot. A sweater serves as a better pillow than what they give",
+        "rating": 4
+      },
+      {
+        "text": "There is no hot water, if anything lukewarm, and the room I was in could hear a water pump all the time and all night.\nI don't recommend it very much",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel El Diplomatico Del Bajío",
+    "calificacion": 3.7,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5121779,
+    "lng": -100.8029888,
+    "reviews": [
+      {
+        "text": "For the price it suprisly spacious, clean, and comfortable. Staff is discreet, helpful,and extremely attentive. Its a gem hidden in a jungle.",
+        "rating": 5
+      },
+      {
+        "text": "It's a hotel and it's diplomatic.",
+        "rating": 3
+      },
+      {
+        "text": "Ok",
+        "rating": 3
+      },
+      {
+        "text": "ok",
+        "rating": 5
+      },
+      {
+        "text": "I had an unpleasant experience with the morning lady. Since I paid for the whole day. And for not checking my ticket, she put me on half a day. When I went out to eat and came back I couldn't enter until I paid again. In addition to the fact that the service is very bad, despotic and also abusive.",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel & Suites Ejecutivas Sta. Lucía",
+    "calificacion": 4.3,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5213866,
+    "lng": -100.8035943,
+    "reviews": [
+      {
+        "text": "Quiet, clean, decently priced.",
+        "rating": 5
+      },
+      {
+        "text": "OK",
+        "rating": 5
+      },
+      {
+        "text": "It's a nice place, it's comfortable, although a little austere or perhaps rustic. If you're very sensitive to noise, you might have trouble sleeping or be woken up by noises very early, around 5 a.m. This depends on the room you get. I was assigned a room next to reception, and that's a bad idea.",
+        "rating": 3
+      },
+      {
+        "text": "Les recomiendo este lugar, por trabajo venimos a dar aquí y la atención está de 10, tiene estacionamiento amplio, y si deseas volver reserva antes de tiempo ya que la comodidad y seguridad del establecimiento, lo vale.\nCuenta con frigobar, horno de microondas y aire acondicionado y agua (por el calor).\n\nNo lo piensen, regresaré 🤗",
+        "rating": 5
+      },
+      {
+        "text": "Rooms are always clean, good size, the internet works perfectly, some rooms have a microwave oven and minibar. Disadvantages are the walls, closets and shower are outdated, but the functionality is fine, for only 380 pesos!!!",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel Soleil Business Class Celaya",
+    "calificacion": 4.3,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5165474,
+    "lng": -100.7864646,
+    "reviews": [
+      {
+        "text": "Excellent service, excellent room and really great food. Definitely coming back again.\nReception is open 24/7, check in any time and check out at 13:00. Perfect for couples. Safe and clean.",
+        "rating": 5
+      },
+      {
+        "text": "The event was very close to the hotel, so, the location is ok, the rooms are very comfortable but I didn't had the oportunity to meet the service, don't have room service and the wifi is inestable",
+        "rating": 4
+      },
+      {
+        "text": "On the night you can hear shootings police against drug cartels few blocks away. Restaurant ok good prices, front desk no good attention.",
+        "rating": 3
+      },
+      {
+        "text": "Excelent hotel. I've paid 4 times the cost for this kind of hotels. Recommended",
+        "rating": 5
+      },
+      {
+        "text": "Good placer to  take a rest, with a very good hot breakfast!!!!!",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "La Ciudad De Las Mascotas S.A. De C.V.",
+    "calificacion": 2.8,
+    "descripcion": "veterinary_care, doctor, lodging, food, store, health, point_of_interest, establishment",
+    "lat": 20.5363864,
+    "lng": -100.8233681,
+    "reviews": [
+      {
+        "text": "I would give it zero, but one is the minimum. They only want to make money, they charge you a lot for explaining nothing, they try to diagnose your pet with something that benefits them, so they can charge you for study after study and in the end end up killing your pet with the studies. For a quarter of the consultation they can go to better veterinarians",
+        "rating": 1
+      },
+      {
+        "text": "If your pet is in serious or very delicate condition, never go to this place. My dog ​​became very ill and sadly passed away a few days ago. When my mom brought her there, the woman who treated her was very rude and arrogant, telling her there was no doctor without letting her give any explanation as to what was really happening. If that scumbag who responded like that had done something about it, maybe my dog ​​would still be in this state. So, if you read this review and love your pets as much as I loved my dog, never take them to this mediocre and terrible place. If I could, I wouldn't give it any stars.",
+        "rating": 1
+      },
+      {
+        "text": "It's a shame you can't give 0 stars. Don't go there. They just take advantage of people by charging more than they should.",
+        "rating": 1
+      },
+      {
+        "text": "Terrible place, they misdiagnosed my pet and he died, they made me waste valuable time to save him, it was so simple that it was to do a distemper test to clear up any doubts but instead the person who checked it applied the \"sight-eye test\" and just by looking at it he said that there was nothing infectious and he invented that it was a malfunction of the heart, they only want to get money, DO NOT BRING YOUR PETS HERE",
+        "rating": 1
+      },
+      {
+        "text": "This place does not teach animals at all, they only care about getting money, in more than two weeks they could not help my brother-in-law's dog, he was hospitalized with them for two weeks in which the dog only got worse, and my brother-in-law paid more of $12,000, when he took him out of the care of these deplorable veterinarians he was in bones and they could never tell him what he had even though he had hundreds of studies, thanks to good advice I took him to a real veterinarian with real experience I saved him In 4 days and less than a quarter of the entire price that this place charged him, from the first appointment he injected it 3 times a day, I recommend the veterinarian Dante from Juventino Rosas, he gives you an accurate diagnosis, and really helps , he has helped more than 15 dogs on our property since my mother helps street dogs. It is really worth traveling to be able to really help our pets and not just run into people who take advantage of the love one has for pets.",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel Guadalupe",
+    "calificacion": 2,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5155359,
+    "lng": -100.7906431,
+    "reviews": [
+      {
+        "text": "More or less",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel JM Ejecutivo Celaya, Centro Histórico",
+    "calificacion": 3.8,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5014579,
+    "lng": -100.8126192,
+    "reviews": [
+      {
+        "text": "It's alright but the internet doesn't work with Apple 😤",
+        "rating": 3
+      },
+      {
+        "text": "Good place and clean",
+        "rating": 4
+      },
+      {
+        "text": "Service is very bad",
+        "rating": 4
+      },
+      {
+        "text": "A good placer",
+        "rating": 4
+      },
+      {
+        "text": "Good service",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel IX",
+    "calificacion": 3.1,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5306424,
+    "lng": -100.8150573,
+    "reviews": [
+      {
+        "text": "Mmmmmm",
+        "rating": 1
+      },
+      {
+        "text": "Es una opción económica que cumple con lo necesario, tiene los servicios básicos más internet que no es muy bueno, el precio es accesible y puede ser una opcion",
+        "rating": 3
+      },
+      {
+        "text": "It is in poor condition, the mattresses are old, the bathrooms are unusable,",
+        "rating": 1
+      },
+      {
+        "text": "Rate according to price!\nDon't suck! They charge $300 pesos for the entire night, king size bed, wifi, hot water, private parking; and they still wear their bows with a little star for that amount?\nThey don't even know how to evaluate...\nIf they offered you a service that they don't provide, and if they charged you for it, then yes! But it is not like that.",
+        "rating": 4
+      },
+      {
+        "text": "Bad... Ugly and uncomfortable if you want to stay... I guess you're going for a bit of pleasure, it's an economical option that meets what's necessary, but other than that... I wouldn't recommend it as a lodging option unless you're looking for a sex service.",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel Paseo Guadalupe",
+    "calificacion": 4.1,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5239265,
+    "lng": -100.8117461,
+    "reviews": [
+      {
+        "text": "Gave themselfs a 5 star rating... :-/",
+        "rating": 1
+      },
+      {
+        "text": "Hotel Estancia Paseo Guadalupe, hotel familiar que te recibe con los brazos abiertos para hacer de tu visita a esta hermosa ciudad de Celaya, una experiencia única, pero sobre todo, hace que te sientas como en casa.\nEsta situado en el corazón de Celaya a media cuadra de la Catedral, lo que es favorable para los huéspedes, ya que cuentan con la cercanía a los lugares mas emblemáticos de esta ciudad, como la famosa bola del agua, la columna  a la Independencia, la Casa de la Cultura,la Casa del Diezmo, El Museo de Celaya Historia Regional, el Museo al Pintor Octavio Ocampo, así como sus recorridos en el Tranvía.",
+        "rating": 5
+      },
+      {
+        "text": "Nice place, cozy, without eccentricities, perfect to spend a couple of days, excellent location, they have parking for the car in the parking lot opposite from 9 pm.",
+        "rating": 5
+      },
+      {
+        "text": "Central, nice and clean, the point to improve would be the internet signal",
+        "rating": 5
+      },
+      {
+        "text": "No respetan las tarifas que tienen, bajo la excusa de que están desactualizadas",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Tienda 1",
+    "calificacion": "Sin calificación",
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5227956,
+    "lng": -100.813801,
+    "reviews": []
+  },
+  {
+    "nombre": "Tienda 2",
+    "calificacion": "Sin calificación",
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5233627,
+    "lng": -100.8153404,
+    "reviews": []
+  },
+  {
+    "nombre": "Nidito De Amor Del Cuñao Y El Churtu",
+    "calificacion": "Sin calificación",
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5233755,
+    "lng": -100.8154945,
+    "reviews": []
+  },
+  {
+    "nombre": "Hostal celaya zona centro Alameda",
+    "calificacion": 5,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5261921,
+    "lng": -100.8115687,
+    "reviews": [
+      {
+        "text": "",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel Pamplona",
+    "calificacion": "Sin calificación",
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5208551,
+    "lng": -100.81379,
+    "reviews": []
+  },
+  {
+    "nombre": "Estacionamiento Juarez",
+    "calificacion": 3.4,
+    "descripcion": "parking, lodging, point_of_interest, establishment",
+    "lat": 20.5248541,
+    "lng": -100.8153528,
+    "reviews": [
+      {
+        "text": "It is very close to the center of Celaya, it has easy access and maneuvering within the parking lot is easy thanks to the size of the place.",
+        "rating": 5
+      },
+      {
+        "text": "Terrible car wash service. As for parking, there is no problem, but if they offer to wash your car, it is not recommended.",
+        "rating": 1
+      },
+      {
+        "text": "Personally, I think it's very safe, and it's also very close to the center.",
+        "rating": 4
+      },
+      {
+        "text": "It's not 24 hours as it says in this description!",
+        "rating": 1
+      },
+      {
+        "text": "They charge full hours!",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel La Gavia",
+    "calificacion": 3.5,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5204621,
+    "lng": -100.8106582,
+    "reviews": [
+      {
+        "text": ".s",
+        "rating": 5
+      },
+      {
+        "text": "It is an ordinary, quiet place a little expensive for what they offer",
+        "rating": 3
+      },
+      {
+        "text": "Nice place, it is an economical hotel for those who have few resources, but clean and with everything necessary so the clowns and so-called demanding people don't even stop here!",
+        "rating": 3
+      },
+      {
+        "text": "The truth is that it is a hotel that does not have much hot water, you have to ask for the services, such as towels for the bathroom that are not provided, the Internet is very bad and is still in the stone age, they do not have screens and the programming is very bad. I would give it one star.",
+        "rating": 1
+      },
+      {
+        "text": "The modest but economical hotel. If you want to rest, ask for the rooms at the back 7, 11, they are larger and with less noise",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "Hotel Mineral de Pozos",
+    "calificacion": 5,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5246349,
+    "lng": -100.8162245,
+    "reviews": [
+      {
+        "text": "For the first time in so many times that I have been there, I felt warm, usually it is cool and cold but it is magical, just thinking that it was once a mining town in all its splendor!!! And seeing the buildings in ruins is wonderful!!",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Estacionamiento H",
+    "calificacion": 4.4,
+    "descripcion": "parking, lodging, point_of_interest, establishment",
+    "lat": 20.52377,
+    "lng": -100.8166179,
+    "reviews": [
+      {
+        "text": "It is almost always available for parking, it is a little expensive (20 per hour or fraction of it) and one of those who are there has a very bad attitude. Other than that, all good.",
+        "rating": 2
+      },
+      {
+        "text": "Excellent place and attention, the price is well in line with the other parking lots in Celaya",
+        "rating": 5
+      },
+      {
+        "text": "Very safe",
+        "rating": 5
+      },
+      {
+        "text": "Good parking",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "nombre": "B A J I O C E N T R O",
+    "calificacion": "Sin calificación",
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5214702,
+    "lng": -100.8161878,
+    "reviews": []
+  },
+  {
+    "nombre": "SHICelaya",
+    "calificacion": "Sin calificación",
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5226605,
+    "lng": -100.8078649,
+    "reviews": []
+  },
+  {
+    "nombre": "Conjunto Habitacional El Molino",
+    "calificacion": "Sin calificación",
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5189405,
+    "lng": -100.8124433,
+    "reviews": []
+  },
+  {
+    "nombre": "Serró del cuvilete",
+    "calificacion": "Sin calificación",
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5279612,
+    "lng": -100.8112885,
+    "reviews": []
+  },
+  {
+    "nombre": "La Barca jalisco",
+    "calificacion": "Sin calificación",
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5279612,
+    "lng": -100.8112885,
+    "reviews": []
+  },
+  {
+    "nombre": "La piedra angular del crecimiento",
+    "calificacion": "Sin calificación",
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5279612,
+    "lng": -100.8112885,
+    "reviews": []
+  },
+  {
+    "nombre": "Hotel Hamtom",
+    "calificacion": 5,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5279612,
+    "lng": -100.8112885,
+    "reviews": [
+      {
+        "text": "The hotel seems a little serious to me, it needs a little more fun for the guests, perhaps a pool, a casino, a villa, etc.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "nombre": "Amueblados Casa Blanca",
+    "calificacion": "Sin calificación",
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.5215177,
+    "lng": -100.8076552,
+    "reviews": []
+  },
+  {
+    "nombre": "Hotel Don Marce",
+    "calificacion": 3.7,
+    "descripcion": "lodging, point_of_interest, establishment",
+    "lat": 20.51844269999999,
+    "lng": -100.811073,
+    "reviews": [
+      {
+        "text": "",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 5
+      },
+      {
+        "text": "",
+        "rating": 1
+      }
+    ]
+  }
+]
